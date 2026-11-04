@@ -37,7 +37,7 @@ Every county adopts a written charter specifying:
 
 ### Section 4: County Boundaries
 
-County boundaries may be adjusted by mutual consent of affected county commissions + majority referendum in each affected county. New counties may be formed by petition of 10% of residents in a contiguous area + majority referendum. Counties may secede from a state by 60% referendum + consent of the receiving state's Council of Counties.
+County boundaries may be adjusted by mutual consent of affected county commissions + majority referendum in each affected county. **A county may split into multiple counties by petition of 10% of residents in each proposed new county + majority referendum in each proposed new county; the original county commission must consent, and the split requires a transition plan for assets, liabilities, personnel, and mutuals approved by the State Council.** New counties may be formed by petition of 10% of residents in a contiguous area + majority referendum. Counties may secede from a state by 60% referendum + consent of the receiving state's Council of Counties.
 
 ### Section 5: Corporate Personhood Revoked
 

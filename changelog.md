@@ -706,6 +706,31 @@ Four change-set counters were stale relative to this change set. Corrected to "1
 
 ---
 
+## Change Set 12 — Critical-Path Work Plan (Documentation Only)
+
+**Status**: `APPLIED` — 2026-11-04.
+**Trigger**: Session close-out. The design is complete; validation is not. The three open `CRITICAL` issues were scoped into a runnable work plan so the next session starts with a method rather than a list.
+
+### Added
+
+| File               | Change                                                                                                                                                                                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `critical-path.md` | New file. Work-up of OI-14, OI-27, OI-28: what the corpus claims, what is unproven, test design, data, pass/fail thresholds, candidate findings, and design levers. Includes sequencing (OI-27 → OI-14 → OI-28) and a definition of done for the validation phase. |
+
+### Cross-reference edits
+
+- `README.md` — added `critical-path.md` to Start Here and the Meta reading list.
+- `HANDOFF.md` — added a START HERE banner; §6 now points to `critical-path.md`; file map updated.
+- `open-issues.md` — companion-files line and §I status summary now point to `critical-path.md` and state the run order.
+
+### Notes
+
+- **No design change.** No constitutional text, mechanism, or number was altered. This set records documentation only.
+- **No issue status changed.** OI-14, OI-27, and OI-28 remain `OPEN`. Nothing in `critical-path.md` is a result.
+- **Candidate findings are unverified.** `critical-path.md` §1.5, §2.5, §3.5 list observations made while verifying the current text (e.g. the Trust-note coupon arithmetic, the Stand-Up circularity). They are flagged for verification, not adopted.
+
+---
+
 ## Optional Add-Ons (not in the core set)
 
 These are real levers for state authority, but each is either larger than "slight" or cuts against a load-bearing county protection. Listed so the decision is explicit.
@@ -725,7 +750,7 @@ These are real levers for state authority, but each is either larger than "sligh
 
 ## Appendix — Anchor Index
 
-Durable anchors for the edits above. Section headings are the durable anchors; line numbers are from the original drafting and have drifted after Change Sets 1–11. Use the headings, not the numbers.
+Durable anchors for the edits above. Section headings are the durable anchors; line numbers are from the original drafting and have drifted after Change Sets 1–12. Use the headings, not the numbers.
 
 | File                   | Section                                  | Original line (pre-edit) |
 | ---------------------- | ---------------------------------------- | ------------------------ |

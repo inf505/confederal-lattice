@@ -49,6 +49,7 @@ The guiding logic:
 - **If you want the money:** `public-finance.md`.
 - **If you want the transition:** `domestic-policy.md` §1 + `debt-obligations.md` + `asset-transfer.md` + `personnel-transition.md`.
 - **If you want what's still unproven:** `open-issues.md`.
+- **If you want to start validating:** `critical-path.md` — the three open CRITICAL items, scoped as runnable tests.
 - **If you want what changed and why:** `changelog.md`.
 
 ---
@@ -95,8 +96,10 @@ The guiding logic:
 
 ### Meta
 
-18. **`changelog.md`** — Change log: what changed, when, and why (Change Sets 1–11).
+18. **`changelog.md`** — Change log: what changed, when, and why (Change Sets 1–12).
 19. **`open-issues.md`** — Stress-test queue (what is still unproven).
+20. **`critical-path.md`** — Validation work plan: OI-14, OI-27, OI-28 scoped with method, data, pass/fail, and design levers.
+21. **`corruption-analysis.md`** — Where corruption could take hold, and the friction at each layer.
 
 ### Subsystem ID Registry
 

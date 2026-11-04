@@ -1,8 +1,8 @@
 # Open Issues — County-Confederal System
 
-**Purpose**: The stress-test queue after Change Sets 1–11. Each entry is a problem the corpus does not yet resolve, with a severity, the level that owns it, and a concrete test that would validate or falsify the design.
+**Purpose**: The stress-test queue after Change Sets 1–12. Each entry is a problem the corpus does not yet resolve, with a severity, the level that owns it, and a concrete test that would validate or falsify the design.
 
-**Companion files**: `changelog.md` (what changed — Change Sets 1–11). The subsystem ID registry lives in `README.md` (Meta). This file tracks what is still _unproven_.
+**Companion files**: `changelog.md` (what changed — Change Sets 1–12); `critical-path.md` (validation work plan for the three open `CRITICAL` items — OI-14, OI-27, OI-28). The subsystem ID registry lives in `README.md` (Meta). This file tracks what is still _unproven_.
 
 **Status**: `OPEN` = unresolved; `MITIGATED` = a partial mechanism exists but is not stress-tested; `DEFERRED` = intentionally left open; `RESOLVED` = closed by an edit or a test result.
 
@@ -147,7 +147,7 @@ Run these in order. Each should produce a written result and, if needed, a new c
 
 **Status mix**: 2 `MITIGATED` (OI-03, OI-46) · 30 `OPEN` · 6 `DEFERRED` · 8 `RESOLVED` (OI-01, OI-02, OI-04, OI-05, OI-09, OI-24, OI-30, OI-40).
 
-**The design is complete as a design. It is not yet validated as a system.** The critical path is OI-14 (county capacity), OI-27 (debt math), and OI-28 (transition feasibility).
+**The design is complete as a design. It is not yet validated as a system.** The critical path is OI-14 (county capacity), OI-27 (debt math), and OI-28 (transition feasibility) — scoped as runnable tests in `critical-path.md`. Run them in the order OI-27 → OI-14 → OI-28.
 
 ---
 
