@@ -1,6 +1,6 @@
 # Constitution of the County Confederation
 
-**Preamble**: We, the people of the several counties, in order to secure liberty, preserve peace, and coordinate defense, do establish this Confederation. All powers not expressly delegated herein are reserved to the counties and their people.
+**Preamble**: The sovereign counties, by their people, establish this Confederation to secure liberty, preserve peace, coordinate defense, and guarantee the right of exit. All powers not expressly delegated herein are reserved to the counties and their people.
 
 ---
 
