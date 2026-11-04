@@ -1,6 +1,6 @@
 # The County-Confederal System — Master Index
 
-A complete design for dismantling the U.S. federal state and replacing it with a county-based confederation. Written as a thought experiment: one dictatorial act, then vanish.
+A complete design for dismantling the U.S. federal state and replacing it with a county-based confederation. Enacted by a single dictatorial decree; the designer then vanishes — no successor, no center.
 
 **Design version**: v1.1 (2026-11-03, through Change Set 11) — full history in `changelog.md`. Design freeze lifted; open for design changes (see `open-issues.md` for tracked work).
 
