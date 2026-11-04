@@ -1,4 +1,4 @@
-# Agorist / Localist Solutions for Each Taboo Item
+# Decentralist / Localist Solutions for Each Taboo Item
 
 **Premise**: You hold dictatorial power _once_. You use it to dismantle central choke points, then vanish. Goal: push authority to the county/municipal level, enable parallel structures, make exit viable.
 

@@ -12,7 +12,7 @@
 
 A complete design for dismantling the U.S. federal state and replacing it with a county-based confederation. Written as a thought experiment: one dictatorial act, then vanish.
 
-It began as 22 "taboo" items that neither major party will touch (`agorist-solutions.md`) and grew into a 20-file constitutional architecture plus one analysis file.
+It began as 22 "taboo" items that neither major party will touch (`solutions.md`) and grew into a 20-file constitutional architecture plus one analysis file.
 
 **Core principles**: subsidiarity, exit over voice, voluntary coordination, no permanent center.
 
@@ -206,7 +206,7 @@ OI-39, OI-41, OI-42, OI-43, OI-44, OI-45
 | PER-01        | `personnel-transition.md`                                    |
 | OPS-01        | `civic-operations.md`                                        |
 | —             | `public-finance.md` (money, taxation, pensions, term limits) |
-| —             | `agorist-solutions.md` (the 22 taboos + solutions)           |
+| —             | `solutions.md` (the 22 taboos + solutions)                   |
 | —             | `federal-remnant.md` (224 people)                            |
 
 ---

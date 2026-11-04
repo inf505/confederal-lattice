@@ -8,9 +8,9 @@ A complete design for dismantling the U.S. federal state and replacing it with a
 
 ## What This Is
 
-The starting point is `agorist-solutions.md`: 22 structural features of American politics that **neither major party will run on or seriously discuss** — the dollar's reserve role, the Fed, the surveillance state, corporate personhood, the prison system, occupational licensing, and so on — each with its county-level solution.
+The starting point is `solutions.md`: 22 structural features of American politics that **neither major party will run on or seriously discuss** — the dollar's reserve role, the Fed, the surveillance state, corporate personhood, the prison system, occupational licensing, and so on — each with its county-level solution.
 
-The design asks: _if a single actor could change any of it, what would a coherent replacement look like?_ The answer is **agorist/localist**: push authority down to the county (the smallest unit with real capacity), keep the state as a thin coordination + minimum-standards layer, and reduce the federal government to a vestigial shell (224 people).
+The design asks: _if a single actor could change any of it, what would a coherent replacement look like?_ The answer is **decentralist/localist**: push authority down to the county (the smallest unit with real capacity), keep the state as a thin coordination + minimum-standards layer, and reduce the federal government to a vestigial shell (224 people).
 
 The guiding logic:
 
@@ -45,7 +45,7 @@ The guiding logic:
 ## Start Here
 
 - **If you read one file:** `constitution.md` — it anchors everything else.
-- **If you want the argument:** `agorist-solutions.md` — the 22 taboos, then the answers.
+- **If you want the argument:** `solutions.md` — the 22 taboos, then the answers.
 - **If you want the money:** `public-finance.md`.
 - **If you want the transition:** `domestic-policy.md` §1 + `debt-obligations.md` + `asset-transfer.md` + `personnel-transition.md`.
 - **If you want what's still unproven:** `open-issues.md`.
@@ -58,7 +58,7 @@ The guiding logic:
 
 ### Part I — The Problem & The Argument
 
-1. **`agorist-solutions.md`** — The 22 taboo items (the problem) and their county-level solutions.
+1. **`solutions.md`** — The 22 taboo items (the problem) and their county-level solutions.
 
 ### Part II — The Foundation
 
@@ -148,17 +148,17 @@ The guiding logic:
 
 ## Key Mechanisms (Cross-Cutting)
 
-| Mechanism                                  | Purpose                                                                                                                    | Where                                                   |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **County veto**                            | Nullify federal acts anytime; state acts within 90 days                                                                    | constitution.md, civil-liberties.md                     |
-| **Sortition**                              | Citizen juries replace regulators, classifiers, auditors                                                                   | all files                                               |
-| **Personal liability**                     | No qualified immunity; officials bond themselves                                                                           | law-enforcement.md, civil-liberties.md                  |
-| **Sunset**                                 | Everything expires in 5 years unless re-authorized                                                                         | public-finance.md, constitution.md                      |
-| **Right of exit**                          | Secession by 60% county referendum                                                                                         | constitution.md Art IV §3                               |
-| **Land value tax**                         | Primary revenue; taxes land, not improvements                                                                              | public-finance.md                                       |
-| **Competitive currency**                   | No legal tender; counties accept any asset                                                                                 | public-finance.md                                       |
-| **Apprenticeship**                         | Credentialing without degree cartels                                                                                       | agorist-solutions.md, healthcare.md, domestic-policy.md |
-| **Rights & standards enforcement compact** | Sheriffs execute Art VI, Art II §2.1, or Art II §6 orders across county lines as a duty of office; the compact coordinates | civil-liberties.md §3.6                                 |
+| Mechanism                                  | Purpose                                                                                                                    | Where                                           |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| **County veto**                            | Nullify federal acts anytime; state acts within 90 days                                                                    | constitution.md, civil-liberties.md             |
+| **Sortition**                              | Citizen juries replace regulators, classifiers, auditors                                                                   | all files                                       |
+| **Personal liability**                     | No qualified immunity; officials bond themselves                                                                           | law-enforcement.md, civil-liberties.md          |
+| **Sunset**                                 | Everything expires in 5 years unless re-authorized                                                                         | public-finance.md, constitution.md              |
+| **Right of exit**                          | Secession by 60% county referendum                                                                                         | constitution.md Art IV §3                       |
+| **Land value tax**                         | Primary revenue; taxes land, not improvements                                                                              | public-finance.md                               |
+| **Competitive currency**                   | No legal tender; counties accept any asset                                                                                 | public-finance.md                               |
+| **Apprenticeship**                         | Credentialing without degree cartels                                                                                       | solutions.md, healthcare.md, domestic-policy.md |
+| **Rights & standards enforcement compact** | Sheriffs execute Art VI, Art II §2.1, or Art II §6 orders across county lines as a duty of office; the compact coordinates | civil-liberties.md §3.6                         |
 
 ---
 
@@ -193,7 +193,7 @@ The guiding logic:
 
 | Term                                    | Meaning                                                                                                                |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Agorism**                             | Libertarian strategy of building voluntary, non-state institutions; here, the localist bias of the design.             |
+| **Decentralism**                        | Strategy of building voluntary, non-state institutions at the local level; here, the county-first bias of the design.  |
 | **County**                              | The sovereign operating unit (all counties). Holds all residual powers.                                                |
 | **Compact**                             | A voluntary, specific, terminable agreement among counties/states (e.g., watershed, grid, rail). Not a new government. |
 | **County veto**                         | Majority of county commissions (>50% of population) can nullify any federal act anytime; state acts within 90 days.    |

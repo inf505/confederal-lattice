@@ -197,14 +197,14 @@ On Decree Day, the Fed is abolished and legal tender laws are repealed. But mill
 
 ## 6. Records & Archives Continuity
 
-| Record Type                                | Disposition                                                                                    |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| **Federal records**                        | Transferred to counties (where created) or state archives. No NARA.                            |
-| **Court records**                          | County clerk (judicial-system.md).                                                             |
-| **Land records**                           | State registry (constitution.md Art II §2).                                                    |
-| **Vital records** (birth, death, marriage) | County clerk.                                                                                  |
-| **Classification system**                  | **Abolished** (agorist-solutions.md Item 6). All records public unless sealed by county judge. |
-| **Digital records**                        | Federated, county-hosted (no central database).                                                |
+| Record Type                                | Disposition                                                                            |
+| ------------------------------------------ | -------------------------------------------------------------------------------------- |
+| **Federal records**                        | Transferred to counties (where created) or state archives. No NARA.                    |
+| **Court records**                          | County clerk (judicial-system.md).                                                     |
+| **Land records**                           | State registry (constitution.md Art II §2).                                            |
+| **Vital records** (birth, death, marriage) | County clerk.                                                                          |
+| **Classification system**                  | **Abolished** (solutions.md Item 6). All records public unless sealed by county judge. |
+| **Digital records**                        | Federated, county-hosted (no central database).                                        |
 
 ---
 

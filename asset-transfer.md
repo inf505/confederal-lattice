@@ -67,7 +67,7 @@
 | **DC federal buildings**     | → DC (if statehood) or sold. Transition Trust proceeds.              |
 | **Regional offices**         | → County (if used for county services) or sold.                      |
 | **Courthouses**              | → County (courts relocate per judicial-system.md).                   |
-| **Post offices**             | → County postal co-op (agorist-solutions.md) or sold.                |
+| **Post offices**             | → County postal co-op (solutions.md) or sold.                        |
 | **VA hospitals**             | → County hospital trust (healthcare.md).                             |
 | **Military bases**           | → County (base conversion) or state guard.                           |
 | **Labs (DOE)**               | → State lab compact (see §5).                                        |

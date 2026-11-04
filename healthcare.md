@@ -279,7 +279,7 @@
 
 ## 10. Workforce & Education (Apprenticeship-Based)
 
-### 10.1 County Health Apprenticeship Charter (agorist-solutions.md #15)
+### 10.1 County Health Apprenticeship Charter (solutions.md #15)
 
 | Role           | Path                                          | Duration | Mutual Role                      |
 | -------------- | --------------------------------------------- | -------- | -------------------------------- |

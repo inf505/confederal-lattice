@@ -102,7 +102,7 @@
 | **K–12**            | County-funded (consumption tax surplus). Parent choice (public, charter, private, homeschool). No federal standards. |
 | **Curriculum**      | County board (elected) + parent override. Rights education mandatory (Art VI).                                       |
 | **Higher ed**       | County-chartered colleges/universities. No federal loans. Endowments taxed unless funding apprenticeships.           |
-| **Apprenticeships** | County-chartered guilds (agorist-solutions.md). Apprenticeship = license.                                            |
+| **Apprenticeships** | County-chartered guilds (solutions.md). Apprenticeship = license.                                                    |
 | **Credentialing**   | County license (universal recognition). No state boards.                                                             |
 | **Research**        | County/university/private. Prize-funded (no NIH).                                                                    |
 
