@@ -151,17 +151,16 @@ If **no adjacent county accepts consolidation** (e.g., isolated county, all neig
 
 #### 6.7 Timeline Summary
 
-| Deadline     | Requirement                                                                                          | Fallback                                                            |
-| ------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| **Month 6**  | Asset Data Room live (asset-transfer.md §1A); counties <1,000 pop must have charter or interim admin | Trust operates directly; State Interim Administrator auto-appointed |
-| **Month 12** | First county charters ratified                                                                       | Interim administrators appointed                                    |
-| **Month 18** | **All counties** have charter or interim admin                                                       | State Interim Administrator auto-appointed                          |
-| **Year 2**   | 2,000+ counties ratified (Constitution permanent)                                                    | Provisional Constitution extends                                    |
-| **Year 2**   | Counties under 2,500 pop without Bi-County Compact consolidated                                      | **Phased consolidation trigger (Year 2)**                           |
-| **Year 3**   | Counties under 5,000 pop, or failing staffing/LVT thresholds, consolidated                           | **Phased consolidation trigger (Year 3)**                           |
-| **Year 4**   | Remaining counties under 5,000 pop, or failing staffing/LVT thresholds, consolidated                 | **Phased consolidation trigger (Year 4)**                           |
-| **Year 5**   | All statutes sunset; charters re-ratified                                                            | Non-compliant counties → receivership                               |
-| **Year 6+**  | Any county failing staffing/LVT for 2 consecutive years                                              | Automatic consolidation trigger                                     |
+| Deadline     | Requirement                                                                                                        | Fallback                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| **Month 6**  | Asset Data Room live (asset-transfer.md §1A); counties <1,000 pop must have charter or interim admin               | Trust operates directly; State Interim Administrator auto-appointed         |
+| **Month 12** | First county charters ratified                                                                                     | Interim administrators appointed                                            |
+| **Month 18** | **All counties** have charter or interim admin                                                                     | State Interim Administrator auto-appointed                                  |
+| **Year 2**   | 2,000+ counties ratified (Constitution permanent); counties under 2,500 pop without Bi-County Compact consolidated | Provisional Constitution extends; **Phased consolidation trigger (Year 2)** |
+| **Year 3**   | Counties under 5,000 pop, or failing staffing/LVT thresholds, consolidated                                         | **Phased consolidation trigger (Year 3)**                                   |
+| **Year 4**   | Remaining counties under 5,000 pop, or failing staffing/LVT thresholds, consolidated                               | **Phased consolidation trigger (Year 4)**                                   |
+| **Year 5**   | All statutes sunset; charters re-ratified                                                                          | Non-compliant counties → receivership                                       |
+| **Year 6+**  | Any county failing staffing/LVT for 2 consecutive years                                                            | Automatic consolidation trigger                                             |
 
 **Design principle**: **No governance vacuum.** Every county has functioning government from Month 6 (if under 1,000 population) or Month 18 (all others), either by its own charter or by interim administration. By Year 3, every county is either self-governing or consolidated. The system tolerates late stand-up but not permanent failure.
 
