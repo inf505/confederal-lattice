@@ -52,16 +52,17 @@
 
 ### 3.2 Funding the Payoff
 
-| Source                 | Est. Value    | Notes                                               |
-| ---------------------- | ------------- | --------------------------------------------------- |
-| **Federal land sales** | ~$2–5T        | BLM/USFS surplus parcels, not parks/wilderness      |
-| **Federal buildings**  | ~$500B        | DC, regional offices                                |
-| **Spectrum auctions**  | ~$500B        | FCC-held licenses                                   |
-| **Strategic reserves** | ~$100B        | SPR, helium, minerals                               |
-| **Gold revaluation**   | ~$500B        | Treasury gold at market                             |
-| **Seigniorage (coin)** | ~$50B/yr      | Mint profit during transition                       |
-| **Transition levy**    | ~$500B/yr × 5 | Temporary, on high-income/high-wealth (see §3.3)    |
-| **Asset sales total**  | **~$4–7T**    | Covers ~3–6% of explicit debt + accrued liabilities |
+| Source                                    | Est. Value    | Timing      | Notes                                                                                                                                      |
+| ----------------------------------------- | ------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Quick Wins (Months 3–12)**              | **$1.0–1.5T** | Months 3–12 | SPR crude ($50–60B), helium ($1–2B), non-operational surplus buildings ($500B), Treasury gold revaluation ($500B), seized assets ($10–20B) |
+| **Federal land sales (surplus BLM/USFS)** | ~$2–5T        | Years 1–5   | Non-park, non-wilderness parcels                                                                                                           |
+| **Federal buildings (surplus)**           | ~$500B        | Years 1–3   | DC, regional offices                                                                                                                       |
+| **Spectrum auctions**                     | ~$500B        | Year 0–1    | FCC-held licenses                                                                                                                          |
+| **Strategic reserves (remaining)**        | ~$50B         | Year 0–1    | Minerals, other reserves                                                                                                                   |
+| **Gold revaluation (additional)**         | ~$200B        | Year 0–1    | Treasury gold at market (beyond Quick Wins)                                                                                                |
+| **Seigniorage (coin)**                    | ~$50B/yr      | Years 0–5   | Mint profit during transition                                                                                                              |
+| **Transition levy**                       | ~$500B/yr × 5 | Years 0–5   | Temporary, on high-income/high-wealth (see §3.3)                                                                                           |
+| **Asset sales total**                     | **~$5–8T**    |             | Covers ~3–6% of explicit debt + accrued liabilities                                                                                        |
 
 ### 3.3 The Gap (Honest Accounting)
 
@@ -71,22 +72,22 @@ Asset sales + levy cover ~$5–8T of the **$27T public debt held by the public**
 
 **Recommended: Tiered Haircut by Holder Class** (closes the coupon gap; makes the geopolitical bet explicit)
 
-| Holder Class                                                         | Est. Holdings | Treatment                                                                                                                                     | Haircut Savings  |
-| -------------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| **Federal Reserve (SOMA)**                                           | ~$5T          | **Full extinguishment on Decree Day** — intragovernmental accounting entry; no external creditor                                              | **$5T**          |
-| **Foreign official (central banks, sovereign wealth)**               | ~$7–8T        | **60–75% haircut**; remainder → 10-yr Trust notes (1%) or coin at face (holder choice). No legal forum; dollar reserve status ends by design. | **$4.2–6T**      |
-| **Domestic institutional** (mutual funds, pensions, banks, insurers) | ~$11–13T      | **40–50% haircut**; remainder → 10-yr Trust notes (1%). Principle 1: partial payment + notes = compensation.                                  | **$4.4–6.5T**    |
-| **Domestic retail** (≤$500k/household)                               | ~$1–2T        | **Opt-in swap at par** (D-10 program): LVT credits, TANs, or Trust notes. No haircut.                                                         | **$0**           |
-| **Total haircut savings**                                            | —             | —                                                                                                                                             | **~$13.6–17.5T** |
+| Holder Class                                                         | Est. Holdings | Treatment                                                                                                                                         | Haircut Savings  |
+| -------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **Federal Reserve (SOMA)**                                           | ~$5T          | **Full extinguishment on Decree Day** — intragovernmental accounting entry; no external creditor                                                  | **$5T**          |
+| **Foreign official (central banks, sovereign wealth)**               | ~$7–8T        | **60–75% haircut**; remainder → **20-yr Trust notes (1%)** or coin at face (holder choice). No legal forum; dollar reserve status ends by design. | **$4.2–6T**      |
+| **Domestic institutional** (mutual funds, pensions, banks, insurers) | ~$11–13T      | **40–50% haircut**; remainder → **20-yr Trust notes (1%)**. Principle 1: partial payment + notes = compensation.                                  | **$4.4–6.5T**    |
+| **Domestic retail** (≤$500k/household)                               | ~$1–2T        | **Opt-in swap at par** (D-10 program): LVT credits, TANs, or Trust notes. No haircut.                                                             | **$0**           |
+| **Total haircut savings**                                            | —             | —                                                                                                                                                 | **~$13.6–17.5T** |
 
-**Resulting Trust note principal**: ~$27T – $13.6–17.5T haircut = **~$9.5–13.4T** (public debt remainder) + transition cohort benefits (~$5–8T) + contractor claims (~$0.5T) + contingent wind-down (~$2–4T) = **~$17–26T total Trust note principal**.
+**Resulting Trust note principal**: ~$27T – $13.6–17.5T haircut = **~$9.5–13.4T** (public debt remainder) + transition cohort benefits (~$3.3–6.3T net of vet savings) + contractor claims (~$0.5T) + contingent wind-down (~$2–4T) = **~$15.3–24.3T total Trust note principal**.
 
-**Coupon arithmetic**: $17–26T × 1% = **$170–260B/yr**.
+**Coupon arithmetic (20-year amortization)**: $15.3–24.3T × 1% / 20 = **$76–121B/yr**.
 
-- Reading A (0.5% of LVT revenue): $2.5–9B/yr → **19–104× shortfall** (still fails)
-- Reading B (0.5% of land value): $125–175B/yr → **1.0–2.1× coverage** (Reading B now covers at lower end; marginal at upper end)
+- Reading A (0.5% of LVT revenue): $2.5–9B/yr → **17–97× shortfall**
+- Reading B (0.5% of land value): $125–175B/yr → **1.0–2.3× coverage** (Reading B covers fully at both ends)
 
-**Design note**: The coupon gap is **closed at the lower end of Trust note principal** (~$17T) under Reading B. At the upper end (~$26T), Reading B falls short. Design levers (see below) absorb the residual: lengthen maturity to 20 years (coupon → $85–130B/yr), raise assessment to 0.75–1% of land value, or shrink transition cohort (raise cutoff age from 55 to 60).
+**Design note**: The coupon gap is **closed** via 20-year amortization + Reading B assessment. The 20-year Trust notes reduce annual coupon to $76–121B/yr, fully covered by the $125–175B/yr assessment with margin.
 
 **Principle 1 tension**: Foreign official holders are market "private holders." A 60–75% haircut is repudiation. The design accepts this because: (a) no successor state = no forum to sue; (b) dollar reserve status ends by design — foreign official holdings are the _mechanism_ of that status; (c) allies (Japan, UK, EU) take the same hit as adversaries; (d) the Confederation cannot borrow internationally for a generation regardless. This is a feature, not a bug.
 
@@ -111,7 +112,7 @@ Before imposing the haircut, **retail Treasury holders** (individuals, not insti
 - **Swap Options** (holder chooses one):
   1. **County LVT Credits**: Face value swapped for pre-paid LVT credits at participating counties (redeemable against future LVT obligations, transferable).
   2. **County TANs**: Face value swapped for County Tax Anticipation Notes (90–180 day, rolling, accepted for local tax payment, circulate as local liquidity).
-  3. **Transition Trust Notes**: Face value swapped for 10-year Trust notes (1% coupon) at par, avoiding haircut.
+  3. **Transition Trust Notes**: Face value swapped for 20-year Trust notes (1% coupon) at par, avoiding haircut.
 - **Phasing**: Swap window opens Year 0, closes Year 2. After window closes, remaining retail holders subject to standard haircut.
 - **Institutional Holders**: Not eligible — subject to standard haircut/Trust note conversion.
 - **Effect**: Anchors domestic liquidity locally; creates immediate demand for county revenue instruments (LVT credits, TANs); retail holders avoid haircut; counties gain immediate capital for mutuals/infrastructure.
@@ -315,8 +316,8 @@ The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year pres
 
 - **Legal form**: Independent trust, chartered by the Decree, governed by 7 sortition-selected trustees + 3 financial experts.
 - **Mandate**: Pay legacy claims per this document. No other function.
-- **Duration**: 10 years (5-year transition + 5-year tail). **Exempt from the Year 5 sunset** (constitution Art VIII §2; public-finance.md §10); hard end at Year 10.
-- **Sunset**: Dissolves automatically at Year 10; residual assets → counties per capita. No perpetual liability.
+- **Duration**: 20 years (5-year transition + 15-year tail). **Exempt from the Year 5 sunset** (constitution Art VIII §2; public-finance.md §10); hard end at Year 20.
+- **Sunset**: Dissolves automatically at Year 20; residual assets → counties per capita. No perpetual liability.
 
 ### 9.2 Funding Sources
 
@@ -329,7 +330,7 @@ The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year pres
 | **Student loan portfolio sale**        | $0.5–1T         | Years 0–3  | Asset sale proceeds (net of discount)                                                                                                                                       |
 | **Veterans disability tiered savings** | **~$1.7T**      | Year 0     | 100%/IU/SMC lifetime (COLA frozen), 70-90% lifetime (no COLA), ≤60% lump sum, DIC/presumptive → county mutual                                                               |
 | **Deposit mutual pre-capitalization**  | **~$0.5–1T**    | Year 0     | ~3,000 county deposit mutuals @ ~$150–300M each; 100% TAN/coin reserves; auto-converts FDIC deposits on Decree Day                                                          |
-| **Trust-note issuance**                | **$15.3–24.3T** | Years 0–10 | 10-year notes, 1% coupon, funded by county assessment (~0.5% LVT); coupon **$153–243B/yr**                                                                                  |
+| **Trust-note issuance**                | **$15.3–24.3T** | Years 0–20 | **20-year notes**, 1% coupon, funded by county assessment (**0.5% of assessed unimproved land value annually**); coupon **$76–121B/yr** (20-yr amortization)                |
 | **Total**                              | **~$32–50T**    |            | Covers: public debt net of tiered haircut + transition cohort benefits (5yr, net of vet savings) + contractor claims + contingent wind-down + deposit mutual capitalization |
 
 **Critical gap**: The ~$75–80T unfunded entitlement PV is **not** funded by the Trust. Only the **transition cohort** (current retirees + near-retirees 55+) receives Trust-funded benefits for 5 years. Workers <55 transition to county DC plans/health mutuals with **no Trust funding**. This is the design's solvency hinge.
@@ -395,7 +396,7 @@ The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year pres
 | **County mutual profits** (health, pension, mortgage, deposit)           | +$0.2–0.5T/yr recurring | +$2–5T/yr recurring  |
 | **Compact assessments** (infrastructure, water, grid)                    | +$0.1–0.3T/yr recurring | +$1–3T/yr recurring  |
 
-**The design bets on recurring county/compact revenue, not one-time asset sales.** The coupon gap closes via **Reading B (0.5% land value) + Trust lengthening to 20 years + assessment to 0.75–1%**, not via asset sales.
+**The design bets on recurring county/compact revenue, not one-time asset sales.** The coupon gap is **closed** via **Reading B (0.5% of assessed unimproved land value) + Trust lengthened to 20 years**. The 20-year amortization reduces the annual coupon to **$76–121B/yr**, fully covered by the **$125–175B/yr** assessment with margin.
 
 #### If You Absolutely Need More Trust Funding (Design Levers)
 
@@ -405,7 +406,7 @@ The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year pres
 | Auction military spectrum                          | +$100–200B               | State guard comms degraded            |
 | Sell TVA/USPS real estate/Amtrak                   | +$100–200B               | Infrastructure privatized             |
 | Monetize federal data (AI licensing)               | +$20–50B                 | Privacy/Art VI risk                   |
-| Extend Trust to 10–15 years                        | Spreads coupon           | Delays Vanish; political risk         |
+| Extend Trust beyond 20 years                       | Spreads coupon further   | Delays Vanish; political risk         |
 
 ### 9.3 The Transition Levy (Temporary)
 
@@ -491,7 +492,7 @@ The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year pres
 | **State refuses to honor federal pension?**        | Transition Trust pays directly (not through state).                                                                                                                          |
 | **County refuses to enroll Medicare beneficiary?** | Automatic enrollment (Constitution Art VI §2.4 due process).                                                                                                                 |
 | **Hyperinflation risk from levy/seigniorage?**     | Levy is on wealth/income, not money printing. Seigniorage capped. Coin-based.                                                                                                |
-| **What if asset sales fall short?**                | 10-year Trust notes issued (1% coupon). County assessment covers the coupon, sunsets with Trust at Year 10.                                                                  |
+| **What if asset sales fall short?**                | 20-year Trust notes issued (1% coupon). County assessment covers the coupon, sunsets with Trust at Year 20.                                                                  |
 | **What if levy is evaded?**                        | County tax authorities enforce (LVT records, clearinghouse data).                                                                                                            |
 
 ---
@@ -506,11 +507,11 @@ The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year pres
 - Extinguishes intragovernmental fiction (trust funds).
 - Honors accrued pensions (transition cohort) but stops future accrual.
 - Wounds down contingent guarantees (no perpetual backstop).
-- Funds the gap with asset sales + a 5-year levy + 10-year Trust notes.
+- Funds the gap with asset sales + a 5-year levy + 20-year Trust notes.
 - **Leaves no successor liable.**
 
 **The cost is borne by:** wealthy holders (levy), bondholders (haircut), future retirees (transition to DC), and the general public (5 years of reduced services + asset sales). **No one is made whole. Everyone knows the rules in advance.**
 
 ---
 
-**The system is done when:** Every legacy claim is either paid, haircut, extinguished, or privatized — by Year 10 — and the Confederation's balance sheet is empty. No debt. No trust funds. No guarantees. No unfunded liabilities. **A clean slate, funded by the old regime's own assets, with the losses allocated by explicit rule rather than inflation or default-by-stealth.**
+**The system is done when:** Every legacy claim is either paid, haircut, extinguished, or privatized — by Year 20 — and the Confederation's balance sheet is empty. No debt. No trust funds. No guarantees. No unfunded liabilities. **A clean slate, funded by the old regime's own assets, with the losses allocated by explicit rule rather than inflation or default-by-stealth.**

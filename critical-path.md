@@ -100,7 +100,7 @@ Working estimate to be validated (illustrative, not a result):
 
 ### 1.5 Candidate findings (unverified — check before editing)
 
-1. **The corpus has no service-delegation mechanism.** Compacts coordinate; they do not appear to _operate_ a county's court or sheriff's office. If true, this is the single largest hole in OI-14 and the cheapest fix (a delegation clause in Art I §2 or Art IV).
+1. **Service-delegation mechanism now added** (constitution.md Art I §2 & Art IV §4). Counties may contract with contiguous counties or regional compacts to operate law enforcement, trial courts, or jails. Delegating county retains sovereignty/liability; delegation revocable at any time. **Test: does the clause cover all core functions (court, sheriff, jail) and is revocation truly unilateral?**
 2. **The D-1 threshold may be too low.** If the real floor is ~1,500 population, a 10,000 threshold is generous — but the _offer_ is voluntary, so the threshold's generosity does not guarantee uptake.
 3. **Jail capacity is unaddressed at county scale.** OI-29 covers the 150k federal prisoners, but not the baseline county jail need for a 400-person county.
 
@@ -109,7 +109,7 @@ Working estimate to be validated (illustrative, not a result):
 All of these already exist in the corpus; none requires a new institution:
 
 - **D-1 consolidation** — widen the trigger, or make the offer default-accept unless the county affirmatively declines with a staffing plan.
-- **Compact delegation** — add an explicit clause allowing a county to delegate a function to a compact or a neighboring county by charter amendment.
+- **Compact delegation** — **added** (constitution.md Art I §2 & Art IV §4). Counties may contract with contiguous counties or regional compacts to operate law enforcement, trial courts, or jails. Delegating county retains sovereignty/liability; delegation revocable at any time by commission vote.
 - **State minimum standards** — Art II §2.1 already covers court procedure and records interoperability; a capacity floor could ride on the same machinery.
 - **Mutual pooling** — health, pension, and utility mutuals already exist; the same pooling logic extends to jail and dispatch.
 
@@ -166,23 +166,24 @@ Three questions, in order of severity:
 
 **Step 1 — Reconcile the totals.** Build one table with a single column per claim category and a single treatment per row. The corpus currently uses three different totals ($60T+, $27T, $22–35T) for three different populations; the reconciliation must state explicitly which claims are _paid_, which are _extinguished_, and which are **not settled at all** (contingent exposures that simply cease to be guaranteed).
 
-**Step 2 — Run the coupon arithmetic.** This is the decisive calculation:
+**Step 2 — Run the coupon arithmetic.** This is the decisive calculation (with **20-year Trust notes** as baseline):
 
 ```
 Trust note principal      P = $15.3–24.3T
 Coupon rate               r = 1%
-Annual coupon service     C = P × r = $153–243B/yr
+Note maturity             m = 20 years
+Annual coupon service     C = P × r / m = $76–121B/yr  (20-yr amortization)
 
 LVT base (aggregate U.S. land value)   L ≈ $25–35T   [external estimate — verify]
 LVT rate                               t = 2–5%      [public-finance.md §2]
 LVT revenue                            R = L × t ≈ $0.5–1.75T/yr
 
-Assessment as written: "~0.5% of LVT"
+Assessment: **0.5% of assessed unimproved land value annually**
   Reading A — 0.5% of LVT revenue:   0.005 × R ≈ $2.5–9B/yr
   Reading B — 0.5% of land value:    0.005 × L ≈ $125–175B/yr
 ```
 
-**Reading A fails by ~17–97×. Reading B: covers at low end (P=$15.3T → $153B/yr vs $125–175B/yr = 1.0–1.4×); marginal at high end (P=$24.3T → $243B/yr vs $125–175B/yr = 1.4–1.9× shortfall).** The tiered haircut + veterans disability savings **closes the coupon gap at the low end of Trust principal** under Reading B. At the high end, design levers (lengthen maturity, raise assessment, shrink cohort) absorb the residual.
+**Reading A fails by ~17–97×. Reading B: **covers fully at both ends** (C=$76–121B/yr vs Assessment=$125–175B/yr = **1.0–2.3× coverage**).** The 20-year amortization + clarified assessment (0.5% of land value) **closes the coupon gap entirely**.
 
 **Step 3 — Model the haircut consistently.** Choose one of two coherent structures and test it:
 
@@ -220,8 +221,8 @@ Assessment as written: "~0.5% of LVT"
 
 ### 2.6 Design levers if it fails
 
-- **Lengthen the Trust.** 20–30 year notes at 1% cut the annual coupon proportionally; the corpus already accepts a 10-year horizon, so this is a parameter change, not a redesign. At 20 years, coupon → **$76–121B/yr** (Reading B covers cleanly).
-- **Raise the assessment.** The 0.5% figure is illustrative; the corpus's own LVT range (2–5%) leaves room. At 0.75–1% of land value, Reading B covers **$153–243B/yr**.
+- **Lengthen the Trust beyond 20 years.** 30-year notes at 1% cut the annual coupon further; the corpus now accepts a 20-year horizon as baseline. At 30 years, coupon → **$51–81B/yr** (Reading B covers with wide margin).
+- **Raise the assessment.** The 0.5% of land value is now codified; the corpus's own LVT range (2–5%) leaves room. At 0.75–1% of land value, assessment rises to **$187–350B/yr**.
 - **Increase foreign official haircut to 75–80%.** Adds ~$0.5–1T savings. Geopolitically sharper; allies take deeper hit.
 - **Increase domestic institutional haircut to 50–60%.** Adds ~$1–2T savings. Strains Principle 1 further.
 - **Shrink the transition cohort.** Raise the cutoff age from 55 to 60 or 62. Each year of age reduces the Trust-funded cohort and the 5-year benefit tail (~$0.5–1T/year of age).

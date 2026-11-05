@@ -203,7 +203,9 @@
 
 **Sequencing note — state surcharge vs. Transition Trust levy:** The state infrastructure surcharge (≤2% of the LVT base of participating counties) may not take effect before Year 2. During Years 2–5, while the Transition Trust levy is in force, the surcharge is capped at 1%; it rises to 2% only after the Trust levy sunsets at Year 5. The surcharge sunsets 5 years after it reaches 2% (Year 10 at the latest). The two levies do not share a base, but the sequencing keeps the total transition burden visible and bounded.
 
-**Exception — Transition Trust (Years 5–10):** The Transition Trust (`debt-obligations.md`) is **exempt from the Year 5 sunset**. It runs a 5-year tail (Years 5–10) to settle legacy claims (debt, pensions, contracts), then dissolves automatically. Its instruments are ≤10 years; its county assessment sunsets with it. This is the _only_ entity permitted to operate past Year 5, and it has a hard end at Year 10.
+**Exception — Transition Trust (Years 5–20):** The Transition Trust (`debt-obligations.md`) is **exempt from the Year 5 sunset**. It runs a 15-year tail (Years 5–20) to settle legacy claims (debt, pensions, contracts), then dissolves automatically. Its instruments are **≤20 years** (20-year Trust notes); its county assessment **sunsets with the Trust at Year 20**. This is the _only_ entity permitted to operate past Year 5, and it has a hard end at Year 20.
+
+**Trust Note Assessment Definition**: The county assessment funding the Trust notes is **0.5% of assessed unimproved land value annually** (not 0.5% of LVT revenue). This generates an estimated **$125–175B/year** at current aggregate U.S. land values (~$25–35T), covering the 1% coupon on 20-year Trust notes ($76–121B/yr) with margin.
 
 ### Voluntary Conversion Premium (Equity-Driven Levy)
 

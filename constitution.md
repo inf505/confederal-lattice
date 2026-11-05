@@ -24,6 +24,8 @@ Each county exercises **all legislative, executive, and judicial powers** within
 - Elections, recall, sortition
 - Immigration, citizenship, entry (subject to the Art VI §2.13 asylum & non-refoulement limit)
 
+**Service Delegation for Micro-Counties**: Any county commission may, by resolution, contract with a contiguous county or a regional administrative compact to operate its law enforcement, trial court docket, or jail facilities. The delegating county retains full sovereignty and liability; the delegate acts as agent. Delegation requires majority commission vote and may be revoked at any time by the same. No delegation may diminish Art VI rights of any resident.
+
 ### Section 3: County Charter
 
 Every county adopts a written charter specifying:
@@ -297,6 +299,8 @@ Citizens of each county enjoy equal privileges in all counties. No county may di
 ### Section 4: Compacts
 
 Counties/states may form compacts for any shared purpose. Compacts are contracts: voluntary, specific, terminable by any party per its terms. No compact may create a new level of government.
+
+**Service Delegation Authority**: A regional administrative compact may, by unanimous vote of its member county commissions, operate law enforcement, trial court dockets, or jail facilities on behalf of any member county that has authorized such delegation per Art I §2. The compact acts as agent; the delegating county retains sovereignty, liability, and Art VI obligations. Delegation is revocable by the county commission at any time.
 
 ### Section 5: Territories & District of Columbia
 
