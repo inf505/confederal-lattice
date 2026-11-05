@@ -367,7 +367,7 @@ Counties/states may form compacts for any shared purpose. Compacts are contracts
 - The Confederation **inherits no debt** of the prior federal government.
 - All legacy claims (public debt, trust funds, pensions, contracts, contingent guarantees) are settled once by the **Transition Trust** per `debt-obligations.md`.
 - Settlement is funded by federal asset sales, seigniorage, and a 5-year transition levy. No perpetual liability.
-- After Year 10, the Transition Trust dissolves. Residual assets → counties per capita.
+- After Year 20, the Transition Trust dissolves. Residual assets → counties per capita.
 - **No successor liability**. The Confederation's budget (<$60M/yr) cannot be attached for legacy claims.
 
 ---
@@ -474,7 +474,7 @@ The **Decree** (Year 0) dissolves the prior federal order and **promulgates** th
   - **Drug safety compacts (FDA successor)** — provisional through Year 7; counties must form mutual drug-safety compacts or adopt county health-department oversight by Year 7.
   - **Aviation safety certification** — provisional through Year 7; county/state compacts must assume certification duties by Year 7.
   - **All other sunsetted statutes** — fully lapse at Year 5 unless re-authorized.
-- **Exception**: The **Transition Trust** (Art IV §7) continues through **Year 10** to settle legacy claims, then dissolves. It is a wind-down vehicle, not a program subject to the Year 5 sunset. Its instruments are time-bounded (≤10 years) and its county assessment sunsets with it.
+- **Exception**: The **Transition Trust** (Art IV §7) continues through **Year 20** to settle legacy claims, then dissolves. It is a wind-down vehicle, not a program subject to the Year 5 sunset. Its instruments are time-bounded (≤20 years) and its county assessment sunsets with Trust at Year 20.
 
 ### Section 2.3: Staggered Sunset Schedule
 

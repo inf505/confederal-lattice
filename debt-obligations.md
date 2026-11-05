@@ -43,12 +43,12 @@
 
 ### 3.1 Settlement Mechanism
 
-| Step               | Action                                                                                                                                                                                 |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Freeze**      | On Decree Day, all Treasury issuance stops. Existing securities remain valid claims.                                                                                                   |
-| **2. Verify**      | Holders register claims with the Transition Trust (digital + paper).                                                                                                                   |
-| **3. Pay**         | Claims paid at face value + accrued interest, in one of: (a) coin, (b) federal asset transfer (land, buildings, spectrum), (c) Transition Trust notes (5-year, backed by asset sales). |
-| **4. No rollover** | No new federal debt issued. Maturity ladder honored from Trust assets.                                                                                                                 |
+| Step               | Action                                                                                                                                                                                  |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Freeze**      | On Decree Day, all Treasury issuance stops. Existing securities remain valid claims.                                                                                                    |
+| **2. Verify**      | Holders register claims with the Transition Trust (digital + paper).                                                                                                                    |
+| **3. Pay**         | Claims paid at face value + accrued interest, in one of: (a) coin, (b) federal asset transfer (land, buildings, spectrum), (c) Transition Trust notes (20-year, backed by asset sales). |
+| **4. No rollover** | No new federal debt issued. Maturity ladder honored from Trust assets.                                                                                                                  |
 
 ### 3.2 Funding the Payoff
 

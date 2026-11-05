@@ -114,7 +114,7 @@
 | First county auctions | Month 12        | **Month 18** (charter ratification + board setup) |
 | Peak auction volume   | Year 2          | **Year 3** (counties need experience)             |
 | 80% surplus sold      | Year 5          | **Year 6–7** (tail extends)                       |
-| Trust dissolution     | Year 10         | **Year 10–12** (unsold tail)                      |
+| **Trust dissolution** | Year 20         | **Year 20–22** (unsold tail)                      |
 
 **Design implication**: Trust note maturity should be **15–20 years**, not 10, to match realistic liquidation tail. Coupon coverage improves proportionally.
 
@@ -441,7 +441,7 @@
 | **3**  | IP registries live. Financial infrastructure migrated.                             |
 | **4**  | Territories/DC referendums. Equipment distributed.                                 |
 | **5**  | Asset transfer 90% complete. Transition Trust holds residual.                      |
-| **10** | All assets transferred or sold. Trust dissolves.                                   |
+| **20** | All assets transferred or sold. Trust dissolves.                                   |
 
 ---
 

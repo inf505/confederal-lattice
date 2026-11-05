@@ -231,7 +231,7 @@ Workers aged 40–54 who paid FICA contributions under the prior regime but fall
 | **No level may mandate another's spending**  | Unfunded mandates void. County veto nullifies.                                                              |
 | **No level may regulate another's currency** | Competitive currency = no monetary policy coordination.                                                     |
 
-**Transition Trust exception (the only one):** The Transition Trust (`debt-obligations.md`) may issue **time-bounded instruments (≤10 years — the 10-year Trust notes of `debt-obligations.md` §3.3)** during the transition. It is a wind-down vehicle, not a level of government; its instruments are **not government debt**, and the county assessment funding them **sunsets with the Trust at Year 10**. No perpetual liability (Constitution Art IV §7).
+**Transition Trust exception (the only one):** The Transition Trust (`debt-obligations.md`) may issue **time-bounded instruments (≤20 years — the 20-year Trust notes of `debt-obligations.md` §3.3)** during the transition. It is a wind-down vehicle, not a level of government; its instruments are **not government debt**, and the county assessment funding them **sunsets with the Trust at Year 20**. No perpetual liability (Constitution Art IV §7).
 
 ---
 

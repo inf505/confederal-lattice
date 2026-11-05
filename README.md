@@ -204,7 +204,7 @@ The guiding logic:
 | **SBI (State Bureau of Investigation)** | State-level investigators for interstate crimes only (kidnapping, counterfeiting, piracy, treason, cross-state cyber). |
 | **IDCO**                                | Interstate Defense Coordination Office — 12-person federal node for guard comms; no command authority.                 |
 | **SWF (Sovereign Wealth Fund)**         | State fund from severance/land revenue; dividends flow to counties.                                                    |
-| **Transition Trust**                    | 10-year vehicle that settles all legacy federal claims (debt, pensions, contracts); dissolves at Year 10.              |
+| **Transition Trust**                    | 20-year vehicle that settles all legacy federal claims (debt, pensions, contracts); dissolves at Year 20.              |
 | **Mutual**                              | Member-owned, non-profit county cooperative (health, pension, unemployment, disability). Not a government program.     |
 | **Interposition**                       | 20+ state legislatures nullify a federal ruling/statute for their jurisdictions.                                       |
 | **Backstops (escalating)**              | County veto → interposition → secession. Each is a check on central overreach.                                         |

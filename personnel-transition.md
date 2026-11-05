@@ -278,7 +278,7 @@
 
 ## 11. Trust Asset Sales Operations (Critical Path — Year 0–7)
 
-**Federal asset sales workforce: ~1,600–3,000** needed for the liquidation of ~$4–7T in surplus federal assets (land, buildings, equipment, spectrum, reserves). **Peak Years 1–4**. Dissolves with Trust (Year 10–12).
+**Federal asset sales workforce: ~1,600–3,000** needed for the liquidation of ~$4–7T in surplus federal assets (land, buildings, equipment, spectrum, reserves). **Peak Years 1–4**. Dissolves with Trust (Year 20–22).
 
 ### 11.1 Staffing Estimate
 

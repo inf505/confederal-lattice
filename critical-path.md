@@ -159,7 +159,7 @@ The funding side (`debt-obligations.md` §3.3, §9.2) — **Tiered Haircut Model
   - Domestic institutional ~$11–13T → **40–50% haircut** (~$4.4–6.5T)
   - Domestic retail (≤$500k) → **opt-in swap at par** (D-10), no haircut
 - **Veterans disability tiered savings: ~$1.7T** (100%/IU/SMC lifetime COLA frozen, 70-90% lifetime no COLA, ≤60% lump sum, DIC/presumptive → county mutual)
-- Remainder of public debt (~$9.5–13.4T) + transition cohort benefits (5 yr, ~$3.3–6.3T net of vet savings) + contractor claims (~$0.5T) + contingent wind-down (~$2–4T) → **Transition Trust notes (~$15.3–24.3T principal)** at **1% coupon**, funded by **~0.5% of LVT** county assessment that sunsets with Trust at Year 10.
+- Remainder of public debt (~$9.5–13.4T) + transition cohort benefits (5 yr, ~$3.3–6.3T net of vet savings) + contractor claims (~$0.5T) + contingent wind-down (~$2–4T) → **Transition Trust notes (~$15.3–24.3T principal)** at **1% coupon**, funded by **~0.5% of LVT** county assessment that sunsets with Trust at Year 20.
 - Transition levy: **~$500B/yr × 5 years = $2.5T**.
 - Student loan portfolio sale proceeds: **~$0.5–1T** (asset side).
 - Stated total Trust funding: **~$32–50T**.
