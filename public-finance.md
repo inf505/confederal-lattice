@@ -48,6 +48,13 @@
 - Interstate counterfeiting rings fall under State Bureau of Investigation jurisdiction (`law-enforcement.md` §4).
 - No federal agency, no Secret Service, no central printing authority.
 
+**Expiration and redemption**:
+
+- **Public notice**: County treasurer publishes maturing TAN serials 30 days before expiration at the courthouse and in the local paper. No central registry, no electronic notification.
+- **Redemption window**: TANs may be redeemed at the county tax window for tax credit up to and including the maturity date. After maturity, notes are void and unredeemable.
+- **Grace period**: None. Expired TANs have no value and cannot be exchanged.
+- **Market pricing**: Merchants and holders are expected to price approaching expiration into the note's market value; no county obligation to make holders whole for unredeemed notes.
+
 ---
 
 ### 1.4 Currency Price Indices & Circuit Breakers

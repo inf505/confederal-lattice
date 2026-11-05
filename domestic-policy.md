@@ -56,6 +56,35 @@
 
 **Replaces**: UCC (federalized parts), SEC, CFTC, OCC, FDIC, FTC, CFPB.
 
+### 2.1 State-Chartered Regional Bank Notes (Optional Fallback)
+
+**Purpose**: Provide a state-scoped medium of exchange for inter-county trade where county TANs and specie are insufficient, without recreating a central bank or state monetary authority.
+
+**Guardrails**:
+
+- **County opt-in per bank**: A state may charter a regional bank only with the affirmative opt-in of each participating county commission. No county is compelled to join or accept its notes.
+- **No state liability**: State-chartered bank notes are private obligations of the issuing bank, not state debt. The state guarantees neither redemption nor value. No state bailout, no state backstop.
+- **Asset-backed only**: Notes must be backed by sound collateral (county TANs, specie, performing loans). No fractional issuance beyond the bank's own capital and reserves.
+- **No legal tender**: No county, merchant, or resident is compelled to accept state-chartered bank notes at par or at all. Acceptance is purely voluntary and market-determined.
+- **No state control of volume**: The state charter sets capital and collateral rules but does not set issuance quotas, interest rates, or monetary policy. The bank's note issuance is market-constrained.
+- **Finite maturity**: Bank notes mature in 1–3 years from issuance, set at chartering and fixed for the life of the note. Matured notes are redeemed by the issuing bank or become worthless; they do not circulate indefinitely.
+- **Regional, not statewide monopoly**: Multiple banks may be chartered within a state. No exclusive franchise. Counties may belong to multiple regional bank networks.
+- **Sunset and exit**: Charters expire in 5 years unless re-authorized by the state legislature with county opt-in renewal. Participating counties may withdraw with 12 months' notice.
+- **Insolvency**: Failed banks are liquidated by county courts. Note holders are unsecured creditors. No state funds cover losses.
+- **Transparency**: Banks publish weekly redemption/issuance data. County treasurers may inspect collateral upon request.
+- **Anti-counterfeiting**: Bank notes must include physical security features equivalent to county TAN anti-counterfeiting standards (`public-finance.md` §1.3): UV-fluorescent ink, security thread, cycling colors by series, and check-digit serial numbers. Counterfeiting bank notes is a county-level crime; interstate counterfeiting rings fall under SBI jurisdiction (`law-enforcement.md` §4).
+- **No interstate circulation without compact**: Notes may not circulate beyond the chartering state's counties without a separate inter-county compact agreement.
+
+**Expiration and redemption**:
+
+- **Public notice**: Issuing bank publishes maturing note serials 30 days before expiration at the county courthouse and in the local paper. No central registry, no electronic notification.
+- **Redemption window**: Notes may be redeemed at the issuing bank's window up to and including the maturity date. After maturity, notes are void and unredeemable.
+- **Grace period**: None. Expired notes have no value and cannot be exchanged.
+- **Bank insolvency**: If the issuing bank fails before maturity, note holders are unsecured creditors in county court liquidation. No state funds cover losses.
+- **Market pricing**: Merchants and holders are expected to price approaching expiration and bank solvency risk into the note's market value; no county or state obligation to make holders whole for unredeemed notes.
+
+**Relation to existing mechanisms**: Works alongside county TANs (`public-finance.md` §1) and clearinghouse net settlement (`public-finance.md` §1). Does not replace specie as the zero-counterparty settlement asset.
+
 ---
 
 ## 3. ENV-01: Environmental & Resource Management
