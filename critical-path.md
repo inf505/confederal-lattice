@@ -117,38 +117,50 @@ All of these already exist in the corpus; none requires a new institution:
 
 ## 2. OI-27 — Debt Settlement Math
 
-### 2.1 What the corpus claims
+### 2.1 What the corpus claims (UPDATED)
 
 `debt-obligations.md` §1 states the legacy balance sheet:
 
-| Category                        | Amount        | Treatment in the corpus                       |
-| ------------------------------- | ------------- | --------------------------------------------- |
-| Public debt held by public      | ~$27T         | Paid, haircut, or converted to Trust notes    |
-| Intragovernmental debt          | ~$7T          | Extinguished (accounting entries, not claims) |
-| Unfunded pensions               | ~$3.5T        | Funded trusts; future accrual stops           |
-| Veterans' disability            | ~$150B/yr     | Flow, honored                                 |
-| Federal employee benefits       | ~$100B/yr     | Flow, honored                                 |
-| Contractor claims               | ~$500B        | Settled                                       |
-| Student loans                   | ~$1.7T        | Portfolio sold or transferred                 |
-| Mortgage guarantees             | ~$8T exposure | Contingent — wound down or privatized         |
-| Deposit insurance               | ~$10T insured | Contingent — wound down or privatized         |
-| PBGC deficit                    | ~$120B        | Contingent                                    |
-| **Total explicit + contingent** | **~$60T+**    | —                                             |
+| Category                                              | Amount           | Treatment in the corpus                                                                                                   |
+| ----------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Public debt held by public                            | ~$27T            | Paid, haircut, or converted to Trust notes                                                                                |
+| Intragovernmental debt                                | ~$7T             | Extinguished (accounting entries, not claims)                                                                             |
+| **Unfunded federal entitlements (SS + Medicare, PV)** | **~$75–80T**     | **Transition cohort only (5 yr); future stopped**                                                                         |
+| Unfunded state/local pensions (PV)                    | ~$4–5T           | Not inherited; voluntary county assumption                                                                                |
+| Veterans' disability (accrued PV)                     | **~$5.3T**       | **Tiered: 100%/IU/SMC lifetime (COLA frozen), 70-90% lifetime (no COLA), ≤60% lump sum, DIC/presumptive → county mutual** |
+| Federal employee benefits (accrued PV)                | ~$3T             | Transition Trust (transition cohort)                                                                                      |
+| Contractor claims                                     | ~$500B           | Settled                                                                                                                   |
+| **Student loans**                                     | **~$1.7T asset** | **Removed from liability side; sold as asset**                                                                            |
+| Mortgage guarantees (FHA/VA/Ginnie/Fannie/Freddie)    | ~$8T exposure    | **Contingent exposure** — wound down                                                                                      |
+| Deposit insurance (FDIC/NCUA)                         | ~$10T insured    | **Contingent exposure** — wound down                                                                                      |
+| PBGC                                                  | ~$60B surplus    | Contingent (currently funded)                                                                                             |
+| **Total explicit debt + accrued liabilities**         | **~$118–123T**   | —                                                                                                                         |
+| **Total contingent exposure**                         | **~$18T**        | Mortgage guarantees + deposit insurance                                                                                   |
 
-The funding side (`debt-obligations.md` §3.3, §5):
+The funding side (`debt-obligations.md` §3.3, §9.2) — **Tiered Haircut Model**:
 
-- Asset sales + transition levy cover **~$5–8T of the $27T**.
-- The remainder (**~$19–22T**) is handled by **haircut + 10-year Transition Trust notes** at a **1% coupon**, funded by a **~0.5% of LVT** county assessment that sunsets with the Trust at Year 10.
+- Asset sales + transition levy cover **~$5–8T of the $27T public debt**.
+- **Tiered haircut on public debt: ~$13.6–17.5T savings**:
+  - Fed (SOMA) ~$5T → **full extinguishment** (intragovernmental)
+  - Foreign official ~$7–8T → **60–75% haircut** (~$4.2–6T)
+  - Domestic institutional ~$11–13T → **40–50% haircut** (~$4.4–6.5T)
+  - Domestic retail (≤$500k) → **opt-in swap at par** (D-10), no haircut
+- **Veterans disability tiered savings: ~$1.7T** (100%/IU/SMC lifetime COLA frozen, 70-90% lifetime no COLA, ≤60% lump sum, DIC/presumptive → county mutual)
+- Remainder of public debt (~$9.5–13.4T) + transition cohort benefits (5 yr, ~$3.3–6.3T net of vet savings) + contractor claims (~$0.5T) + contingent wind-down (~$2–4T) → **Transition Trust notes (~$15.3–24.3T principal)** at **1% coupon**, funded by **~0.5% of LVT** county assessment that sunsets with Trust at Year 10.
 - Transition levy: **~$500B/yr × 5 years = $2.5T**.
-- Stated total funding: **~$22–35T**.
+- Student loan portfolio sale proceeds: **~$0.5–1T** (asset side).
+- Stated total Trust funding: **~$32–50T**.
+
+**Critical design hinge**: The ~$75–80T unfunded entitlement PV is **not funded by the Trust**. Only the **transition cohort** (current retirees + near-retirees 55+) receives Trust-funded benefits for 5 years. Workers <55 transition to county DC plans/health mutuals with **no Trust funding**.
 
 ### 2.2 The unproven question
 
 Three questions, in order of severity:
 
-1. **Does the $27T settlement clear?** $5–8T of real funding against $27T of claims means a $19–22T residual carried by Trust notes. That is a 70–80% conversion, not a haircut-plus-notes plan. The corpus describes a 40–50% haircut _and_ Trust-note conversion; those two cannot both apply to the same dollar.
-2. **Does the Trust-note coupon actually fund?** This is a pure arithmetic check and it is the most likely place the design breaks.
-3. **What happens to the ~$33T of contingent claims?** "Wound down or privatized" is a policy statement, not a settlement. Deposit insurance in particular ($10T insured) is a bank-run trigger if withdrawn without a replacement.
+1. **Does the public debt ($27T) settlement clear under tiered haircut?** $5–8T real funding + **$13.6–17.5T tiered haircut** = ~$18.6–25.5T covered. Remainder (~$1.5–8.4T) + transition cohort benefits (5 yr, ~$3.3–6.3T net of vet savings) + contractor claims + contingent wind-down → **Trust notes ~$15.3–24.3T principal**. The tiered model makes the geopolitical bet explicit: Fed extinguished, foreign official 60–75% haircut, domestic institutional 40–50%, retail protected.
+2. **Does the Trust-note coupon actually fund?** Trust note principal **P = $15.3–24.3T** at 1% coupon = **$153–243B/yr**. Assessment "~0.5% of LVT" — Reading A (0.5% of LVT revenue): **$2.5–9B/yr** (17–97× shortfall). Reading B (0.5% of land value): **$125–175B/yr** → **covers at lower end (1.0×), marginal at upper end (1.4–1.9× shortfall)**. **Reading B now closes the gap at the low end of Trust principal.**
+3. **What happens to the ~$75–80T unfunded entitlement PV?** The design **does not fund it**. Only the transition cohort (5 years) is Trust-funded. Workers <55 transition to county plans with **no federal backstop**. Is this politically/legally survivable? What happens to a 54-year-old who paid FICA for 35 years?
+4. **What happens to the ~$18T contingent exposure?** "Wound down or privatized" is a policy statement. FDIC ($10T) withdrawal without replacement = bank run in Years 0–2. FHA/VA/Ginnie ($8T) withdrawal = mortgage market freeze.
 
 ### 2.3 Test design
 
@@ -157,9 +169,9 @@ Three questions, in order of severity:
 **Step 2 — Run the coupon arithmetic.** This is the decisive calculation:
 
 ```
-Trust note principal      P = $19–22T
+Trust note principal      P = $15.3–24.3T
 Coupon rate               r = 1%
-Annual coupon service     C = P × r = $190–220B/yr
+Annual coupon service     C = P × r = $153–243B/yr
 
 LVT base (aggregate U.S. land value)   L ≈ $25–35T   [external estimate — verify]
 LVT rate                               t = 2–5%      [public-finance.md §2]
@@ -170,7 +182,7 @@ Assessment as written: "~0.5% of LVT"
   Reading B — 0.5% of land value:    0.005 × L ≈ $125–175B/yr
 ```
 
-**Reading A fails by roughly 20–80×. Reading B is marginal at best.** If this holds, the Trust-note mechanism as written does not service its own coupon, and the design needs either a higher assessment, a longer maturity, a lower principal (bigger haircut), or a different instrument.
+**Reading A fails by ~17–97×. Reading B: covers at low end (P=$15.3T → $153B/yr vs $125–175B/yr = 1.0–1.4×); marginal at high end (P=$24.3T → $243B/yr vs $125–175B/yr = 1.4–1.9× shortfall).** The tiered haircut + veterans disability savings **closes the coupon gap at the low end of Trust principal** under Reading B. At the high end, design levers (lengthen maturity, raise assessment, shrink cohort) absorb the residual.
 
 **Step 3 — Model the haircut consistently.** Choose one of two coherent structures and test it:
 
@@ -180,12 +192,12 @@ Assessment as written: "~0.5% of LVT"
 
 **Step 4 — Test the contingent unwind.** For each contingent item, state the unwind sequence and the first-order consequence:
 
-| Contingent item         | Unwind question                                                                           |
-| ----------------------- | ----------------------------------------------------------------------------------------- |
-| Deposit insurance $10T  | If withdrawn, what stops a bank run in Years 0–2? County mutuals are not yet capitalized. |
-| Mortgage guarantees $8T | If withdrawn, what happens to the mortgage market and to existing holders?                |
-| Student loans $1.7T     | Sold to whom, at what discount?                                                           |
-| PBGC $120B              | Transferred to county pension trusts — which are themselves unfunded?                     |
+| Contingent item                 | Unwind question                                                                                                                                                             |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Deposit insurance $10T**      | **Pre-capitalized county mutuals + auto-conversion + TAN-backed narrow banking (Year 0).** Zero gap, zero run. Test: can 3,000 mutuals be chartered/capitalized pre-Decree? |
+| Mortgage guarantees $8T         | If withdrawn, what happens to the mortgage market and to existing holders?                                                                                                  |
+| **Student loans $1.7T (asset)** | **Sold to whom, at what discount? Proceeds → Trust funding.**                                                                                                               |
+| PBGC (~$60B surplus)            | No deficit to fund; wind down existing guarantees.                                                                                                                          |
 
 **Step 5 — Cross-check against OI-46.** Capital flight (20–30% outflow in Years 0–2) reduces the LVT base and the levy take simultaneously. Re-run Step 2 at 70–80% of baseline LVT revenue.
 
@@ -198,18 +210,24 @@ Assessment as written: "~0.5% of LVT"
 
 ### 2.5 Candidate findings (unverified — check before editing)
 
-1. **The "0.5% of LVT" assessment is ambiguous and, on either reading, likely insufficient to service a $19–22T note at 1%.** This is the highest-value single check in the corpus. It should be run first.
-2. **"40–50% haircut" and "remainder converted to Trust notes" are mutually exclusive as written.** A haircut reduces principal; conversion preserves it. The text applies both to the same residual.
-3. **Deposit insurance is treated as contingent but is functionally a live liability** the moment the old regime stops backing it. The corpus has no bridge from FDIC to county mutuals.
-4. **The $60T+ total and the $27T settlement base are never reconciled in one place.** A reader cannot tell whether $33T of claims are being settled, extinguished, or ignored.
+1. **The "0.5% of LVT" assessment: Reading A fails (17–97×); Reading B covers at low Trust principal (~$15.3T), marginal at high (~$24.3T).** The tiered haircut + veterans disability savings make Reading B viable _if_ Trust principal stays at the low end. This is the highest-value single check — run the tiered haircut model first to pin P.
+2. **Tiered haircut makes the geopolitical bet explicit:** Fed extinguished ($5T), foreign official 60–75% haircut ($4.2–6T), domestic institutional 40–50% ($4.4–6.5T), retail protected. Principle 1 tension: foreign official holders are market "private holders" — 60–75% haircut is repudiation. Design accepts this: no forum, dollar reserve status ends by design, allies take same hit.
+3. **Veterans disability tiered model saves ~$1.7T PV / ~$17B/yr coupon** by aligning with occupational injury model: 100%/IU/SMC lifetime (COLA frozen), 70-90% lifetime (no COLA), ≤60% lump sum, DIC/presumptive → county mutual. **Mandatory fraud re-evaluation** of all ratings within 24 months targets the ~45% of budget in DIC/SMC/presumptive categories.
+4. **Deposit insurance ($10T) now has a zero-gap bridge:** pre-capitalized county mutuals (~$500B–1T Year 0), auto-conversion on Decree Day, TAN-backed 100% reserve narrow banking (Years 0–2). **Test: can 3,000 mutuals be chartered/capitalized pre-Decree?** If yes, run risk = near zero. If no, run risk = catastrophic.
+5. **The ~$118–123T explicit + accrued total and the $27T public debt settlement base are never reconciled in one place.** A reader cannot tell whether ~$91T of claims are being settled, extinguished, or ignored.
+6. **The transition cohort cutoff (age 55) creates a hard cliff.** A 54-year-old who paid FICA for 35 years gets county DC plan; a 56-year-old gets Trust-funded benefit. No phase-in is specified.
+7. **Foreign official haircut assumes no kinetic retaliation.** The design bets that a fragmented, non-interventionist North America is a strategic win for adversaries (China) and a tolerable loss for allies (Japan, EU) who lose the dollar reserve system they benefit from. This is untested.
 
 ### 2.6 Design levers if it fails
 
-- **Lengthen the Trust.** 20–30 year notes at 1% cut the annual coupon proportionally; the corpus already accepts a 10-year horizon, so this is a parameter change, not a redesign.
-- **Raise the assessment.** The 0.5% figure is illustrative; the corpus's own LVT range (2–5%) leaves room.
-- **Increase the haircut.** The design already contemplates 40–50%; 60–70% is a policy choice, not a structural break.
+- **Lengthen the Trust.** 20–30 year notes at 1% cut the annual coupon proportionally; the corpus already accepts a 10-year horizon, so this is a parameter change, not a redesign. At 20 years, coupon → **$76–121B/yr** (Reading B covers cleanly).
+- **Raise the assessment.** The 0.5% figure is illustrative; the corpus's own LVT range (2–5%) leaves room. At 0.75–1% of land value, Reading B covers **$153–243B/yr**.
+- **Increase foreign official haircut to 75–80%.** Adds ~$0.5–1T savings. Geopolitically sharper; allies take deeper hit.
+- **Increase domestic institutional haircut to 50–60%.** Adds ~$1–2T savings. Strains Principle 1 further.
+- **Shrink the transition cohort.** Raise the cutoff age from 55 to 60 or 62. Each year of age reduces the Trust-funded cohort and the 5-year benefit tail (~$0.5–1T/year of age).
 - **Sell more assets.** `asset-transfer.md` lists 640M acres, 270,000 buildings, 17 labs, 31 GPS satellites, 600M barrels, $1.7T IP. The $5T asset-sale assumption should be tested against that inventory.
 - **Extend the levy.** $500B/yr × 5 = $2.5T; × 10 = $5T. The corpus sunsets it at Year 5 to avoid a permanent transition state — that is a deliberate trade-off, not a hard constraint.
+- **Accept partial funding / coupon deferral.** Trust notes could pay 0.5% coupon for Years 1–5, step up to 1% thereafter. Not a default, but a restructuring.
 
 ---
 
@@ -262,11 +280,16 @@ Three specific throughput questions:
 
 **Step 3 — Identify the first slip.** The test's output is not "does it finish in five years" — it is **"which milestone slips first, and what does the slip cascade into?"** A charter slip delays sheriffs, which delays courts, which delays rights enforcement (OI-30's residual), which delays the interposition test.
 
-**Step 4 — Test the failure mode.** For the first slip, state what the design does. Options already in the corpus:
+**Step 4 — Test the failure mode.** For the first slip, state what the design does. Options now in the corpus (constitution.md Art I §6):
 
-- Extend the phase (the Constitution is provisional until ratified by 2,000+ counties, target Year 2 — so the target is already soft).
+- **Model Charter auto-adoption** (simple commission resolution, no referendum) — every county can have a functioning charter in days, not months.
+- **Interim Administration** (State Interim Administrator auto-appointed at Month 18 if no charter) — full county powers: levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts.
+- **Default Opt-In to Mutuals & Compacts** — every county auto-enrolled in State Pension, Health, Deposit, Disability Mutuals + Infrastructure, Watershed, Grid, Cyber, Criminal Investigation Compacts from Month 18 unless it affirmatively opts out.
+- **Automatic Consolidation Trigger (mandatory at Year 3)** — counties that fail to ratify charter, seat sheriff/court/commission, or collect LVT are automatically consolidated into largest contiguous county. No commission consent required; referendum in receiving county only.
+- **State Receivership (last resort)** — if no adjacent county accepts consolidation, State Council appoints 3-person Receiver (AG + Treasurer + sortition citizen) to operate county until consolidation or charter ratification.
+- Extend the phase (Constitution provisional until 2,000+ counties ratify; target Year 2 is soft).
 - Run phases in parallel across states rather than uniformly.
-- Accept a partial map: some counties stand up late, and the design tolerates it because sovereignty is per-county, not per-system.
+- Accept a partial map: some counties stand up late; sovereignty is per-county, not per-system.
 
 **Step 5 — Test the personnel and prisoner transfers specifically** (these are the two with hard physical constraints):
 
@@ -282,13 +305,17 @@ Three specific throughput questions:
 
 ### 3.5 Candidate findings (unverified — check before editing)
 
-1. **Stand-Up is internally circular.** Charters, sheriffs, courts, AG, and minimum standards are all scheduled in Years 1–2 with mutual dependencies and no intra-phase sequencing. This is the most likely first slip.
+1. **Stand-Up circularity is now broken by fallbacks.** Model Charter (auto-adoptable), Interim Administration (Month 18), Default Opt-In (Month 18), Automatic Consolidation (Year 3), State Receivership (last resort). The circularity is _mitigated_, not eliminated — the test must verify fallback throughput.
 2. **Severance is unfunded at the front.** The transition levy runs Years 0–5 and asset sales are back-loaded (Year 4: "asset sales 80% complete"). Personnel separations begin in Year 0. The design has a cash-flow gap it does not name.
 3. **The 224-person remnant cannot administer 640M acres.** `asset-transfer.md` assigns land to states, counties, and compacts, but the _transfer_ itself needs an administrative apparatus that the remnant does not have. This may be intentional (transfer by decree, not by conveyance) — but the corpus does not say so.
 4. **"All statutes sunset in 5 years" is a cliff, not a ramp.** If re-authorization throughput lags, the cliff voids statutes that counties have not yet replaced.
+5. **Fallback throughput is untested.** Can State Council appoint 3,000 Interim Administrators by Month 18? Can Model Charter be adopted by 3,000 commissions in weeks? Can Automatic Consolidation process 500+ counties at Year 3? These are new throughput questions.
 
 ### 3.6 Design levers if it fails
 
+- **Model Charter + Interim Admin + Default Opt-In** (now in constitution.md Art I §6) — these are the primary levers. They eliminate the "county can't organize" failure mode by providing working defaults.
+- **Automatic Consolidation at Year 3** — hard deadline forces resolution; no county stays in limbo.
+- **State Receivership** — ultimate backstop for isolated/unconsolidatable counties.
 - **Stagger by state.** The Constitution is already provisional until 2,000+ counties ratify; staggering Stand-Up by state cohort uses the same logic.
 - **Extend Stand-Up to Years 1–3** and compress Cutover to Year 4. The five-year total is a design choice, not a physical constant.
 - **Front-load asset sales** to fund early severance (the corpus back-loads them to Year 4).

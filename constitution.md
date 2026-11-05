@@ -43,6 +43,93 @@ County boundaries may be adjusted by mutual consent of affected county commissio
 
 Artificial entities (corporations, LLCs, partnerships, trusts) hold **no constitutional rights**. They possess only statutory privileges granted by their chartering county, revocable at will. No corporate claim under Article VI. Shareholders personally liable for corporate torts/crimes unless adequate insurance is carried (county risk board sets minimums).
 
+### Section 6: County Stand-Up Defaults & Fallbacks
+
+**Purpose**: Ensure every county has functioning governance from Decree Day, even if local organizers fail to act. Sovereignty is per-county, but the Confederation cannot tolerate governance vacuums.
+
+#### 6.1 Model Charter (Auto-Adoptable)
+
+The Transition Trust publishes a **Model County Charter** (Year 0) that any county may adopt by **simple commission resolution** — no referendum required for initial adoption. The Model Charter includes:
+
+- **Government structure**: 5-member commission (staggered 4-year terms), elected sheriff, elected clerk, appointed judge (merit + sortition), appointed treasurer
+- **Revenue**: LVT (2% default rate), consumption tax (3%), user fees per schedule
+- **Mutuals**: Auto-opt-in to State Pension Mutual, State Health Mutual, State Deposit Mutual, State Disability Mutual (county may opt out by 60% referendum within 2 years)
+- **Compacts**: Auto-opt-in to Infrastructure Compact, Watershed Compact, Grid Compact, Cyber Compact, Criminal Investigation Compact (county may opt out by commission vote within 2 years)
+- **Term limits**: 3 terms (12 years) for commissioners; 2 terms (8 years) for sheriff
+- **Recall**: 25% petition threshold, 60% vote to remove
+- **Sortition**: Citizen panels for charter review (every 5 years), judicial retention, audit oversight
+- **Sunset**: All county ordinances expire in 5 years unless re-authorized
+
+**Adoption**: County commission passes resolution → Model Charter effective immediately. **Referendum to customize** may be called anytime (10% petition, majority vote).
+
+#### 6.2 Interim Administration (If No Commission Forms by Month 18)
+
+| Trigger                                               | Interim Authority                                                                              | Powers                                                                                                  | Duration                                          |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **No charter ratified by Month 18**                   | **State Interim Administrator** (appointed by State Council, confirmed by Council of Counties) | Full county powers: levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts | Until charter ratified or consolidation completes |
+| **Commission elected but no quorum (vacancies >50%)** | **State Interim Administrator** + **sortition citizen panel** (7 residents)                    | Fill vacancies, run essential functions                                                                 | Until special election (within 90 days)           |
+| **Sheriff vacancy >60 days**                          | **State Court of Appeals appoints special marshal** (from adjacent county sheriff roster)      | Execute all sheriff duties                                                                              | Until elected sheriff seated                      |
+| **Court vacancy >90 days**                            | **State Court of Appeals assigns visiting judge**                                              | Hear all cases                                                                                          | Until elected/appointed judge seated              |
+
+**Funding**: Interim administration costs paid from **county LVT revenue** (Trust advances if cash-flow negative; repaid from first auction proceeds).
+
+#### 6.3 Default Opt-In to Mutuals & Compacts
+
+| Entity                             | Default Status                       | Opt-Out Mechanism              |
+| ---------------------------------- | ------------------------------------ | ------------------------------ |
+| **State Pension Mutual**           | Auto-enrolled (all county employees) | 60% referendum within 2 years  |
+| **State Health Mutual**            | Auto-enrolled (all residents)        | 60% referendum within 2 years  |
+| **State Deposit Mutual**           | Auto-enrolled (all county banks)     | Commission vote within 2 years |
+| **State Disability Mutual**        | Auto-enrolled (all residents)        | 60% referendum within 2 years  |
+| **Infrastructure Compact**         | Auto-enrolled                        | Commission vote within 2 years |
+| **Watershed Compact**              | Auto-enrolled (if in watershed)      | Commission vote within 2 years |
+| **Grid Compact**                   | Auto-enrolled                        | Commission vote within 2 years |
+| **Cyber Compact**                  | Auto-enrolled                        | Commission vote within 2 years |
+| **Criminal Investigation Compact** | Auto-enrolled                        | Commission vote within 2 years |
+
+**No county starts from zero.** Every county has pension, health, deposit, disability, infrastructure, watershed, grid, cyber, and criminal investigation coverage **from Month 18** unless it affirmatively opts out.
+
+#### 6.4 Automatic Consolidation Trigger (Not Just Offer)
+
+**Current D-1 (Art IV §3)**: Voluntary offer for counties <10k pop or 2-year staffing failure.
+
+**New Trigger (Mandatory after 3 years)**:
+
+| Condition                                                                | Action                                                                                                                                                                |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **County fails to ratify charter by Year 3**                             | **Automatic consolidation** into largest contiguous county in same state. No commission consent required. Referendum held in _receiving_ county only (majority vote). |
+| **County fails to seat sheriff + court + commission by Year 3**          | Same automatic consolidation.                                                                                                                                         |
+| **County LVT collection <50% of assessed value for 2 consecutive years** | Same automatic consolidation.                                                                                                                                         |
+| **County population <5,000** (regardless of staffing)                    | **Mandatory consolidation** into largest contiguous county. Referendum in receiving county only.                                                                      |
+
+**Consolidated county assumes**: all assets, liabilities, mutual memberships, compact memberships, personnel, and federal surplus property allocations of the dissolved county.
+
+**Residents of consolidated county**: Retain all mutual benefits, pension accruals, health coverage, and voting rights in receiving county. No loss of benefits.
+
+#### 6.5 State Receivership (Last Resort)
+
+If **no adjacent county accepts consolidation** (e.g., isolated county, all neighbors refuse):
+
+1. **State Council appoints Receiver** (3-person board: State AG + State Treasurer + sortition citizen)
+2. **Receiver operates county** as a going concern: collects LVT, runs auctions, maintains sheriff/court, pays mutual premiums
+3. **Receiver must seek consolidation** every 12 months until successful
+4. **Receiver dissolves** when consolidation completes or county ratifies own charter (60% referendum)
+
+**No county becomes a ward of the Confederation.** The Confederation has no administrative capacity. State receivership is the backstop.
+
+#### 6.6 Timeline Summary
+
+| Deadline     | Requirement                                       | Fallback                                   |
+| ------------ | ------------------------------------------------- | ------------------------------------------ |
+| **Month 6**  | Asset Data Room live (asset-transfer.md §1A)      | Trust operates directly                    |
+| **Month 12** | First county charters ratified                    | Interim administrators appointed           |
+| **Month 18** | **All counties** have charter or interim admin    | State Interim Administrator auto-appointed |
+| **Year 2**   | 2,000+ counties ratified (Constitution permanent) | Provisional Constitution extends           |
+| **Year 3**   | **All counties** ratified charter or consolidated | **Automatic consolidation trigger**        |
+| **Year 5**   | All statutes sunset; charters re-ratified         | Non-compliant counties → receivership      |
+
+**Design principle**: **No governance vacuum.** Every county has functioning government from Month 18, either by its own charter or by interim administration. By Year 3, every county is either self-governing or consolidated. The system tolerates late stand-up but not permanent failure.
+
 ---
 
 ## Article II: The State (Coordination + Minimum Standards)
@@ -195,7 +282,15 @@ Citizens of each county enjoy equal privileges in all counties. No county may di
 ### Section 3: New States / Secession
 
 - **New state**: Contiguous counties (min. 3) petition Congress. Admitted by simple majority both chambers.
-- **Secession**: Contiguous counties (any number) may secede to form new state by 60% referendum in each county. Federal property bought at assessed value. Confederation debts allocated per capita.
+- **Secession**: Contiguous counties (any number) may secede to form a new sovereign polity by 60% referendum in each county. **Secession does not take effect until a Post-Secession Relationship Compact is ratified by both the seceding entity and the Confederation (via Council of Counties majority).** The Relationship Compact must cover:
+  - **Transit corridors**: Guaranteed passage for rail, road, pipeline, and transmission across Confederation territory (and vice versa).
+  - **Watershed continuity**: Upstream/downstream obligations per existing Watershed Compacts; no unilateral diversion or degradation.
+  - **Grid reliability**: Continued participation in Electric Reliability Compact (generation, transmission, frequency regulation) or negotiated equivalent.
+  - **Border management**: Joint border commission (sheriffs from both sides); coordinated entry/exit, asylum, customs.
+  - **Debt & infrastructure allocation**: Federal property bought at assessed value; Confederation debts allocated per capita; shared infrastructure (interstate highways, rail, pipelines, dams) valued and allocated.
+  - **Mutual & pension portability**: Residents moving across the new border retain pension accruals, health mutual coverage, disability benefits; portability agreements for State/County mutuals.
+  - **Cross-border harm liability**: Seceded entity liable for downstream harm (water, pollution, grid instability, criminal flight); judgments enforceable in both jurisdictions.
+  - **Compact continuity**: Option to remain in Confederation compacts (Digital Backbone, Cyber, Criminal Investigation, Infrastructure) as associate members with assessed contributions.
 - **County exit from state**: County may leave its state by 60% referendum + acceptance by new state's Council of Counties.
 - **Automatic consolidation offer**: A county with population under 10,000, or one unable to staff a sheriff, court, and commission for 2 consecutive years, receives an automatic consolidation offer from the State Council — the largest contiguous county within the same state. Consolidation requires consent of both county commissions and a majority referendum in each (Art I §4). Contiguous small counties may also jointly consolidate into a single county, with commission consent and a single majority referendum across all participating counties. Voluntary; no merger is forced.
 

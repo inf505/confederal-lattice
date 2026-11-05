@@ -207,7 +207,218 @@
 
 ---
 
-## 10. The Bottom Line
+## 10. IT Workforce Transition (Critical Path — Year 0)
+
+**Federal IT workforce: ~200–300k** across all agencies (DoD, DHS, Treasury, HHS, DOJ, SSA, IRS, etc.). **Needed immediately** for:
+
+| System                                                   | Need                                                                          | Timeline        | Staffing          |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | ----------------- |
+| **Asset Data Room** (asset-transfer.md §1A)              | Title, GIS, environmental, zoning data for 640M acres/270k buildings          | Year 0, Month 3 | 500–1,000         |
+| **County Auction Platform** (asset-transfer.md §1A)      | National SaaS: listing, bidding, escrow, title transfer                       | Year 0, Month 6 | 200–500           |
+| **Transition Trust Financials** (debt-obligations.md §9) | Trust notes ($15–24T), coupon ($150–240B/yr), levy ($500B/yr), asset proceeds | Year 0, Month 3 | 100–200           |
+| **LVT Assessment Systems**                               | County land values, improvements, exemptions, billing, collection             | Year 1–2        | 1,000–2,000       |
+| **Mutuals/Compacts Platforms**                           | Pension, health, deposit, disability + 9 compact types                        | Year 1–3        | 500–1,000         |
+| **Law Enforcement / Courts**                             | SBI, Criminal Investigation Compact, cross-county warrants, case mgmt         | Year 1–2        | 500–1,000         |
+| **Health/Pension/Deposit Mutuals**                       | Claims, enrollment, premiums, reserves, reinsurance, portability              | Year 1–3        | 500–1,000         |
+| **Census / Elections / Digital ID**                      | County censuses → national count, voter rolls, sortition, crypto credentials  | Year 1–2        | 300–500           |
+| **Cyber Defense / Infra Monitoring**                     | County cyber units, grid/fiber monitoring, incident response                  | Year 0–1        | 500–1,000         |
+| **Project Mgmt / QA / Security**                         | Cross-cutting                                                                 | Year 0–5        | 500–1,000         |
+| **Total**                                                |                                                                               |                 | **~5,000–10,000** |
+
+### 10.1 IT-Specific Transition Paths
+
+| Path                                    | Terms                                                                                                               | Destination                                                                                 |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **A. Trust IT Office (Year 0–2)**       | **Immediate hire** by Transition Trust. 2-year term, renewable to 5. Pay: federal GS + 20% hazard. Remote-eligible. | Build Data Room, auction platform, Trust financials. Then transfer to county/compact roles. |
+| **B. County/Compact IT (Year 1+)**      | Standard transfer (Option A in §3.1). Same pay 2 years, then county scale.                                          | County LVT systems, mutuals, courts, elections, cyber units.                                |
+| **C. Digital Backbone / Cyber Compact** | Compact hire (interstate). Pay: compact scale (county-weighted).                                                    | Digital Backbone Compact (fiber, spectrum), Cyber Compact (SOC, monitoring).                |
+| **D. Retrain (Non-IT → IT)**            | County apprenticeship (paid stipend + tuition). 6–12 months.                                                        | Entry-level IT roles in county/compact systems.                                             |
+| **E. Severance / Retire**               | Standard (§3.1 Options C/D).                                                                                        | Exit.                                                                                       |
+
+### 10.2 Trust IT Office — Year 0 Stand-Up
+
+| Step                             | Deadline         | Responsible                                 |
+| -------------------------------- | ---------------- | ------------------------------------------- |
+| **Trust IT Director appointed**  | Decree + 30 days | Trust trustees (sortition + experts)        |
+| **Core team hired (50 senior)**  | Month 2          | IT Director (federal IT veterans preferred) |
+| **Data Room platform procured**  | Month 2          | IT Director + procurement                   |
+| **Auction SaaS procured**        | Month 3          | IT Director + procurement                   |
+| **Financial systems configured** | Month 3          | IT Director + 3 financial experts           |
+| **Full team (500) onboarded**    | Month 6          | IT Director + county job centers            |
+| **Handoff to counties/compacts** | Year 2           | IT Director + State Council                 |
+
+**Funding**: Trust Year 0–2 (~$500M/yr). **Year 2+**: County LVT + compact assessments.
+
+### 10.3 Sourcing the IT Workforce
+
+| Source                                                                 | Est. Available | Mechanism                                               |
+| ---------------------------------------------------------------------- | -------------- | ------------------------------------------------------- |
+| **Federal civilian IT** (DoD, DHS, Treasury, HHS, DOJ, SSA, IRS, etc.) | 150–200k       | Transfer path A (Trust IT Office) or B (County/Compact) |
+| **Military IT / Cyber** (active + reserve)                             | 50–80k         | State Guard → Cyber Compact / County cyber unit         |
+| **Contractor IT** (federal contracts)                                  | 200–300k       | Job center priority; retrain path D; private market     |
+| **State/local IT**                                                     | 300–500k       | Already in place; absorbed into county/compact roles    |
+| **Private sector**                                                     | Unlimited      | Hired by counties/compacts/Trust (LVT-funded)           |
+| **Sortition technologists**                                            | ~5k/yr         | Citizen audit/oversight panels (not operations)         |
+
+### 10.4 Cross-References
+
+- **asset-transfer.md §1A.6** (Data Room & Due Diligence) → Trust IT Office builds/operates
+- **asset-transfer.md §1A.2** (County Auction Authority) → Trust IT Office procures/operates auction SaaS
+- **infrastructure.md §3** (Digital Backbone Compact) → Cyber Compact / Digital Backbone Compact hire from IT transition pool
+- **vestigial-functions.md §2** (TEC-01) → County cyber units, AI governance, digital ID from IT transition pool
+- **debt-obligations.md §9** (Trust Financials) → Trust IT Office configures/operates
+- **civic-operations.md §1–2** (Census, Elections, Digital ID) → County IT systems from transition pool
+
+---
+
+## 11. Trust Asset Sales Operations (Critical Path — Year 0–7)
+
+**Federal asset sales workforce: ~1,600–3,000** needed for the liquidation of ~$4–7T in surplus federal assets (land, buildings, equipment, spectrum, reserves). **Peak Years 1–4**. Dissolves with Trust (Year 10–12).
+
+### 11.1 Staffing Estimate
+
+| Role                                                    | Count            | Duration           | Source                                                 |
+| ------------------------------------------------------- | ---------------- | ------------------ | ------------------------------------------------------ |
+| **Appraisers** (land, buildings, mineral, water rights) | 500–1,000        | Years 0–5          | Federal appraisers (GSA, BLM, USFS, VA) + private      |
+| **Title Attorneys / Paralegals**                        | 300–500          | Years 0–5          | Federal title staff + private                          |
+| **Auctioneers / Sale Managers**                         | 100–200          | Years 1–5          | Private auction firms (GovPlanet, Williams & Williams) |
+| **Marketing / Buyer Outreach**                          | 100–200          | Years 1–5          | Private marketing + federal surplus property staff     |
+| **Environmental Reviewers** (Phase I/II)                | 200–400          | Years 0–3          | EPA, BLM, USFS detailees + private consultants         |
+| **Closing Agents / Escrow**                             | 200–300          | Years 1–5          | Title companies + federal closing staff                |
+| **Buyer Due Diligence / Compliance**                    | 100–200          | Years 1–5          | Federal procurement/compliance + private               |
+| **Project Management / QA**                             | 100–200          | Years 0–5          | Federal PMs + private                                  |
+| **Total**                                               | **~1,600–3,000** | **Peak Years 1–4** |                                                        |
+
+### 11.2 Two-Tier Structure
+
+| Tier                                         | Role                                                                                                | Employer                 | Timeline |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------ | -------- |
+| **Trust Asset Sales Office (Central)**       | Strategy, standards, procurement, oversight, cross-county coordination, Data Room, auction platform | **Transition Trust**     | Year 0–7 |
+| **County Auction Authorities (Distributed)** | Local auctions, buyer outreach, closing, post-sale                                                  | **County** (per charter) | Year 1–7 |
+
+### 11.3 Asset Sales Transition Paths
+
+| Path                                       | Destination                                                          |
+| ------------------------------------------ | -------------------------------------------------------------------- |
+| **A. Trust Asset Sales Office** (Year 0–7) | Central coordination → dissolve with Trust                           |
+| **B. County Land Bank / Asset Manager**    | County retains unsold assets, manages leases, future sales           |
+| **C. Compact Asset Manager**               | Regional compacts (water, energy, rail) manage infrastructure assets |
+| **D. Private Sector**                      | Title companies, auction firms, REITs, developers                    |
+| **E. Severance / Retire**                  | Standard (§3.1 Options C/D)                                          |
+
+### 11.4 Post-Liquidation Outcomes (What Happens Afterward)
+
+**Trust Asset Sales Office dissolves Year 7–10** (80% sold by Year 5–6, tail to Year 7–10). Staff transition:
+
+| Destination                          | Est. % | Mechanism                                                                               |
+| ------------------------------------ | ------ | --------------------------------------------------------------------------------------- |
+| **County Land Bank / Asset Manager** | 40–50% | County hires from Trust pool; manages unsold surplus, leases, future sales              |
+| **Compact Asset Manager**            | 15–20% | Regional compacts (water, energy, rail, fiber) hire for infrastructure asset management |
+| **Private Sector**                   | 20–30% | Title companies, auction firms, REITs, developers, private equity                       |
+| **State Trust Land Manager**         | 5–10%  | State land boards (BLM/USFS trust lands) hire for grazing, timber, mineral leases       |
+| **Severance / Retire**               | 5–10%  | Standard (§3.1 Options C/D)                                                             |
+
+**No one is stranded.** Every role has a clear destination:
+
+- **County land banks** need appraisers, title attorneys, asset managers for the 20% unsold tail + ongoing lease management
+- **Compacts** need asset managers for infrastructure (dams, transmission, fiber, rail)
+- **State trust lands** (245M acres BLM + 193M acres USFS) need grazing/timber/mineral lease managers
+- **Private sector** absorbs auctioneers, marketers, closing agents (booming market in federal surplus)
+
+### 11.5 Funding & Timeline
+
+| Phase               | Period             | Funding Source                                       | Staffing              |
+| ------------------- | ------------------ | ---------------------------------------------------- | --------------------- |
+| **Stand-Up**        | Year 0, Months 1–6 | Trust direct                                         | Core team (50 senior) |
+| **Peak Operations** | Years 1–4          | 3% of gross proceeds (capped $50M/yr/county) + Trust | 1,600–3,000           |
+| **Wind-Down**       | Years 5–7          | 3% of proceeds + Trust (declining)                   | 500–1,000             |
+| **Dissolution**     | Years 8–10         | Trust residual                                       | <100 (closeout)       |
+
+**Trust note maturity should be 15–20 years** (asset-transfer.md §1A.8) to match liquidation tail.
+
+### 11.6 Cross-References
+
+- **asset-transfer.md §1A.1** (Phased Auction Calendar) → Trust Asset Sales Office runs Phases 1–3
+- **asset-transfer.md §1A.2** (County Auction Authority) → County Auction Authorities are the distributed tier
+- **asset-transfer.md §1A.3** (Unsold Asset Protocols) → County land banks (Path B) receive unsold assets
+- **asset-transfer.md §1A.5** (Environmental Liability) → Environmental reviewers (Trust) → county brownfield authorities
+- **asset-transfer.md §1A.7** (Proceeds Flow) → 3% fee funds County Auction Authorities; Trust sweep funds central office
+- **public-finance.md §3** (State Sovereign Wealth Fund) → State trust land managers (Path D) receive grazing/timber/mineral revenue
+
+---
+
+## 12. County End-User Training Program (Critical Path — Year 1–3)
+
+**County staff need training on systems built by Trust IT Office and operated by Trust Asset Sales Office.**
+
+### 12.1 Who Needs Training
+
+| Role                      | Systems                                                                   | Training Gap   |
+| ------------------------- | ------------------------------------------------------------------------- | -------------- |
+| **County Clerk**          | Census, elections, digital ID, sortition, auction platform, land records  | None specified |
+| **County Assessor**       | LVT assessment, GIS, exemptions, billing, collection                      | None specified |
+| **County Treasurer**      | Trust financials, auction proceeds, levy collection, mutual premiums      | None specified |
+| **County Commissioners**  | Mutual governance, compact voting, budget, minimum standards              | None specified |
+| **Sheriff / Deputies**    | SBI, Criminal Investigation Compact, cross-county warrants, cyber alerts  | None specified |
+| **County Cyber Unit**     | Grid/fiber monitoring, incident response, threat intel sharing            | None specified |
+| **Mutual Board Members**  | Pension/health/deposit/disability mutual governance, claims, reserves     | None specified |
+| **Compact Commissioners** | Digital Backbone, Watershed, Grid, Cyber, Criminal Investigation compacts | None specified |
+
+### 12.2 Training Delivery Model
+
+| Phase                      | Period                            | Mechanism                                                                             | Audience                           |
+| -------------------------- | --------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------- |
+| **Train-the-Trainer**      | Year 1, Months 1–6                | Trust IT Office + Asset Sales Office train **State Master Trainers** (50 per state)   | State Master Trainers              |
+| **County Bootcamps**       | Year 1, Month 6 – Year 2, Month 6 | 2-week intensives per role (clerk, assessor, treasurer, sheriff, commissioner, cyber) | All county elected/appointed staff |
+| **Compact Certification**  | Year 2, Months 1–6                | Compact secretariats certify commissioners on compact rules, voting, assessments      | Compact commissioners              |
+| **Ongoing Apprenticeship** | Year 2+                           | County-chartered, sortition-overseen; 1-year rotations                                | New hires, role changes            |
+| **Refresher / Updates**    | Annual                            | Trust (Years 1–5) → State (Year 5+)                                                   | All roles                          |
+
+### 12.3 Curriculum by Role
+
+| Role                      | Core Modules (2-Week Bootcamp)                                                                                                    |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **County Clerk**          | Census admin, election systems, digital ID issuance, sortition selection, auction platform (buyer side), land records integration |
+| **County Assessor**       | LVT methodology, GIS parcel layer, improvement valuation, exemption processing, billing/collection, TAN integration               |
+| **County Treasurer**      | Trust financials portal, auction proceeds sweep, levy collection, mutual premium remittance, TAN issuance, cash management        |
+| **County Commissioners**  | Mutual governance (fiduciary duty), compact voting rules, budget process, minimum standards compliance, county veto               |
+| **Sheriff / Deputies**    | SBI case portal, Criminal Investigation Compact warrant execution, cross-county duty of office, cyber alert response              |
+| **County Cyber Unit**     | Grid/fiber monitoring dashboard, incident response playbook, threat intel sharing (Cyber Compact), vulnerability management       |
+| **Mutual Board Members**  | Fiduciary duty, claims adjudication, reserve adequacy, reinsurance, portability, investment policy                                |
+| **Compact Commissioners** | Compact charter, assessment formulas, voting rules, project approval, dispute resolution, state surcharge                         |
+
+### 12.4 Train-the-Trainer Cascade
+
+| Level                     | Count                      | Selection                                      | Responsibility                                    |
+| ------------------------- | -------------------------- | ---------------------------------------------- | ------------------------------------------------- |
+| **Trust Master Trainers** | 20–30                      | Trust IT + Asset Sales senior staff            | Develop curriculum, train State Master Trainers   |
+| **State Master Trainers** | 50 per state (2,500 total) | State Council appoints (sortition + expertise) | Deliver County Bootcamps in their state           |
+| **County Trainers**       | 2–5 per county             | County commission appoints                     | Deliver ongoing apprenticeship, refresher courses |
+
+### 12.5 Funding & Timeline
+
+| Phase                      | Period              | Funding                                     | Audience                |
+| -------------------------- | ------------------- | ------------------------------------------- | ----------------------- |
+| **Curriculum Development** | Year 0, Months 6–12 | Trust direct                                | N/A                     |
+| **Train-the-Trainer**      | Year 1, Months 1–6  | Trust direct                                | State Master Trainers   |
+| **County Bootcamps**       | Year 1–2            | Trust direct (Year 1) → County LVT (Year 2) | All county staff        |
+| **Compact Certification**  | Year 2              | Compact assessments                         | Compact commissioners   |
+| **Ongoing Apprenticeship** | Year 2+             | County LVT + compact assessments            | New hires, role changes |
+| **Refresher / Updates**    | Annual              | State assessments (Year 5+)                 | All roles               |
+
+### 12.6 Cross-References
+
+- **personnel-transition.md §10** (IT Workforce) → Trust IT Office builds systems; County IT staff trained on them
+- **personnel-transition.md §11** (Asset Sales) → Trust Asset Sales Office runs auctions; County clerks/assessors trained on platform
+- **asset-transfer.md §1A** (Liquidation Logistics) → County auction authorities trained on auction SaaS, title transfer
+- **infrastructure.md §3** (Digital Backbone Compact) → County cyber units trained on monitoring dashboard
+- **vestigial-functions.md §2** (TEC-01) → County cyber units, AI governance, digital ID training
+- **civic-operations.md §1–2** (Census, Elections, Digital ID) → County clerk training on census, election, ID systems
+- **public-finance.md §5** (Pension Trusts) → Mutual board training on fiduciary duty, reserves
+
+---
+
+## 13. The Bottom Line
 
 **~12M people affected. No mass firing. Every person gets a path: transfer, retrain, severance, or retire.**
 

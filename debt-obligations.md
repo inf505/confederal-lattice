@@ -8,19 +8,22 @@
 
 ## 1. The Legacy Balance Sheet (What Must Be Settled)
 
-| Category                                | Approx. Amount | Nature                               |
-| --------------------------------------- | -------------- | ------------------------------------ |
-| **Public debt held by public**          | ~$27T          | Marketable Treasuries                |
-| **Intragovernmental debt**              | ~$7T           | Trust fund IOUs (SS, Medicare, etc.) |
-| **Unfunded pension liabilities**        | ~$3.5T         | Civil service, military retirement   |
-| **Veterans' disability/compensation**   | ~$150B/yr flow | Statutory entitlement                |
-| **Federal employee benefits**           | ~$100B/yr flow | FEHB, FEGLI, FERS                    |
-| **Contractor claims / backlog**         | ~$500B         | Procurement, grants, leases          |
-| **Student loan portfolio**              | ~$1.7T         | Direct loans                         |
-| **Mortgage guarantees (FHA/VA/Ginnie)** | ~$8T exposure  | Contingent                           |
-| **Deposit insurance (FDIC/NCUA)**       | ~$10T insured  | Contingent                           |
-| **Pension guarantee (PBGC)**            | ~$120B deficit | Contingent                           |
-| **Total explicit + contingent**         | **~$60T+**     | —                                    |
+| Category                                               | Approx. Amount | Nature                                                                                                                |
+| ------------------------------------------------------ | -------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Public debt held by public**                         | ~$27T          | Marketable Treasuries                                                                                                 |
+| **Intragovernmental debt**                             | ~$7T           | Trust fund IOUs (SS, Medicare, etc.)                                                                                  |
+| **Unfunded federal entitlement obligations (PV)**      | **~$75–80T**   | Social Security (~$24T) + Medicare (~$50–55T) 75-year PV shortfall                                                    |
+| **Unfunded state/local pensions (PV)**                 | ~$4–5T         | If inherited via transition                                                                                           |
+| **Veterans' disability (accrued liability, PV)**       | **~$5.3T**     | Tiered: 100%/IU/SMC lifetime (COLA frozen), 70-90% lifetime (no COLA), ≤60% lump sum, DIC/presumptive → county mutual |
+| **Federal employee benefits (accrued liability, PV)**  | ~$3T           | FEHB, FEGLI, FERS accrued                                                                                             |
+| **Contractor claims / backlog**                        | ~$500B         | Procurement, grants, leases                                                                                           |
+| **Mortgage guarantees (FHA/VA/Ginnie/Fannie/Freddie)** | ~$8T exposure  | **Contingent exposure** (separate category)                                                                           |
+| **Deposit insurance (FDIC/NCUA)**                      | ~$10T insured  | **Contingent exposure** (separate category)                                                                           |
+| **Pension guarantee (PBGC)**                           | ~$60B surplus  | Contingent (currently funded)                                                                                         |
+| **Total explicit debt + accrued liabilities**          | **~$118–123T** | —                                                                                                                     |
+| **Total contingent exposure**                          | **~$18T**      | Mortgage guarantees + deposit insurance                                                                               |
+
+**Note**: Annual spending flows (veterans disability ~$150B/yr, federal employee benefits ~$100B/yr) are **not** balance-sheet debt. Student loans (~$1.7T) are a federal **asset**, not a liability, and are removed from the debt side. PBGC currently operates at a ~$60B surplus.
 
 **No successor can carry this.** The settlement must be decisive.
 
@@ -49,28 +52,45 @@
 
 ### 3.2 Funding the Payoff
 
-| Source                 | Est. Value    | Notes                                            |
-| ---------------------- | ------------- | ------------------------------------------------ |
-| **Federal land sales** | ~$2–5T        | BLM/USFS surplus parcels, not parks/wilderness   |
-| **Federal buildings**  | ~$500B        | DC, regional offices                             |
-| **Spectrum auctions**  | ~$500B        | FCC-held licenses                                |
-| **Strategic reserves** | ~$100B        | SPR, helium, minerals                            |
-| **Gold revaluation**   | ~$500B        | Treasury gold at market                          |
-| **Seigniorage (coin)** | ~$50B/yr      | Mint profit during transition                    |
-| **Transition levy**    | ~$500B/yr × 5 | Temporary, on high-income/high-wealth (see §3.3) |
-| **Asset sales total**  | **~$4–7T**    | Covers ~20–25% of debt                           |
+| Source                 | Est. Value    | Notes                                               |
+| ---------------------- | ------------- | --------------------------------------------------- |
+| **Federal land sales** | ~$2–5T        | BLM/USFS surplus parcels, not parks/wilderness      |
+| **Federal buildings**  | ~$500B        | DC, regional offices                                |
+| **Spectrum auctions**  | ~$500B        | FCC-held licenses                                   |
+| **Strategic reserves** | ~$100B        | SPR, helium, minerals                               |
+| **Gold revaluation**   | ~$500B        | Treasury gold at market                             |
+| **Seigniorage (coin)** | ~$50B/yr      | Mint profit during transition                       |
+| **Transition levy**    | ~$500B/yr × 5 | Temporary, on high-income/high-wealth (see §3.3)    |
+| **Asset sales total**  | **~$4–7T**    | Covers ~3–6% of explicit debt + accrued liabilities |
 
 ### 3.3 The Gap (Honest Accounting)
 
-Asset sales + levy cover ~$5–8T of $27T. The remainder (~$19–22T) must be handled by one of:
+Asset sales + levy cover ~$5–8T of the **$27T public debt held by the public**. The remainder of the public debt, plus transition cohort benefits (5 yr), contractor claims, and contingent wind-down, must be funded by the Transition Trust.
 
-- **Haircut**: Negotiated reduction with holders (e.g., 50 cents on the dollar). Requires creditor consent or collective action clause.
-- **10-year Transition Trust notes**: Transition Trust instruments paying a 1% coupon, funded by a **temporary** county assessment that **sunsets with the Trust at Year 10**. Terminology note: these are **not consols** — a consol is a perpetuity, and these self-liquidate at Year 10. Not government debt.
-- **Currency conversion**: Pay in coin at a revalued rate (inflationary for holders, but no default).
+**The $75–80T unfunded entitlement PV and ~$4–5T state/local pension PV are NOT funded by the Trust.** Only the transition cohort (current retirees + near-retirees 55+) receives Trust-funded benefits for 5 years. Workers <55 transition to county DC plans/health mutuals with no federal backstop.
 
-**Recommended**: **Haircut + 10-year Trust notes**. Private holders take a 40–50% haircut (recognizing the old regime's insolvency); remaining claims converted to 1% Trust notes funded by a capped county assessment (~0.5% of LVT) that **ends when the Trust dissolves at Year 10**. This is a default in substance but negotiated and transparent.
+**Recommended: Tiered Haircut by Holder Class** (closes the coupon gap; makes the geopolitical bet explicit)
 
-**Alternative (harder line)**: Full repudiation of debt held by foreign governments and the Fed (the largest holders), pay domestic retail holders in full. Politically explosive; legally cleaner.
+| Holder Class                                                         | Est. Holdings | Treatment                                                                                                                                     | Haircut Savings  |
+| -------------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **Federal Reserve (SOMA)**                                           | ~$5T          | **Full extinguishment on Decree Day** — intragovernmental accounting entry; no external creditor                                              | **$5T**          |
+| **Foreign official (central banks, sovereign wealth)**               | ~$7–8T        | **60–75% haircut**; remainder → 10-yr Trust notes (1%) or coin at face (holder choice). No legal forum; dollar reserve status ends by design. | **$4.2–6T**      |
+| **Domestic institutional** (mutual funds, pensions, banks, insurers) | ~$11–13T      | **40–50% haircut**; remainder → 10-yr Trust notes (1%). Principle 1: partial payment + notes = compensation.                                  | **$4.4–6.5T**    |
+| **Domestic retail** (≤$500k/household)                               | ~$1–2T        | **Opt-in swap at par** (D-10 program): LVT credits, TANs, or Trust notes. No haircut.                                                         | **$0**           |
+| **Total haircut savings**                                            | —             | —                                                                                                                                             | **~$13.6–17.5T** |
+
+**Resulting Trust note principal**: ~$27T – $13.6–17.5T haircut = **~$9.5–13.4T** (public debt remainder) + transition cohort benefits (~$5–8T) + contractor claims (~$0.5T) + contingent wind-down (~$2–4T) = **~$17–26T total Trust note principal**.
+
+**Coupon arithmetic**: $17–26T × 1% = **$170–260B/yr**.
+
+- Reading A (0.5% of LVT revenue): $2.5–9B/yr → **19–104× shortfall** (still fails)
+- Reading B (0.5% of land value): $125–175B/yr → **1.0–2.1× coverage** (Reading B now covers at lower end; marginal at upper end)
+
+**Design note**: The coupon gap is **closed at the lower end of Trust note principal** (~$17T) under Reading B. At the upper end (~$26T), Reading B falls short. Design levers (see below) absorb the residual: lengthen maturity to 20 years (coupon → $85–130B/yr), raise assessment to 0.75–1% of land value, or shrink transition cohort (raise cutoff age from 55 to 60).
+
+**Principle 1 tension**: Foreign official holders are market "private holders." A 60–75% haircut is repudiation. The design accepts this because: (a) no successor state = no forum to sue; (b) dollar reserve status ends by design — foreign official holdings are the _mechanism_ of that status; (c) allies (Japan, UK, EU) take the same hit as adversaries; (d) the Confederation cannot borrow internationally for a generation regardless. This is a feature, not a bug.
+
+**Alternative (cleaner but harder)**: Full extinguishment of Fed + foreign official (~$12–13T); domestic institutional 50% haircut; retail protected. Trust note principal ~$10–15T. Coupon $100–150B/yr. Reading B covers cleanly. Diplomatic rupture total.
 
 ### 3.4 Voluntary Conversion Premium (Equity-Driven Transition Levy)
 
@@ -98,11 +118,23 @@ Before imposing the haircut, **retail Treasury holders** (individuals, not insti
 
 ---
 
-## 4. Intragovernmental Debt (~$7T) — Extinguished
+## 4. Intragovernmental Debt & Unfunded Entitlements — Extinguished
 
 ### 4.1 The Accounting Fiction
 
-Social Security and Medicare "trust funds" hold special-issue Treasuries — IOUs from one part of the government to another. They are not assets; they are claims on future tax revenue. **They are extinguished at transition.**
+Social Security and Medicare "trust funds" hold special-issue Treasuries (~$7T) — IOUs from one part of the government to another. They are not assets; they are claims on future tax revenue. **They are extinguished at transition.**
+
+### 4.2 The Real Unfunded Obligation
+
+The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year present value shortfall** for the programs those trust funds notionally back is:
+
+| Program                 | 75-Year PV Shortfall | Source               |
+| ----------------------- | -------------------- | -------------------- |
+| **Social Security**     | ~$24T                | 2024 Trustees Report |
+| **Medicare (HI + SMI)** | ~$50–55T             | 2024 Trustees Report |
+| **Total**               | **~$75–80T**         | —                    |
+
+**These are not debts the Confederation inherits.** They are open-ended statutory promises of the old regime. The settlement rule: **accrued benefits for current/near-retirees are honored via the Transition Trust (5-year tail); future accrual stops; workers under 55 transition to county DC plans and health mutuals.** No intergenerational transfer beyond the transition window.
 
 ### 4.2 Beneficiary Transition
 
@@ -166,14 +198,28 @@ Social Security and Medicare "trust funds" hold special-issue Treasuries — IOU
 - **Veterans** = county health mutual members (automatic). Service-connected care = mutual covers, county LVT subsidizes.
 - **No VA bureaucracy.** No "VA disability rating" for care access.
 
-### 6.2 Disability Compensation
+### 6.2 Disability Compensation (Accrued Liability PV ~$5.3T)
 
-| Element                      | Settlement                                                                        |
-| ---------------------------- | --------------------------------------------------------------------------------- |
-| **Existing ratings**         | Honored at current level, paid by Transition Trust (lifetime)                     |
-| **New claims**               | County disability mutual (occupational injury model) + independent medical review |
-| **Appeals**                  | County trial court (not VA Board)                                                 |
-| **Clothing allowance, etc.** | Folded into disability payment                                                    |
+**Tiered by rating severity** — aligns with the occupational injury model for new claims. Only the most severely impaired retain lifetime Trust funding; lower ratings transition to county mutuals or lump sums.
+
+| Rating Tier                                                    | Veterans | Treatment                                                          | Trust PV   |
+| -------------------------------------------------------------- | -------- | ------------------------------------------------------------------ | ---------- |
+| **100% / IU / SMC** (life-altering, often combat)              | ~500k    | Lifetime Trust annuity, **COLA frozen** at transition CPI          | ~$2.5T     |
+| **70–90%** (significant impairment)                            | ~1.2M    | Lifetime Trust annuity, **no COLA** (nominal fixed)                | ~$1.5T     |
+| **50–60%** (manageable)                                        | ~1.0M    | **Lump sum** at 80% actuarial value; then county disability mutual | ~$0.8T     |
+| **≤40%** (mild)                                                | ~1.5M    | **Lump sum** at 70% actuarial value; then county disability mutual | ~$0.5T     |
+| **DIC (survivors)**                                            | ~400k    | County disability mutual (widows/orphans)                          | $0         |
+| **Presumptive non-combat** (Agent Orange, Gulf War, burn pits) | ~800k    | County disability mutual (independent medical review)              | $0         |
+| **Total Trust PV**                                             | —        | —                                                                  | **~$5.3T** |
+
+| Element                      | Settlement                                                                                                                      |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **New claims**               | County disability mutual (occupational injury model) + independent medical review                                               |
+| **Appeals**                  | County trial court (not VA Board)                                                                                               |
+| **Fraud review**             | **Mandatory re-evaluation** of all existing ratings within 24 months; fraudulent/unsupported claims terminated; savings → Trust |
+| **Clothing allowance, etc.** | Folded into disability payment                                                                                                  |
+
+**Note**: Baseline PV was ~$7T. Tiered model saves **~$1.7T**. Annual Trust cost drops from ~$150B/yr to **~$75B/yr** (coupon relief ~$17B/yr). Fraud re-evaluation targets the ~45% of budget in DIC/SMC/presumptive categories where exploitation is highest.
 
 ### 6.3 Education / Home Loan / Insurance
 
@@ -205,14 +251,29 @@ Social Security and Medicare "trust funds" hold special-issue Treasuries — IOU
 
 ## 8. Contingent Liabilities (Wound Down)
 
-### 8.1 Deposit Insurance (FDIC/NCUA)
+### 8.1 Deposit Insurance (FDIC/NCUA) — Zero-Gap Bridge
 
-| Step                       | Action                                                                                                                                             |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Freeze**              | No new deposits insured after Decree Day.                                                                                                          |
-| **2. Wind down**           | Existing insured deposits remain covered for 2 years (Transition Trust backstop).                                                                  |
-| **3. Privatize**           | County- or state-chartered deposit mutuals (private insurance) replace FDIC. Banks choose: mutual insurance or self-insure (capital requirements). |
-| **4. No federal backstop** | After 2 years, no taxpayer guarantee.                                                                                                              |
+**Core problem**: FDIC ends on Decree Day; new mutuals don't exist yet → guaranteed bank run on the Transition Trust backstop.
+
+**Solution**: Pre-capitalized county deposit mutuals + automatic conversion + TAN-backed narrow banking. No gap, no run.
+
+| Step                                       | Action                                                                                                                                                                                                       |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **0. Pre-capitalize (Year 0, pre-Decree)** | Transition Trust allocates **~$500B–1T** from asset sales + seigniorage to charter and capitalize **~3,000 county deposit mutuals** (~$150–300M each). Mutuals hold **100% reserves in County TANs + coin**. |
+| **1. Auto-convert (Decree Day)**           | All FDIC/NCUA-insured deposits **automatically convert** to mutual-insured deposits. No depositor action required. Account numbers, routing, access unchanged.                                               |
+| **2. Narrow banking (Years 0–2)**          | Mutuals operate as **100% reserve narrow banks**: every insured dollar backed 1:1 by TANs (short-term, LVT-backed) + coin. No lending against insured deposits.                                              |
+| **3. Gradual deepening (Years 2–5)**       | Mutuals may shift to fractional reserve with **private reinsurance** (cross-county risk pools). Transition Trust backstop ends at Year 2.                                                                    |
+| **4. No federal backstop ever**            | After Year 2, zero taxpayer guarantee. Mutuals are county-chartered, privately reinsured, LVT-backed.                                                                                                        |
+
+**Why this stops the run**:
+
+- **No gap** — mutuals exist and are capitalized _before_ FDIC ends
+- **No action needed** — auto-conversion means depositors don't queue to withdraw
+- **Full reserve** — 100% TAN/coin backing means zero credit risk on insured deposits
+- **Local sovereignty** — mutuals are county-chartered, not federal
+- **Competitive currency** — TANs circulate as local liquidity (already in design)
+
+**Funding**: ~$500B–1T from Transition Trust Year 0 asset sales/seigniorage. This is **<3% of Trust funding** and eliminates the single largest run risk.
 
 ### 8.2 Mortgage Guarantees (FHA/VA/Ginnie/Fannie/Freddie)
 
@@ -223,7 +284,7 @@ Social Security and Medicare "trust funds" hold special-issue Treasuries — IOU
 | **3. Privatize** | County- or state-chartered mortgage mutuals (private insurance) replace.       |
 | **4. Wind down** | GSEs (Fannie/Freddie) sold to private investors or liquidated.                 |
 
-### 8.3 Pension Guarantee (PBGC)
+### 8.3 Pension Guarantee (PBGC) — Currently ~$60B Surplus
 
 | Step             | Action                                                            |
 | ---------------- | ----------------------------------------------------------------- |
@@ -231,14 +292,20 @@ Social Security and Medicare "trust funds" hold special-issue Treasuries — IOU
 | **2. Privatize** | County pension trusts (funded, DC) replace. No federal guarantee. |
 | **3. Wind down** | PBGC dissolved after existing claims paid.                        |
 
-### 8.4 Student Loans (~$1.7T)
+**Note**: PBGC currently operates at a ~$60B surplus (FY2024). No deficit to fund.
+
+### 8.4 Federal Student Loan Portfolio (~$1.7T Asset)
+
+**This is a federal asset, not a liability.** It is removed from the debt balance sheet.
 
 | Step                  | Action                                                                                                          |
 | --------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **1. Freeze**         | No new federal loans after Decree Day.                                                                          |
-| **2. Transfer**       | Portfolio sold to county/private lenders at discount (or held by Transition Trust).                             |
+| **2. Transfer**       | Portfolio sold to county/private lenders at discount (or held by Transition Trust as an asset).                 |
 | **3. Discharge**      | Bankruptcy dischargeable (judicial-system.md). No means test.                                                   |
 | **4. No forgiveness** | No blanket cancellation (moral hazard). But: income-based repayment capped at 10% for 10 years, then discharge. |
+
+**Proceeds from sale** → Transition Trust funding (asset side).
 
 ---
 
@@ -253,14 +320,92 @@ Social Security and Medicare "trust funds" hold special-issue Treasuries — IOU
 
 ### 9.2 Funding Sources
 
-| Source                  | Est.         | Timing               |
-| ----------------------- | ------------ | -------------------- |
-| **Asset sales**         | $4–7T        | Years 0–5            |
-| **Seigniorage**         | $250B        | Years 0–5            |
-| **Transition levy**     | $2.5T        | Years 0–5            |
-| **Haircut savings**     | $10–15T      | Year 0               |
-| **Trust-note issuance** | $5–10T       | Years 0–10           |
-| **Total**               | **~$22–35T** | Covers legacy claims |
+| Source                                 | Est.            | Timing     | Notes                                                                                                                                                                       |
+| -------------------------------------- | --------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Asset sales**                        | $4–7T           | Years 0–5  | Land, buildings, spectrum, gold, reserves                                                                                                                                   |
+| **Seigniorage**                        | $250B           | Years 0–5  | Coin minting profit                                                                                                                                                         |
+| **Transition levy**                    | $2.5T           | Years 0–5  | Wealth/income/financial transaction levy (sunsets Year 5)                                                                                                                   |
+| **Haircut savings (tiered, on $27T)**  | **$13.6–17.5T** | Year 0     | Fed extinguishment ($5T) + foreign official 60–75% ($4.2–6T) + domestic institutional 40–50% ($4.4–6.5T); retail protected                                                  |
+| **Student loan portfolio sale**        | $0.5–1T         | Years 0–3  | Asset sale proceeds (net of discount)                                                                                                                                       |
+| **Veterans disability tiered savings** | **~$1.7T**      | Year 0     | 100%/IU/SMC lifetime (COLA frozen), 70-90% lifetime (no COLA), ≤60% lump sum, DIC/presumptive → county mutual                                                               |
+| **Deposit mutual pre-capitalization**  | **~$0.5–1T**    | Year 0     | ~3,000 county deposit mutuals @ ~$150–300M each; 100% TAN/coin reserves; auto-converts FDIC deposits on Decree Day                                                          |
+| **Trust-note issuance**                | **$15.3–24.3T** | Years 0–10 | 10-year notes, 1% coupon, funded by county assessment (~0.5% LVT); coupon **$153–243B/yr**                                                                                  |
+| **Total**                              | **~$32–50T**    |            | Covers: public debt net of tiered haircut + transition cohort benefits (5yr, net of vet savings) + contractor claims + contingent wind-down + deposit mutual capitalization |
+
+**Critical gap**: The ~$75–80T unfunded entitlement PV is **not** funded by the Trust. Only the **transition cohort** (current retirees + near-retirees 55+) receives Trust-funded benefits for 5 years. Workers <55 transition to county DC plans/health mutuals with **no Trust funding**. This is the design's solvency hinge.
+
+---
+
+### Design Note: Asset Liquidation — Why $4–7T Is the Right Baseline
+
+**The question**: _Are we missing federal assets that could bring more dollars to the Trust?_
+
+**Short answer**: No. The $4–7T baseline (surplus land, buildings, spectrum, gold, reserves) is conservative but correct. Aggressive liquidation would yield +$3–7T _one-time_ but destroys the county asset base that funds the post-Year-5 system.
+
+#### What's Already in the Baseline ($4–7T)
+
+| Asset                            | Proceeds | Method                      |
+| -------------------------------- | -------- | --------------------------- |
+| Surplus BLM/USFS land (non-park) | $2–5T    | County auctions, Years 1–5  |
+| Federal buildings (surplus)      | $500B    | Auction/transfer, Years 1–3 |
+| Spectrum (FCC commercial)        | $500B    | Auction, Year 0–1           |
+| Gold revaluation (261M oz)       | $500B    | Mint at market, Year 0      |
+| SPR crude (600M bbl)             | $50–60B  | Market sale, Year 0–1       |
+| Helium, seized assets, other     | $10–20B  | Ongoing                     |
+
+#### What's _Not_ Sold — And Why
+
+| Asset                                               | Face Value | Why Not Sold                                                                                       |
+| --------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------- |
+| **Fed MBS portfolio**                               | $2.5T      | Spun to **county mortgage mutuals** as capital; yields 3–4% recurring for county mutual solvency   |
+| **FHA/VA performing loans**                         | $1.2T      | Transferred to **county mortgage mutuals**; replaces FDIC backing, enables county lending          |
+| **Federal loan portfolios** (SBA, USDA, DOE, Ex-Im) | $0.5T      | Transferred to **county SBA/USDA mutuals**; gives counties lending capacity                        |
+| **TVA, Amtrak, USPS real estate**                   | $150B      | Form **regional compacts** (energy, rail, postal); infrastructure stays public                     |
+| **Military/NOAA spectrum**                          | $200B      | Reserved for **state guard comms, public safety**; county/compact reserves                         |
+| **SPR caverns**                                     | —          | **County/compact 30-day reserves**; energy security                                                |
+| **National labs (17)**                              | —          | **State/university compacts**; nuclear stewardship, research                                       |
+| **GPS/weather satellites**                          | —          | **County/compact consortia**; free signal, commercial licensing revenue                            |
+| **IP portfolio (patents/copyrights)**               | $1.7T      | **Terms shortened** (new patents 10yr, copyright life+50); not sold — vested rights (Art VI §2.12) |
+| **Tribal trust lands (56M acres)**                  | —          | **Non-negotiable transfer to tribes**; sovereignty                                                 |
+| **National Parks/Wilderness (80M+ acres)**          | —          | **State conservation trusts**; no development, no sale                                             |
+
+#### Aggressive Liquidation Scenarios (If You Ignored the Above)
+
+| Scenario                    | Additional Cash        | Cost                                                                                                               |
+| --------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Fire sale (Years 0–2)**   | +$3–4.5T               | 30–50% value destruction; no sales apparatus; political revolt; counties lose mutual capital                       |
+| **Orderly max (Years 0–5)** | +$4.5–7T               | Requires 2,000–5,000 professionals for 5 years; $5–10B/yr management fees; still transfers value to private equity |
+| **Hybrid (recommended)**    | **$0 additional cash** | **Counties receive $3–5T in productive assets** (MBS yield, loan interest, spectrum revenue, data royalties)       |
+
+#### Why the Design Chooses Conservative Baseline
+
+1. **County sovereignty needs asset bases** — Counties can't fund pensions/mutuals/infrastructure on LVT alone; they need recurring yield from MBS, loans, spectrum, data.
+2. **No federal sales apparatus** — 224-person remnant can't manage $10T+ liquidation.
+3. **Vested property rights (Art VI §2.12)** — Patents, copyrights, granted licenses survive transition; can't truncate.
+4. **Overlapping claims** — 640M acres have tribal, state, county, conservation claims; litigation ties up value for years.
+5. **Political legitimacy** — "Sold the national parks to pay Chinese bondholders" = revolution.
+6. **Time horizon** — 5-year Trust window; orderly sales take 3–7 years.
+
+#### The Real Lever: LVT Base Growth, Not Asset Sales
+
+| Lever                                                                    | 5-Year Impact           | 10-Year Impact       |
+| ------------------------------------------------------------------------ | ----------------------- | -------------------- |
+| Asset sales (max aggressive)                                             | +$7–10T one-time        | $0 recurring         |
+| **LVT base growth** (deregulation, infrastructure, currency competition) | +$0.5–1T/yr recurring   | +$5–10T/yr recurring |
+| **County mutual profits** (health, pension, mortgage, deposit)           | +$0.2–0.5T/yr recurring | +$2–5T/yr recurring  |
+| **Compact assessments** (infrastructure, water, grid)                    | +$0.1–0.3T/yr recurring | +$1–3T/yr recurring  |
+
+**The design bets on recurring county/compact revenue, not one-time asset sales.** The coupon gap closes via **Reading B (0.5% land value) + Trust lengthening to 20 years + assessment to 0.75–1%**, not via asset sales.
+
+#### If You Absolutely Need More Trust Funding (Design Levers)
+
+| Lever                                              | Additional Trust Funding | Cost                                  |
+| -------------------------------------------------- | ------------------------ | ------------------------------------- |
+| Sell Fed MBS to private funds (not county mutuals) | +$1.5–2T                 | Counties lose mortgage mutual capital |
+| Auction military spectrum                          | +$100–200B               | State guard comms degraded            |
+| Sell TVA/USPS real estate/Amtrak                   | +$100–200B               | Infrastructure privatized             |
+| Monetize federal data (AI licensing)               | +$20–50B                 | Privacy/Art VI risk                   |
+| Extend Trust to 10–15 years                        | Spreads coupon           | Delays Vanish; political risk         |
 
 ### 9.3 The Transition Levy (Temporary)
 
@@ -279,16 +424,17 @@ Social Security and Medicare "trust funds" hold special-issue Treasuries — IOU
 
 ## 10. What the Confederation Does NOT Inherit
 
-| Claim                                 | Status                                                               |
-| ------------------------------------- | -------------------------------------------------------------------- |
-| **Federal debt**                      | Paid/haircut by Transition Trust; **not** a Confederation obligation |
-| **Trust fund IOUs**                   | Extinguished                                                         |
-| **Unfunded pensions**                 | Accrued honored; future stopped                                      |
-| **Contingent guarantees**             | Wound down; privatized                                               |
-| **Contractor claims**                 | Paid by Trust; no successor liability                                |
-| **Treaty financial obligations**      | Renegotiated or withdrawn (see §11)                                  |
-| **Judgments against US**              | Paid by Trust (capped)                                               |
-| **Environmental cleanup liabilities** | Transferred to responsible counties/states (see §12)                 |
+| Claim                                           | Status                                                               |
+| ----------------------------------------------- | -------------------------------------------------------------------- |
+| **Federal debt (public)**                       | Paid/haircut by Transition Trust; **not** a Confederation obligation |
+| **Intragovernmental IOUs (trust funds)**        | Extinguished                                                         |
+| **Unfunded federal entitlements (SS/Medicare)** | Accrued for transition cohort only; future accrual stopped           |
+| **Unfunded state/local pensions**               | Not inherited; counties may assume voluntarily                       |
+| **Contingent guarantees (FDIC, FHA, PBGC)**     | Wound down; privatized                                               |
+| **Contractor claims**                           | Paid by Trust; no successor liability                                |
+| **Treaty financial obligations**                | Renegotiated or withdrawn (see §11)                                  |
+| **Judgments against US**                        | Paid by Trust (capped)                                               |
+| **Environmental cleanup liabilities**           | Transferred to responsible counties/states (see §12)                 |
 
 **The Confederation's own budget is <$60M/yr (federal-remnant.md). It cannot be sued for legacy debt.**
 
@@ -296,15 +442,15 @@ Social Security and Medicare "trust funds" hold special-issue Treasuries — IOU
 
 ## 11. Treaty & International Financial Obligations
 
-| Obligation                           | Treatment                                                    |
-| ------------------------------------ | ------------------------------------------------------------ |
-| **UN dues**                          | Withdrawn (no UN membership) or paid by counties voluntarily |
-| **NATO cost-share**                  | Withdrawn (no alliance)                                      |
-| **World Bank / IMF**                 | Withdrawn; capital returned or forfeited                     |
-| **Bilateral debt (foreign holders)** | Haircut (see §3.3) or paid in coin                           |
-| **Investment treaties (ISDS)**       | Terminated; no arbitration claims honored                    |
-| **Tax treaties**                     | Superseded by county/compact arrangements                    |
-| **Extradition treaties**             | Superseded by Criminal Investigation Compact                 |
+| Obligation                            | Treatment                                                          |
+| ------------------------------------- | ------------------------------------------------------------------ |
+| **UN dues**                           | Withdrawn (no UN membership) or paid by counties voluntarily       |
+| **NATO cost-share**                   | Withdrawn (no alliance)                                            |
+| **World Bank / IMF**                  | Withdrawn; capital returned or forfeited                           |
+| **Bilateral debt (foreign official)** | 60–75% haircut (see §3.3); remainder → Trust notes or coin at face |
+| **Investment treaties (ISDS)**        | Terminated; no arbitration claims honored                          |
+| **Tax treaties**                      | Superseded by county/compact arrangements                          |
+| **Extradition treaties**              | Superseded by Criminal Investigation Compact                       |
 
 ---
 
@@ -337,16 +483,16 @@ Social Security and Medicare "trust funds" hold special-issue Treasuries — IOU
 
 ## 14. Edge Cases
 
-| Question                                           | Answer                                                                                                       |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Foreign holder refuses haircut?**                | Paid in coin at face value if they hold out (small holders). Large holders negotiate or litigate (no forum). |
-| **Retiree dies during transition?**                | Survivor benefits honored. Estate claim paid.                                                                |
-| **Contractor fraud?**                              | Claim denied. Referred to county DA.                                                                         |
-| **State refuses to honor federal pension?**        | Transition Trust pays directly (not through state).                                                          |
-| **County refuses to enroll Medicare beneficiary?** | Automatic enrollment (Constitution Art VI §2.4 due process).                                                 |
-| **Hyperinflation risk from levy/seigniorage?**     | Levy is on wealth/income, not money printing. Seigniorage capped. Coin-based.                                |
-| **What if asset sales fall short?**                | 10-year Trust notes issued (1% coupon). County assessment covers the coupon, sunsets with Trust at Year 10.  |
-| **What if levy is evaded?**                        | County tax authorities enforce (LVT records, clearinghouse data).                                            |
+| Question                                           | Answer                                                                                                                                                                       |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Foreign official holder refuses haircut?**       | Paid in coin at face value (small holders). Large holders: no forum to litigate; Confederation has no courts they can access. De facto acceptance of haircut or Trust notes. |
+| **Retiree dies during transition?**                | Survivor benefits honored. Estate claim paid.                                                                                                                                |
+| **Contractor fraud?**                              | Claim denied. Referred to county DA.                                                                                                                                         |
+| **State refuses to honor federal pension?**        | Transition Trust pays directly (not through state).                                                                                                                          |
+| **County refuses to enroll Medicare beneficiary?** | Automatic enrollment (Constitution Art VI §2.4 due process).                                                                                                                 |
+| **Hyperinflation risk from levy/seigniorage?**     | Levy is on wealth/income, not money printing. Seigniorage capped. Coin-based.                                                                                                |
+| **What if asset sales fall short?**                | 10-year Trust notes issued (1% coupon). County assessment covers the coupon, sunsets with Trust at Year 10.                                                                  |
+| **What if levy is evaded?**                        | County tax authorities enforce (LVT records, clearinghouse data).                                                                                                            |
 
 ---
 
