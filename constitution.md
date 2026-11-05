@@ -119,18 +119,24 @@ If no election occurs within 60 days: The county falls to the Interim Administra
 
 **Current D-1 (Art IV §3)**: Voluntary offer for counties <10k pop or 2-year staffing failure.
 
-**New Trigger (Mandatory after 3 years)**:
+**New Trigger (Phased, Years 2–4)**:
 
-| Condition                                                                | Action                                                                                                                                                                |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **County fails to ratify charter by Year 3**                             | **Automatic consolidation** into largest contiguous county in same state. No commission consent required. Referendum held in _receiving_ county only (majority vote). |
-| **County fails to seat sheriff + court + commission by Year 3**          | Same automatic consolidation.                                                                                                                                         |
-| **County LVT collection <50% of assessed value for 2 consecutive years** | Same automatic consolidation.                                                                                                                                         |
-| **County population <5,000** (regardless of staffing)                    | **Mandatory consolidation** into largest contiguous county. Referendum in receiving county only.                                                                      |
+| Condition                                                                         | Timing | Action                                                                                                                                                              |
+| --------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **County under 2,500 pop that has not joined a Bi-County Administrative Compact** | Year 2 | **Automatic consolidation** into largest contiguous county in same state. No commission consent required. Referendum held in receiving county only (majority vote). |
+| **County under 5,000 pop, regardless of staffing**                                | Year 3 | **Automatic consolidation** into largest contiguous county in same state. No commission consent required. Referendum held in receiving county only (majority vote). |
+| **County fails to seat sheriff + court + commission for 2 consecutive years**     | Year 3 | **Automatic consolidation** into largest contiguous county in same state. No commission consent required. Referendum held in receiving county only (majority vote). |
+| **County LVT collection <50% of assessed value for 2 consecutive years**          | Year 3 | **Automatic consolidation** into largest contiguous county in same state. No commission consent required. Referendum held in receiving county only (majority vote). |
+| **County under 5,000 pop still not consolidated**                                 | Year 4 | **Automatic consolidation** into largest contiguous county in same state. No commission consent required. Referendum held in receiving county only (majority vote). |
+| **County fails staffing/LVT thresholds at Year 4 review**                         | Year 4 | **Automatic consolidation** into largest contiguous county in same state. No commission consent required. Referendum held in receiving county only (majority vote). |
 
 **Consolidated county assumes**: all assets, liabilities, mutual memberships, compact memberships, personnel, and federal surplus property allocations of the dissolved county.
 
 **Residents of consolidated county**: Retain all mutual benefits, pension accruals, health coverage, and voting rights in receiving county. No loss of benefits.
+
+**Streamlined consolidation for compact members**: A county that has participated in a functioning Bi-County Administrative Compact for 2+ consecutive years may consolidate via simplified procedure: receiving county referendum only, no separate State Council hearing, asset transfer via compact inventory schedule. State Council role limited to oversight and dispute resolution, not case-by-case processing.
+
+**Phased administrative capacity**: State Council appoints consolidation officers from existing county commissions on a rotating basis (90-day terms). No permanent state consolidation bureaucracy is created. Consolidations are processed in batches by geographic region, not all at once.
 
 #### 6.6 State Receivership (Last Resort)
 
@@ -151,8 +157,11 @@ If **no adjacent county accepts consolidation** (e.g., isolated county, all neig
 | **Month 12** | First county charters ratified                                                                       | Interim administrators appointed                                    |
 | **Month 18** | **All counties** have charter or interim admin                                                       | State Interim Administrator auto-appointed                          |
 | **Year 2**   | 2,000+ counties ratified (Constitution permanent)                                                    | Provisional Constitution extends                                    |
-| **Year 3**   | **All counties** ratified charter or consolidated                                                    | **Automatic consolidation trigger**                                 |
+| **Year 2**   | Counties under 2,500 pop without Bi-County Compact consolidated                                      | **Phased consolidation trigger (Year 2)**                           |
+| **Year 3**   | Counties under 5,000 pop, or failing staffing/LVT thresholds, consolidated                           | **Phased consolidation trigger (Year 3)**                           |
+| **Year 4**   | Remaining counties under 5,000 pop, or failing staffing/LVT thresholds, consolidated                 | **Phased consolidation trigger (Year 4)**                           |
 | **Year 5**   | All statutes sunset; charters re-ratified                                                            | Non-compliant counties → receivership                               |
+| **Year 6+**  | Any county failing staffing/LVT for 2 consecutive years                                              | Automatic consolidation trigger                                     |
 
 **Design principle**: **No governance vacuum.** Every county has functioning government from Month 6 (if under 1,000 population) or Month 18 (all others), either by its own charter or by interim administration. By Year 3, every county is either self-governing or consolidated. The system tolerates late stand-up but not permanent failure.
 
@@ -199,7 +208,7 @@ States exercise **only** these powers, delegated by member counties via intersta
    - **Certification.** Net new cost is certified annually by each affected county's treasurer: the incremental compliance cost the county would not have incurred absent the standard, net of savings. One-time costs are amortized over the standard's 5-year sunset. Certification is subject to the sortition audit (public-finance.md §9). **Year 1 bridge:** Before the State Court of Appeals is seated (Art VIII §2), treasurer-certification disputes are heard by the county trial court; appeals lie to the State Court of Appeals once seated. Thereafter, disputes go directly to the State Court of Appeals (Art II §5).
    - **Pay-as-you-go adoption.** A standard may be adopted or re-adopted only if the same budget act appropriates its aggregate certified cost for the coming year. No carryover (public-finance.md §3).
    - **Seniority on shortfall.** If aggregate certified costs exceed available revenue, standards are funded in order of adoption (oldest first). A standard that cannot be funded lapses for that year and must be re-adopted — restarting the 90-day County Veto window (Art III §2).
-   - **Self-executing nonpayment.** If the state fails to reimburse a certified claim within 90 days, the standard is void in that county for the following year.
+   - **Self-executing nonpayment.** If the state fails to reimburse a certified claim within 90 days, the standard is void in that county for the following year. **Tolling**: If a certified claim is disputed and appealed to the State Court of Appeals, the 90-day reimbursement clock is tolled from the date the appeal is filed until the date the Court issues its final ruling. The state then has 90 days from the final ruling to reimburse. If the Court upholds the certification, reimbursement is due within that window; if the Court reduces or rejects the certification, reimbursement is due for the upheld amount only.
 
 4. **Charter opt-out.** A county charter may opt out of a minimum standard's internal application by 60% referendum, subject to paragraph 7. The opt-out is recorded with the state and reviewed every 5 years.
 5. **Sunset.** Every minimum standard expires in 5 years unless re-adopted by the Council of Counties. Re-adoption is a new enactment for purposes of Art III §2; the 90-day County Veto window restarts. Lapse triggers the savings clause (paragraph 8).
@@ -341,7 +350,7 @@ Citizens of each county enjoy equal privileges in all counties. No county may di
   - **Cross-border harm liability**: Seceded entity liable for downstream harm (water, pollution, grid instability, criminal flight); judgments enforceable in both jurisdictions.
   - **Compact continuity**: Option to remain in Confederation compacts (Digital Backbone, Cyber, Criminal Investigation, Infrastructure) as associate members with assessed contributions.
 - **County exit from state**: County may leave its state by 60% referendum + acceptance by new state's Council of Counties.
-- **Automatic consolidation (mandatory)**: A county with population under 5,000, or one unable to staff a sheriff, court, and commission for 2 consecutive years, or one failing to collect ≥50% of assessed LVT for 2 consecutive years, is **automatically consolidated** into the largest contiguous county in the same state. **No commission consent required.** Referendum held in the **receiving county only** (majority vote). Contiguous small counties may also jointly consolidate into a single county, with commission consent and a single majority referendum across all participating counties. **Mandatory; merger is forced when thresholds are met.**
+- **Automatic consolidation (mandatory, phased Years 2–4)**: A county with population under 2,500 that has not joined a Bi-County Administrative Compact is consolidated at Year 2. A county with population under 5,000, or one unable to staff a sheriff, court, and commission for 2 consecutive years, or one failing to collect ≥50% of assessed LVT for 2 consecutive years, is consolidated at Year 3. Any remaining county under 5,000 or failing staffing/LVT thresholds is consolidated at Year 4. All consolidations are into the largest contiguous county in the same state. **No commission consent required.** Referendum held in the **receiving county only** (majority vote). Contiguous small counties may also jointly consolidate into a single county, with commission consent and a single majority referendum across all participating counties. **Mandatory; merger is forced when thresholds are met.**
 
 ### Section 4: Compacts
 

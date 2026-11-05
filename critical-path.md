@@ -55,7 +55,7 @@ The capacity mechanism has two tiers:
 
 **Tier 1 — Immediate backstop (Month 6)**: Any county under 1,000 population that has not ratified a charter by Month 6 receives an automatic **State Interim Administrator** with full county powers (levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts) (`constitution.md` Art I §6.3).
 
-**Tier 2 — Mandatory consolidation (Year 3)**: Any county under 5,000 population, or one unable to staff a sheriff, court, and commission for two consecutive years, or one failing to collect ≥50% of assessed LVT for two consecutive years, is **automatically consolidated** into the largest contiguous county in the same state. **No commission consent required.** Referendum held in the receiving county only. **Mandatory; merger is forced when thresholds are met** (`constitution.md` Art IV §3).
+**Tier 2 — Mandatory consolidation (phased Years 2–4)**: Any county under 2,500 population that has not joined a Bi-County Administrative Compact is consolidated at Year 2. Any county under 5,000 population, or one unable to staff a sheriff, court, and commission for two consecutive years, or one failing to collect ≥50% of assessed LVT for two consecutive years, is consolidated at Year 3. Any remaining county under 5,000 or failing staffing/LVT thresholds is consolidated at Year 4. All consolidations are into the largest contiguous county in the same state. **No commission consent required.** Referendum held in the receiving county only. **Mandatory; merger is forced when thresholds are met** (`constitution.md` Art IV §3).
 
 **Tier 3 — Mandatory shared services (Month 6)**: Any county under 2,500 population must join a **Bi-County Administrative Compact** with at least one contiguous county for the operation of sheriff patrols, trial court dockets, and jail holding facilities (`constitution.md` Art I §6.8).
 
@@ -89,12 +89,14 @@ Working estimate to be validated (illustrative, not a result):
 
 **Step 3 — Test the ten smallest real counties.** Take the ten smallest U.S. counties by population (the 52–570 range identified in the prior session) and run each against the model. Record: which functions can be staffed, which must be delegated, and to whom.
 
-**Step 4 — Test the D-1 threshold.** Count how many counties fall under 5,000 population and would therefore be automatically consolidated. Then ask the operational question: **can the State Council execute 500+ consolidations by Year 3?** A mandatory trigger that cannot be administered leaves the hole open. Also test the Month 6 trigger: how many counties under 1,000 population lack a charter by Month 6, and can the State Council appoint Interim Administrators for all of them?
+**Step 4 — Test the phased consolidation threshold.** Count how many counties fall under 2,500 population (Year 2 trigger) and under 5,000 population (Year 3 trigger). Then ask the operational question: **can the State Council execute phased consolidations across Years 2–4 without a permanent bureaucracy?** A mandatory trigger that cannot be administered leaves the hole open. Also test the Month 6 trigger: how many counties under 1,000 population lack a charter by Month 6, and can the State Council appoint Interim Administrators for all of them?
 
 **Step 5 — Test the consolidation case.** A county of 400 residents cannot staff a sheriff or court. By Month 6, it receives a State Interim Administrator. By Month 6, it must also join a Bi-County Administrative Compact with a contiguous county for shared sheriff patrols, court docket, and jail. If it still cannot staff by Year 3, it is automatically consolidated into the largest contiguous county. What happens? Enumerate the actual transition:
 
 - Month 6: State Interim Administrator appointed; Bi-County Administrative Compact formed.
-- Year 3: Automatic consolidation into largest contiguous county (constitution.md Art I §6.5).
+- Year 2: Automatic consolidation for counties under 2,500 pop without Bi-County Compact (constitution.md Art I §6.5).
+- Year 3: Automatic consolidation for counties under 5,000 pop, or failing staffing/LVT thresholds (constitution.md Art I §6.5).
+- Year 4: Automatic consolidation for remaining counties under 5,000 pop, or failing staffing/LVT thresholds (constitution.md Art I §6.5).
 - Assets, liabilities, personnel transfer to receiving county.
 - Residents retain all mutual benefits, pension accruals, health coverage, voting rights.
 - Receiving county referendum required (majority vote).
@@ -112,7 +114,7 @@ Working estimate to be validated (illustrative, not a result):
 1. **Service-delegation mechanism now added** (constitution.md Art I §2 & Art IV §4). Counties may contract with contiguous counties or regional compacts to operate law enforcement, trial courts, or jails. Delegating county retains sovereignty/liability; delegation revocable at any time. **Test: does the clause cover all core functions (court, sheriff, jail) and is revocation truly unilateral?**
 2. **Mandatory shared-service compacts now added** (constitution.md Art I §6.8). Counties under 2,500 population must join a Bi-County Administrative Compact for shared sheriff, court, and jail. **Test: does the compact model work for the ten smallest counties? Are withdrawal conditions clear?**
 3. **Circuit judges and marshals now added** (constitution.md Art I §6.3). State Court of Appeals automatically assigns roving circuit judges and cross-deputized marshals from adjacent counties for vacancies >60 days, funded from escrowed LVT auction receipts. **Test: is the funding mechanism sufficient? Are adjacent counties willing to lend personnel?**
-4. **The D-1 threshold may be too low.** If the real floor is ~1,500 population, a 5,000 threshold is generous — but the **mandatory** nature means uptake is guaranteed by rule, not by consent. The question shifts from political will to administrative capacity: can the State Council execute consolidations at scale?
+4. **Phased consolidation reduces administrative spike.** Spreading consolidations across Years 2–4 (instead of a single Year 3 cliff) reduces the administrative load on the State Council from ~500+ in one year to ~150–200 per year. Bi-County Administrative Compacts (§6.8) pre-consolidate shared services for counties under 2,500, further reducing the merger load. The question remains: can the State Council execute phased consolidations using rotating county commission officers (90-day terms) without creating a permanent bureaucracy?
 5. **Jail capacity is unaddressed at county scale.** OI-29 covers the 150k federal prisoners, but not the baseline county jail need for a 400-person county.
 
 ### 1.6 Design levers if it fails
