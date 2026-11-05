@@ -51,6 +51,19 @@
 
 **No prior authorization. No claim denials for covered services. Appeal → sortition panel (3 clinicians + 2 members).**
 
+### 1.5 County Consolidation & Mutual Portability
+
+**Purpose**: Ensure continuous health coverage when a county consolidates under the phased consolidation trigger (constitution.md Art I §6.5, Years 2–4).
+
+**Mechanism**:
+
+- **Mutual continuity**: When a county consolidates into a receiving county, the dissolving county's health mutual merges into the receiving county's mutual. All members retain coverage, premiums, and benefits without interruption.
+- **Prior service credit**: Members' prior service years, deductibles met, and accumulated surplus credits transfer to the receiving county mutual.
+- **Provider network**: Providers in the dissolving county remain in-network for 12 months post-consolidation, giving members time to transition to new providers.
+- **Rate harmonization**: The receiving county mutual's premium schedule applies to transferred members after a 12-month grace period, during which the prior county's rates remain in effect.
+- **No coverage gap**: Members are never uninsured during consolidation. If the receiving county mutual cannot absorb members immediately, the State Reinsurance Pool provides interim coverage.
+- **Opt-out preserved**: Members may voluntarily exit the mutual at any time (forfeiting benefits), consistent with the standard opt-out rule.
+
 ---
 
 ## 2. Provider Licensing & Scope (No State Medical Boards)
