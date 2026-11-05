@@ -165,12 +165,12 @@
 
 ### 7.1 Funding
 
-| Source                                               | Amount        | Timing      | Use                                          |
-| ---------------------------------------------------- | ------------- | ----------- | -------------------------------------------- |
-| **Quick Wins Asset Sales** (asset-transfer.md §1A.1) | **$1.0–1.5T** | Months 3–12 | **Day-1 severance, retraining, job centers** |
-| **Transition Trust (debt-obligations.md)**           | ~$200B        | Years 0–5   | Ongoing severance, retraining, relocation    |
-| **County LVT**                                       | ~$50B/yr      | Year 1+     | Hiring preference (county jobs)              |
-| **State assessments**                                | ~$20B/yr      | Year 1+     | State guard, compact jobs                    |
+| Source                                               | Amount        | Timing      | Use                                                                                             |
+| ---------------------------------------------------- | ------------- | ----------- | ----------------------------------------------------------------------------------------------- |
+| **Quick Wins Asset Sales** (asset-transfer.md §1A.1) | **$1.0–1.5T** | Months 3–12 | **Day-1 severance, retraining, job centers** + **deposit mutual pre-capitalization ($500B–1T)** |
+| **Transition Trust (debt-obligations.md)**           | ~$200B        | Years 0–5   | Ongoing severance, retraining, relocation                                                       |
+| **County LVT**                                       | ~$50B/yr      | Year 1+     | Hiring preference (county jobs)                                                                 |
+| **State assessments**                                | ~$20B/yr      | Year 1+     | State guard, compact jobs                                                                       |
 
 ### 7.2 Administration
 

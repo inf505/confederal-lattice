@@ -274,7 +274,9 @@ The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year pres
 - **Local sovereignty** — mutuals are county-chartered, not federal
 - **Competitive currency** — TANs circulate as local liquidity (already in design)
 
-**Funding**: ~$500B–1T from Transition Trust Year 0 asset sales/seigniorage. This is **<3% of Trust funding** and eliminates the single largest run risk.
+**Funding**: ~$500B–1T from **Quick Wins asset sales (asset-transfer.md §1A.1: SPR crude, gold revaluation, surplus buildings)** + **coin seigniorage (public-finance.md §1)**. This is **<3% of Trust funding** and eliminates the single largest run risk.
+
+**Cross-refs**: `asset-transfer.md §1A.1` (Quick Wins), `public-finance.md §1` (County Deposit Mutuals, TANs), `personnel-transition.md §7.1` (Quick Wins funding).
 
 ### 8.2 Mortgage Guarantees (FHA/VA/Ginnie/Fannie/Freddie)
 
