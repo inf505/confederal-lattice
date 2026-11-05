@@ -19,6 +19,37 @@
 
 **Result**: **Competitive currency regime**. People hold what serves them. Counties accept _any_ asset at market rate for taxes. Gresham's Law reversed: good money drives out bad because _taxes don't privilege one unit_.
 
+### 1.3 TAN Anti-Counterfeiting Measures
+
+**Purpose**: Make county TANs cheap to verify and expensive to forge, without expensive scanning devices or central infrastructure.
+
+**Physical security** (pennies per note):
+
+- **UV-fluorescent ink**: Serial numbers and county seal printed in UV-reactive ink. Verified with a $5 UV light; impossible to reproduce with standard office printers.
+- **Security thread**: Embedded strip visible when held to light. Standard security paper at volume cost.
+- **Cycling colors by series**: Each quarterly issuance series uses a distinct color. Prior-series notes are not accepted for tax payment after a 30-day grace window. Merchants can spot a wrong-color note at a glance.
+
+**Serial numbers** (near-zero cost):
+
+- **Check-digit serials**: Each TAN carries a serial number with a simple check digit (credit-card-style Luhn check). A clerk can verify the math in seconds; random-number fakes are caught immediately.
+- **County code prefix**: Serials begin with the issuing county code, preventing cross-county note stuffing.
+- **Published redemption list**: County treasurer posts redeemed/cancelled serials weekly at the courthouse. Merchants accepting large stacks can check against the list.
+
+**Verification points**:
+
+- **Point of sale**: Merchant checks UV ink, color, and serial check digit. Most fakes stopped here.
+- **Deposit mutual**: Verifies physical features before crediting TANs as reserves.
+- **County tax window**: Treasurer checks serial against the issuance ledger before crediting tax payment. Counterfeit confiscated; presenter liable.
+- **Clearinghouse**: Receiving county verifies TANs before accepting in net settlement.
+
+**Enforcement**:
+
+- Counterfeiting TANs is a county-level crime (sheriff/DA jurisdiction).
+- Interstate counterfeiting rings fall under State Bureau of Investigation jurisdiction (`law-enforcement.md` §4).
+- No federal agency, no Secret Service, no central printing authority.
+
+---
+
 ### 1.4 Currency Price Indices & Circuit Breakers
 
 **Purpose**: Establish a transparent, non-central mechanism for determining market conversion rates when taxpayers tender non-specie assets (gold, silver, crypto, local scrip, infrastructure notes, etc.) for tax payment — and protect county treasuries during currency panics.

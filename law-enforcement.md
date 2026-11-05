@@ -112,7 +112,7 @@
 
 - **Criminal Investigation Compact** (Art IV Constitution).
 - **Member states**: All 50 (voluntary, but practical necessity).
-- **Jurisdiction ONLY**: Kidnapping, counterfeiting, piracy, treason, interstate flight, multi-county fraud rings, cybercrime crossing state lines.
+- **Jurisdiction ONLY**: Kidnapping, counterfeiting (including interstate TAN counterfeiting rings per `public-finance.md` §1.3), piracy, treason, interstate flight, multi-county fraud rings, cybercrime crossing state lines.
 
 ### Structure
 
