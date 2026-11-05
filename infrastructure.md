@@ -367,6 +367,37 @@
 
 ---
 
+## 12. Long-Term Infrastructure Authority (LTIA)
+
+**Purpose**: Bridge the 5-year statutory sunset with 20- to 30-year capital commitments needed for rail corridors, electric grid transmission, nuclear facilities, water infrastructure, and other long-lived assets.
+
+**Mechanism**:
+
+- **Voluntary opt-in**: A Regional Compact may petition its member county commissions for Long-Term Infrastructure Authority (LTIA) for a named capital project. Each participating county must approve by commission resolution + majority referendum. No county is compelled to join.
+- **Term**: Up to 30 years from project authorization, fixed at chartering. The compact may issue bonds, enter construction contracts, and collect assessments for the project term.
+- **State surcharge pledge**: Participating counties may pledge their state infrastructure surcharge (≤2% of LVT base) for the LTIA term, subject to the same county opt-in and referendum rules.
+- **Re-authorization checkpoints**: Every 5 years, member counties re-vote on continued participation. A county may withdraw with 12 months' notice; its assets and obligations revert to the county. Withdrawal does not terminate the LTIA for remaining members.
+- **Grandfathering on lapse**: If re-authorization fails for the entire compact, existing project debt and construction contracts are honored to completion, but no new commitments may be made. The compact winds down the project and returns assets to counties per contribution.
+- **No perpetual liability**: LTIA authority expires at the end of the project term (max 30 years). No compact may bind counties beyond the term without a new authorization cycle.
+- **Relation to sunset**: LTIA operates under the Staggered Sunset Schedule (constitution.md Art VIII §2.3) as an extended-transition domain. It does not create a permanent state or compact authority.
+
+---
+
+## 13. FAQ: Compact Edge Cases
+
+| Question                                                                  | Answer                                                                                  |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **County refuses compact assessment?**                                    | Compact suspends services to that county. County Veto can nullify compact provision.    |
+| **Compact fails (bankruptcy)?**                                           | Assets revert to counties per contribution. Services revert to county. No bailout.      |
+| **Inter-compact conflict (water vs. electric)?**                          | Joint board (2 reps each). Mediation → arbitration (sortition). County Veto backstop.   |
+| **Private utility refuses interconnection?**                              | County franchise = interconnection mandate. Compact ISO enforces.                       |
+| **Spectrum interference across counties?**                                | County Spectrum Boards coordinate (compact). Direction-finding + fines.                 |
+| **County wants to go 100% renewable, compact needs gas for reliability?** | County builds/buys renewable + storage. Compact pays capacity payments for reliability. |
+| **Foreign cyberattack on grid?**                                          | County cyber unit + compact SOC + SBI (if criminal). No federal CISA/DOE.               |
+| **Climate migration (county loses water)?**                               | Compact reallocates. County LVT captures new value. Secession if irreconcilable.        |
+
+---
+
 ## 14. The Culture Shift
 
 | Old Mindset                          | New Mindset                                          |

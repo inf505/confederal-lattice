@@ -481,12 +481,13 @@ The **Decree** (Year 0) dissolves the prior federal order and **promulgates** th
 
 Technical infrastructure domains requiring extended transition:
 
-| Domain                        | Federal Statute            | Sunset | Replacement Required By                                           |
-| ----------------------------- | -------------------------- | ------ | ----------------------------------------------------------------- |
-| Air traffic control           | FAA enabling statutes      | Year 7 | Regional ATC compacts or county-administered systems              |
-| Drug safety                   | FDA enabling statutes      | Year 7 | County health-department oversight or mutual drug-safety compacts |
-| Aviation safety certification | FAA certification statutes | Year 7 | County/state compact certification duties                         |
-| All other federal statutes    | Various                    | Year 5 | County or compact replacement, or common-law floor applies        |
+| Domain                                    | Federal Statute                 | Sunset         | Replacement Required By                                                                 |
+| ----------------------------------------- | ------------------------------- | -------------- | --------------------------------------------------------------------------------------- |
+| Air traffic control                       | FAA enabling statutes           | Year 7         | Regional ATC compacts or county-administered systems                                    |
+| Drug safety                               | FDA enabling statutes           | Year 7         | County health-department oversight or mutual drug-safety compacts                       |
+| Aviation safety certification             | FAA certification statutes      | Year 7         | County/state compact certification duties                                               |
+| All other federal statutes                | Various                         | Year 5         | County or compact replacement, or common-law floor applies                              |
+| Long-Term Infrastructure Authority (LTIA) | Compact charter (Art VIII §2.3) | Up to 30 years | County opt-in per project; 5-year re-authorization checkpoints; grandfathering on lapse |
 
 If a staggered-domain statute sunsets without a county/compact replacement in place, the Art II §2.2 savings clause applies: common-law floor (trespass, nuisance, strict liability) with State Court of Appeals jurisdiction.
 
