@@ -19,6 +19,23 @@
 
 **Result**: **Competitive currency regime**. People hold what serves them. Counties accept _any_ asset at market rate for taxes. Gresham's Law reversed: good money drives out bad because _taxes don't privilege one unit_.
 
+### 1.4 Currency Price Indices & Circuit Breakers
+
+**Purpose**: Establish a transparent, non-central mechanism for determining market conversion rates when taxpayers tender non-specie assets (gold, silver, crypto, local scrip, infrastructure notes, etc.) for tax payment — and protect county treasuries during currency panics.
+
+**Price indices**:
+
+- **Multi-source compilation**: Each county charter designates one or more regional private clearinghouses or mercantile exchanges to publish daily price indices for accepted tax assets. Indices must draw from at least three independent sources (e.g., regional exchange, commodity dealer association, clearinghouse settlement data).
+- **County adoption**: The county commission adopts the index by resolution and publishes it daily. No central oracle; each county selects its own providers.
+- **Dispute resolution**: If a taxpayer contests the published rate, the county treasurer and taxpayer may jointly select a third clearinghouse as tie-breaker. Its rate is binding for that transaction.
+
+**Currency circuit breaker**:
+
+- **Trigger**: If any accepted secondary currency falls more than a charter-set threshold (suggested 15–20%) in a rolling 24-hour period, or if participating clearinghouses register severe counterparty distress (failed settlements, margin calls exceeding collateral, or suspension of redemptions), the county commission may activate the circuit breaker by 2/3 vote.
+- **Effect**: While active, the county restricts tax acceptance to **zero-counterparty assets only**: physical specie (gold/silver coin) and county-issued Tax Anticipation Notes (TANs). No bank deposits, no crypto, no foreign currency, no private scrip.
+- **Expiry**: The circuit breaker auto-expires after 30 days unless re-authorized by the county commission. It may not be renewed more than twice consecutively without a public hearing.
+- **No central trigger**: Each county activates independently. No state or Confederation authority can impose or lift a county's circuit breaker.
+
 ---
 
 ## 2. County Level (Primary Fiscal Unit)
@@ -52,6 +69,24 @@
 3. **Spending cap**: Total outlays ≤ prior year LVT + consumption tax + user fees. No "emergency" exception.
 4. **No grants to private entities** except via competitive bid for county services.
 5. **Inter-county transfers forbidden**. No county taxes another county's residents.
+
+### 2.6 Reciprocal Inter-County Audit Bounties
+
+**Purpose**: Police LVT assessment integrity without a central revenue service. Counties audit each other's assessment rolls; the auditing county keeps a share of recovered revenue.
+
+**Mechanism**:
+
+- **Random pairing**: Each quarter, the State Council randomly pairs each county with one contiguous or regional county for a reciprocal peer audit of LVT assessment rolls. Both counties audit each other simultaneously.
+- **Bounty**: If the auditing county uncovers systematic under-assessment or fraudulent property classifications, it receives a **20% cash bounty** on all recovered back taxes and penalties.
+- **Penalty source**: Recovered amounts are paid first from the corrupt assessor's **personal surety bond** (civil-liberties.md §3.3), then from the audited county's **reserve treasury**. No central fund is involved.
+- **Scope**: Audit covers assessment methodology, parcel classification, exemption claims, and comparable sales data. Market-based appraisal standards apply.
+- **No central authority**: The State Council only assigns audit pairs and publishes results. It does not conduct audits, set assessments, or collect bounties. All enforcement is county-to-county.
+
+**Relation to existing mechanisms**:
+
+- Works alongside the quarterly sortition audit (public-finance.md §9), which audits government action broadly. The reciprocal bounty is LVT-specific and revenue-motivated.
+- Draws on the assessor's personal liability bond already required for county officials.
+- Directly addresses OI-16 (LVT assessment capture) by giving counties a financial incentive to detect under-assessment in their neighbors.
 
 ---
 

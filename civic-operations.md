@@ -168,6 +168,24 @@ On Decree Day, the Fed is abolished and legal tender laws are repealed. But mill
 | **For US**     | Assigned to county/state (or written off).        |
 | **Private**    | Enforced by county sheriff (Full Faith & Credit). |
 
+### 4.4 Regional Correctional Compacts
+
+**Purpose**: Prevent any single county from bearing the full burden of housing violent federal inmates transferred from the Bureau of Prisons. High-security inmates (violent offenders, organized crime figures, ADX Florence-type prisoners) are held in regional penitentiaries operated by voluntary multi-county/state compacts.
+
+**Mechanism**:
+
+- **Voluntary compact**: Contiguous counties and states form Regional Correctional Compacts by unanimous vote of member county commissions. No county is compelled to join.
+- **Pooled funding**: Member counties dedicate a portion of LVT revenue to the compact's correctional budget, apportioned by population or inmate count.
+- **Shared personnel**: Correctional staff drawn from member counties on rotation, trained and certified under compact standards.
+- **Regional penitentiaries**: Existing federal prison facilities (e.g., ADX Florence) transferred to compact operation. New construction only by compact agreement and funded from pooled LVT revenue.
+- **No county bears burden alone**: No individual county is required to house high-security inmates outside its compact membership. Counties not in a compact retain only their own local offenders.
+- **Withdrawal**: Member counties may withdraw with 12 months' notice, subject to transferring their share of inmates to another compact facility or back to the county of conviction.
+
+**Relation to existing mechanisms**:
+
+- Works alongside Art I §2 service delegation (county-to-county jail contracts) and Art I §6.8 mandatory bi-county compacts for small counties (shared jail holding).
+- Directly addresses OI-29 (Prisoner and case transfer capacity) by providing a regional capacity mechanism for high-security inmates.
+
 ---
 
 ## 5. Passports & Travel Documents

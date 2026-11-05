@@ -53,11 +53,11 @@ Every county is sovereign and exercises "all legislative, executive, and judicia
 
 The capacity mechanism has two tiers:
 
-**Tier 1 — Immediate backstop (Month 6)**: Any county under 1,000 population that has not ratified a charter by Month 6 receives an automatic **State Interim Administrator** with full county powers (levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts) (`constitution.md` Art I §6.2).
+**Tier 1 — Immediate backstop (Month 6)**: Any county under 1,000 population that has not ratified a charter by Month 6 receives an automatic **State Interim Administrator** with full county powers (levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts) (`constitution.md` Art I §6.3).
 
 **Tier 2 — Mandatory consolidation (Year 3)**: Any county under 5,000 population, or one unable to staff a sheriff, court, and commission for two consecutive years, or one failing to collect ≥50% of assessed LVT for two consecutive years, is **automatically consolidated** into the largest contiguous county in the same state. **No commission consent required.** Referendum held in the receiving county only. **Mandatory; merger is forced when thresholds are met** (`constitution.md` Art IV §3).
 
-**Tier 3 — Mandatory shared services (Month 6)**: Any county under 2,500 population must join a **Bi-County Administrative Compact** with at least one contiguous county for the operation of sheriff patrols, trial court dockets, and jail holding facilities (`constitution.md` Art I §6.7).
+**Tier 3 — Mandatory shared services (Month 6)**: Any county under 2,500 population must join a **Bi-County Administrative Compact** with at least one contiguous county for the operation of sheriff patrols, trial court dockets, and jail holding facilities (`constitution.md` Art I §6.8).
 
 ### 1.2 The unproven question
 
@@ -94,11 +94,11 @@ Working estimate to be validated (illustrative, not a result):
 **Step 5 — Test the consolidation case.** A county of 400 residents cannot staff a sheriff or court. By Month 6, it receives a State Interim Administrator. By Month 6, it must also join a Bi-County Administrative Compact with a contiguous county for shared sheriff patrols, court docket, and jail. If it still cannot staff by Year 3, it is automatically consolidated into the largest contiguous county. What happens? Enumerate the actual transition:
 
 - Month 6: State Interim Administrator appointed; Bi-County Administrative Compact formed.
-- Year 3: Automatic consolidation into largest contiguous county (constitution.md Art I §6.4).
+- Year 3: Automatic consolidation into largest contiguous county (constitution.md Art I §6.5).
 - Assets, liabilities, personnel transfer to receiving county.
 - Residents retain all mutual benefits, pension accruals, health coverage, voting rights.
 - Receiving county referendum required (majority vote).
-- If no adjacent county accepts → State Receivership (Art I §6.5).
+- If no adjacent county accepts → State Receivership (Art I §6.6).
 
 ### 1.4 Pass / fail
 
@@ -110,8 +110,8 @@ Working estimate to be validated (illustrative, not a result):
 ### 1.5 Candidate findings (unverified — check before editing)
 
 1. **Service-delegation mechanism now added** (constitution.md Art I §2 & Art IV §4). Counties may contract with contiguous counties or regional compacts to operate law enforcement, trial courts, or jails. Delegating county retains sovereignty/liability; delegation revocable at any time. **Test: does the clause cover all core functions (court, sheriff, jail) and is revocation truly unilateral?**
-2. **Mandatory shared-service compacts now added** (constitution.md Art I §6.7). Counties under 2,500 population must join a Bi-County Administrative Compact for shared sheriff, court, and jail. **Test: does the compact model work for the ten smallest counties? Are withdrawal conditions clear?**
-3. **Circuit judges and marshals now added** (constitution.md Art I §6.2). State Court of Appeals automatically assigns roving circuit judges and cross-deputized marshals from adjacent counties for vacancies >60 days, funded from escrowed LVT auction receipts. **Test: is the funding mechanism sufficient? Are adjacent counties willing to lend personnel?**
+2. **Mandatory shared-service compacts now added** (constitution.md Art I §6.8). Counties under 2,500 population must join a Bi-County Administrative Compact for shared sheriff, court, and jail. **Test: does the compact model work for the ten smallest counties? Are withdrawal conditions clear?**
+3. **Circuit judges and marshals now added** (constitution.md Art I §6.3). State Court of Appeals automatically assigns roving circuit judges and cross-deputized marshals from adjacent counties for vacancies >60 days, funded from escrowed LVT auction receipts. **Test: is the funding mechanism sufficient? Are adjacent counties willing to lend personnel?**
 4. **The D-1 threshold may be too low.** If the real floor is ~1,500 population, a 5,000 threshold is generous — but the **mandatory** nature means uptake is guaranteed by rule, not by consent. The question shifts from political will to administrative capacity: can the State Council execute consolidations at scale?
 5. **Jail capacity is unaddressed at county scale.** OI-29 covers the 150k federal prisoners, but not the baseline county jail need for a 400-person county.
 
@@ -119,9 +119,9 @@ Working estimate to be validated (illustrative, not a result):
 
 All of these already exist in the corpus; none requires a new institution:
 
-- **D-1 consolidation** — already mandatory (constitution.md Art I §6.4 & Art IV §3). If administrative capacity is insufficient, widen the trigger or add State Receivership as a faster backstop.
-- **Mandatory shared-service compacts** — **added** (constitution.md Art I §6.7). Counties under 2,500 population must join a Bi-County Administrative Compact for shared sheriff, court, and jail. Each county retains sovereignty; withdrawal requires charter ratification and State Council approval.
-- **Circuit judges and marshals** — **added** (constitution.md Art I §6.2). State Court of Appeals automatically assigns roving circuit judges and cross-deputized marshals from adjacent counties for vacancies >60 days, funded from escrowed LVT auction receipts.
+- **D-1 consolidation** — already mandatory (constitution.md Art I §6.5 & Art IV §3). If administrative capacity is insufficient, widen the trigger or add State Receivership as a faster backstop.
+- **Mandatory shared-service compacts** — **added** (constitution.md Art I §6.8). Counties under 2,500 population must join a Bi-County Administrative Compact for shared sheriff, court, and jail. Each county retains sovereignty; withdrawal requires charter ratification and State Council approval.
+- **Circuit judges and marshals** — **added** (constitution.md Art I §6.3). State Court of Appeals automatically assigns roving circuit judges and cross-deputized marshals from adjacent counties for vacancies >60 days, funded from escrowed LVT auction receipts.
 - **Compact delegation** — **added** (constitution.md Art I §2 & Art IV §4). Counties may contract with contiguous counties or regional compacts to operate law enforcement, trial courts, or jails. Delegating county retains sovereignty/liability; delegation revocable at any time by commission vote.
 - **State minimum standards** — Art II §2.1 already covers court procedure and records interoperability; a capacity floor could ride on the same machinery.
 - **Mutual pooling** — health, pension, and utility mutuals already exist; the same pooling logic extends to jail and dispatch.
@@ -308,9 +308,9 @@ Three specific throughput questions:
 **Step 4 — Test the failure mode.** For the first slip, state what the design does. Options now in the corpus (constitution.md Art I §6):
 
 - **Model Charter auto-adoption on Decree Day** (constitution.md Art I §6.1) — all 3,000 counties have a functioning charter on Day 0; customization by referendum optional.
-- **Interim Administration** (State Interim Administrator auto-appointed at Month 6 for counties <1,000 pop; Month 18 for all others) — full county powers: levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts.
+- **Interim Administration** (State Interim Administrator auto-appointed at Month 6 for counties <1,000 pop; Month 18 for all others) — full county powers: levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts (`constitution.md` Art I §6.3).
 - **Default Opt-In to Mutuals & Compacts** — every county auto-enrolled in State Pension, Health, Deposit, Disability Mutuals + Infrastructure, Watershed, Grid, Cyber, Criminal Investigation Compacts from Month 18 unless it affirmatively opts out.
-- **Mandatory Bi-County Administrative Compacts** (constitution.md Art I §6.7) — counties under 2,500 population must join a contiguous county for shared sheriff, court, and jail from Month 6.
+- **Mandatory Bi-County Administrative Compacts** (constitution.md Art I §6.8) — counties under 2,500 population must join a contiguous county for shared sheriff, court, and jail from Month 6.
 - **Automatic Consolidation Trigger (mandatory at Year 3)** — counties that fail to ratify charter, seat sheriff/court/commission, or collect LVT are automatically consolidated into largest contiguous county. No commission consent required; referendum in receiving county only.
 - **State Receivership (last resort)** — if no adjacent county accepts consolidation, State Council appoints 3-person Receiver (AG + Treasurer + sortition citizen) to operate county until consolidation or charter ratification.
 - Extend the phase (Constitution provisional until 2,000+ counties ratify; target Year 2 is soft).

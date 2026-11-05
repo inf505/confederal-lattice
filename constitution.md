@@ -66,7 +66,25 @@ The Transition Trust publishes a **Model County Charter** (Year 0) that any coun
 
 **Deemed adoption**: Any county that has not adopted a custom charter by Month 18 is deemed to have adopted the Model Charter permanently until it affirmatively replaces it.
 
-#### 6.2 Interim Administration (If No Commission Forms by Month 18)
+#### 6.2 First-Election Convenor Authority
+
+Purpose: Fill the election-administration void before any county clerk, commission, or election board exists. No county may be left without a lawful mechanism to convene its first local election.
+
+Convenor cascade:
+
+- County with sitting sheriff: The existing county sheriff, elevated as ministerial convenor. Tasked strictly with calling a general town hall and executing the first round of non-partisan local ballots (sheriff, clerk, commission, judge).
+- Unorganized, unincorporated, or no active sheriff: A convention of local property owners (or the largest contiguous parcel holders). Sole legal mandate is to administer the first election within the county.
+
+Limits on convenor authority:
+
+- Ministerial only. The convenor may call elections, print ballots, verify eligibility against existing residency records, and certify results. The convenor may not set tax rates, adopt ordinances, incur debt, or exercise any legislative or judicial power.
+- Non-partisan ballots only. No party labels, no slate, no incumbent advantage.
+- 60-day hard expiry. All emergency convenor powers expire automatically 60 days from Decree Day (or 60 days after the property-owners convention convenes, whichever is later). No extension, renewal, or reappointment.
+- Handoff. Upon certification of first-election results, the convenor transfers all records, rolls, and ballots to the elected county clerk. The convenor resumes their prior office or private status with no residual authority.
+
+If no election occurs within 60 days: The county falls to the Interim Administration backstop (6.3), which has full county powers including calling elections.
+
+#### 6.3 Interim Administration (If No Commission Forms by Month 18)
 
 | Trigger                                                | Interim Authority                                                                              | Powers                                                                                                  | Duration                                          |
 | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
@@ -80,7 +98,7 @@ The Transition Trust publishes a **Model County Charter** (Year 0) that any coun
 
 **Circuit Judges and Marshals**: If a county sheriff or judge position is vacant more than 60 days, the State Court of Appeals automatically assigns a roving circuit judge and cross-deputized marshal from adjacent counties. Costs are funded directly from the county's escrowed LVT auction receipts. These officers exercise full jurisdiction within the county until a permanent sheriff or judge is seated.
 
-#### 6.3 Default Opt-In to Mutuals & Compacts
+#### 6.4 Default Opt-In to Mutuals & Compacts
 
 | Entity                             | Default Status                       | Opt-Out Mechanism              |
 | ---------------------------------- | ------------------------------------ | ------------------------------ |
@@ -96,7 +114,7 @@ The Transition Trust publishes a **Model County Charter** (Year 0) that any coun
 
 **No county starts from zero.** Every county has pension, health, deposit, disability, infrastructure, watershed, grid, cyber, and criminal investigation coverage **from Month 18** unless it affirmatively opts out.
 
-#### 6.4 Automatic Consolidation Trigger (Not Just Offer)
+#### 6.5 Automatic Consolidation Trigger (Not Just Offer)
 
 **Current D-1 (Art IV §3)**: Voluntary offer for counties <10k pop or 2-year staffing failure.
 
@@ -113,7 +131,7 @@ The Transition Trust publishes a **Model County Charter** (Year 0) that any coun
 
 **Residents of consolidated county**: Retain all mutual benefits, pension accruals, health coverage, and voting rights in receiving county. No loss of benefits.
 
-#### 6.5 State Receivership (Last Resort)
+#### 6.6 State Receivership (Last Resort)
 
 If **no adjacent county accepts consolidation** (e.g., isolated county, all neighbors refuse):
 
@@ -124,7 +142,7 @@ If **no adjacent county accepts consolidation** (e.g., isolated county, all neig
 
 **No county becomes a ward of the Confederation.** The Confederation has no administrative capacity. State receivership is the backstop.
 
-#### 6.6 Timeline Summary
+#### 6.7 Timeline Summary
 
 | Deadline     | Requirement                                                                                          | Fallback                                                            |
 | ------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -137,7 +155,7 @@ If **no adjacent county accepts consolidation** (e.g., isolated county, all neig
 
 **Design principle**: **No governance vacuum.** Every county has functioning government from Month 6 (if under 1,000 population) or Month 18 (all others), either by its own charter or by interim administration. By Year 3, every county is either self-governing or consolidated. The system tolerates late stand-up but not permanent failure.
 
-#### 6.7 Mandatory Shared-Service Compacts for Small Counties
+#### 6.8 Mandatory Shared-Service Compacts for Small Counties
 
 **Mandatory pooling**: Any county with population under 2,500 must join a **Bi-County Administrative Compact** with at least one contiguous county for the operation of sheriff patrols, trial court dockets, and jail holding facilities. The compact is formed by joint resolution of both county commissions and filed with the State Council. Each county retains its own charter, commission, and sovereignty; only the specified functions are pooled.
 
