@@ -34,7 +34,7 @@ There is **no federal standing army, no Department of Defense, no Joint Chiefs, 
 - **Training**: County-run, weekend/monthly. Focus: **area denial, infrastructure defense, comms, medical, logistics**. Not offensive maneuver.
 - **Equipment**: County-owned: drones, MANPADS, ATGMs, mines, encrypted mesh radios, hardened shelters. Purchased via county LVT surplus or regional co-ops.
 - **Command**: Elected county sheriff (or designated militia colonel). No state/federal chain of command.
-- **Activation**: Only by **county commission vote** (defense of county) or **governor request + county consent** (state emergency). Exception: the Governor may deploy the Guard for up to 72 hours under Art II §4 coordination emergency; beyond 72 hours, county consent is required.
+- **Activation**: Only by **county commission vote** (defense of county) or **governor request + county consent** (state emergency). Exception: the Governor may deploy the Guard for up to 72 hours under Art II §4 coordination emergency; beyond 72 hours, county consent is required. If the affected county commission is incapacitated or unable to consent, emergency consent may be provided by the State Interim Administrator (constitution.md Art I §6.3) or, if none is seated, a sortition citizen panel (7 residents) appointed by the State Court of Appeals. Consent so provided expires when the commission is reconstituted or 30 days, whichever is sooner.
 
 ---
 
