@@ -731,6 +731,19 @@ Four change-set counters were stale relative to this change set. Corrected to "1
 
 ---
 
+## Change Set 13 — Session Consolidation (Applied)
+
+Status: APPLIED — 2026-11-04.
+Trigger: Extended working session covering debt settlement math, bank-run prevention, asset liquidation logistics, county stand-up defaults, veterans disability tiering, foreign debt/geopolitics, county capacity floor, IT staffing, county end-user training, service delegation, secession relationship compact, statutory sunset smoothing, and macroeconomic stabilization without a lender of last resort.
+
+Design changes: tiered haircut by holder class; veterans disability tiered model; deposit mutual pre-capitalization; Trust notes extended to 20 years; student loans removed from liability; PBGC corrected to surplus; Quick Wins asset sales front-loaded; county stand-up defaults (Model Charter, Interim Admin, Default Opt-In, Automatic Consolidation, State Receivership); service-delegation clause; Post-Secession Relationship Compact; Federal Statute Sunset Savings Clause; Staggered Sunset Schedule; Trust IT Office; Trust Asset Sales Office; County End-User Training Program; decentralized clearinghouses + Emergency TANs; systemic trade-off codified; foreign debt/geopolitics made explicit (commodity-for-debt clearing agreements, maritime/air corridor reciprocity treaties, sovereign reset declaration); OI-37 and OI-46 moved to MITIGATED; Age-55 entitlement cliff mitigated with Sliding-Scale LVT Transition Voucher (ages 40–54: 40%/25%/10% credit vouchers funded from county land base credit, not Trust cash; prior-service credit for county DC plan vesting).
+
+`constitution.md`, `critical-path.md`, `debt-obligations.md`, `asset-transfer.md`, `asset-transfer-liquidation.md`, `personnel-transition.md`, `public-finance.md`, `vestigial-functions.md`, `defense-lattice.md`, `open-issues.md`, `domestic-policy.md`, `what-if-map.md` (new).
+
+Notes: All changes were applied directly to source documents without prior PROPOSED/AGREED staging in this changelog. This change set records them retroactively as APPLIED. The tiered haircut + 20-year Trust notes + Reading B assessment closes the coupon gap entirely (1.0-2.3x coverage). The mandatory consolidation trigger replaces the voluntary D-1 offer; administrative capacity is now the binding constraint. OI-37 and OI-46 moved from OPEN to MITIGATED; OI-27, OI-14, OI-28 remain OPEN pending numeric validation. what-if-map.md created as a session summary document. Foreign debt haircut formalized as sovereign reset with commodity-for-debt clearing agreements and maritime/air corridor reciprocity treaties. Age-55 entitlement cliff mitigated with Sliding-Scale LVT Transition Voucher (ages 40–54: 40%/25%/10% credit vouchers funded from county land base credit, not Trust cash; prior-service credit for county DC plan vesting). Net Trust cash outflow remains $0.
+
+---
+
 ## Optional Add-Ons (not in the core set)
 
 These are real levers for state authority, but each is either larger than "slight" or cuts against a load-bearing county protection. Listed so the decision is explicit.

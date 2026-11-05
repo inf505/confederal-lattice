@@ -2,6 +2,8 @@
 
 There is **no federal standing army, no Department of Defense, no Joint Chiefs, no unified command structure, no global posture**. What replaces it is a **confederal defense lattice** — layered, voluntary, and accountable downward.
 
+**Geopolitical consequence**: The absence of a federal military is not a gap to be filled; it is the institutional precondition for the debt settlement in `debt-obligations.md` §3.3. A state with no expeditionary force cannot credibly threaten foreign creditors, cannot enforce foreign debt collection, and cannot project power to protect overseas assets. The 60–75% haircut on foreign official holders is therefore not a negotiating tactic — it is the inevitable result of institutional reality. The Confederation cannot borrow internationally, cannot deploy force abroad, and cannot protect foreign creditors' interests. Repudiation is the only coherent option given the absence of a military instrument.
+
 ---
 
 ## 1. The Nuclear Deterrent (Strategic Layer)

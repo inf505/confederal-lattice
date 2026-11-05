@@ -8,17 +8,17 @@
 
 **Principle**: _Diplomacy is a county-to-county relationship. The Confederation has no foreign policy — only a mailbox._
 
-| Element                       | Design                                                                                                            |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Diplomatic Receipt Office** | ~12 staff (federal remnant). Accepts credentials, maintains treaty registry. No outgoing diplomacy.               |
-| **Treaties**                  | No treaty binds without majority-of-counties ratification. Counties/states may form sister-region pacts directly. |
-| **Trade agreements**          | County/compact level. No federal trade authority.                                                                 |
-| **Extradition**               | Criminal Investigation Compact (law-enforcement.md). County judge → governor's warrant → sheriff transport.       |
-| **Consular access**           | Foreign consulates permitted by county. No federal role.                                                          |
-| **Recognition**               | No federal recognition power. Counties recognize whom they deal with.                                             |
-| **War/peace**                 | Art III §4 chain (Congress + county referendum + state opt-in + county opt-in).                                   |
+| Element                       | Design                                                                                                                                                                                                  |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Diplomatic Receipt Office** | ~12 staff (federal remnant). Accepts credentials, maintains treaty registry. No outgoing diplomacy.                                                                                                     |
+| **Treaties**                  | No treaty binds without majority-of-counties ratification. Counties/states may form sister-region pacts directly.                                                                                       |
+| **Trade agreements**          | County/compact level. No federal trade authority. Counties/states form direct sister-region pacts; balances settled in physical gold/silver coin or barter commodities, not sovereign debt instruments. |
+| **Extradition**               | Criminal Investigation Compact (law-enforcement.md). County judge → governor's warrant → sheriff transport.                                                                                             |
+| **Consular access**           | Foreign consulates permitted by county. No federal role.                                                                                                                                                |
+| **Recognition**               | No federal recognition power. Counties recognize whom they deal with.                                                                                                                                   |
+| **War/peace**                 | Art III §4 chain (Congress + county referendum + state opt-in + county opt-in).                                                                                                                         |
 
-**Replaces**: State Dept, USAID, USTR, Ex-Im, DFC, intelligence community (foreign).
+**Replaces**: State Dept, USAID, USTR, Ex-Im, DFC, intelligence community (foreign). **Trade settlement**: Specie (gold/silver coin) or barter; no federal currency, no reserve currency role.
 
 ---
 

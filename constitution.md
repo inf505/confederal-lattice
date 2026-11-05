@@ -62,18 +62,23 @@ The Transition Trust publishes a **Model County Charter** (Year 0) that any coun
 - **Sortition**: Citizen panels for charter review (every 5 years), judicial retention, audit oversight
 - **Sunset**: All county ordinances expire in 5 years unless re-authorized
 
-**Adoption**: County commission passes resolution → Model Charter effective immediately. **Referendum to customize** may be called anytime (10% petition, majority vote).
+**Automatic adoption (Day 0)**: The Model Charter takes effect automatically in every county on Decree Day by operation of the Decree. It remains in force until a county commission passes a resolution to adopt a custom charter, which may be ratified by referendum (10% petition, majority vote). Until a county adopts its own charter, the Model Charter is the county's governing document.
+
+**Deemed adoption**: Any county that has not adopted a custom charter by Month 18 is deemed to have adopted the Model Charter permanently until it affirmatively replaces it.
 
 #### 6.2 Interim Administration (If No Commission Forms by Month 18)
 
-| Trigger                                               | Interim Authority                                                                              | Powers                                                                                                  | Duration                                          |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| **No charter ratified by Month 18**                   | **State Interim Administrator** (appointed by State Council, confirmed by Council of Counties) | Full county powers: levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts | Until charter ratified or consolidation completes |
-| **Commission elected but no quorum (vacancies >50%)** | **State Interim Administrator** + **sortition citizen panel** (7 residents)                    | Fill vacancies, run essential functions                                                                 | Until special election (within 90 days)           |
-| **Sheriff vacancy >60 days**                          | **State Court of Appeals appoints special marshal** (from adjacent county sheriff roster)      | Execute all sheriff duties                                                                              | Until elected sheriff seated                      |
-| **Court vacancy >90 days**                            | **State Court of Appeals assigns visiting judge**                                              | Hear all cases                                                                                          | Until elected/appointed judge seated              |
+| Trigger                                                | Interim Authority                                                                              | Powers                                                                                                  | Duration                                          |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **County population <1,000 and no charter by Month 6** | **State Interim Administrator** (appointed by State Council, confirmed by Council of Counties) | Full county powers: levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts | Until charter ratified or consolidation completes |
+| **No charter ratified by Month 18**                    | **State Interim Administrator** (appointed by State Council, confirmed by Council of Counties) | Full county powers: levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts | Until charter ratified or consolidation completes |
+| **Commission elected but no quorum (vacancies >50%)**  | **State Interim Administrator** + **sortition citizen panel** (7 residents)                    | Fill vacancies, run essential functions                                                                 | Until special election (within 90 days)           |
+| **Sheriff vacancy >60 days**                           | **State Court of Appeals appoints special marshal** (from adjacent county sheriff roster)      | Execute all sheriff duties                                                                              | Until elected sheriff seated                      |
+| **Court vacancy >90 days**                             | **State Court of Appeals assigns visiting judge**                                              | Hear all cases                                                                                          | Until elected/appointed judge seated              |
 
 **Funding**: Interim administration costs paid from **county LVT revenue** (Trust advances if cash-flow negative; repaid from first auction proceeds).
+
+**Circuit Judges and Marshals**: If a county sheriff or judge position is vacant more than 60 days, the State Court of Appeals automatically assigns a roving circuit judge and cross-deputized marshal from adjacent counties. Costs are funded directly from the county's escrowed LVT auction receipts. These officers exercise full jurisdiction within the county until a permanent sheriff or judge is seated.
 
 #### 6.3 Default Opt-In to Mutuals & Compacts
 
@@ -121,16 +126,29 @@ If **no adjacent county accepts consolidation** (e.g., isolated county, all neig
 
 #### 6.6 Timeline Summary
 
-| Deadline     | Requirement                                       | Fallback                                   |
-| ------------ | ------------------------------------------------- | ------------------------------------------ |
-| **Month 6**  | Asset Data Room live (asset-transfer.md §1A)      | Trust operates directly                    |
-| **Month 12** | First county charters ratified                    | Interim administrators appointed           |
-| **Month 18** | **All counties** have charter or interim admin    | State Interim Administrator auto-appointed |
-| **Year 2**   | 2,000+ counties ratified (Constitution permanent) | Provisional Constitution extends           |
-| **Year 3**   | **All counties** ratified charter or consolidated | **Automatic consolidation trigger**        |
-| **Year 5**   | All statutes sunset; charters re-ratified         | Non-compliant counties → receivership      |
+| Deadline     | Requirement                                                                                          | Fallback                                                            |
+| ------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Month 6**  | Asset Data Room live (asset-transfer.md §1A); counties <1,000 pop must have charter or interim admin | Trust operates directly; State Interim Administrator auto-appointed |
+| **Month 12** | First county charters ratified                                                                       | Interim administrators appointed                                    |
+| **Month 18** | **All counties** have charter or interim admin                                                       | State Interim Administrator auto-appointed                          |
+| **Year 2**   | 2,000+ counties ratified (Constitution permanent)                                                    | Provisional Constitution extends                                    |
+| **Year 3**   | **All counties** ratified charter or consolidated                                                    | **Automatic consolidation trigger**                                 |
+| **Year 5**   | All statutes sunset; charters re-ratified                                                            | Non-compliant counties → receivership                               |
 
-**Design principle**: **No governance vacuum.** Every county has functioning government from Month 18, either by its own charter or by interim administration. By Year 3, every county is either self-governing or consolidated. The system tolerates late stand-up but not permanent failure.
+**Design principle**: **No governance vacuum.** Every county has functioning government from Month 6 (if under 1,000 population) or Month 18 (all others), either by its own charter or by interim administration. By Year 3, every county is either self-governing or consolidated. The system tolerates late stand-up but not permanent failure.
+
+#### 6.7 Mandatory Shared-Service Compacts for Small Counties
+
+**Mandatory pooling**: Any county with population under 2,500 must join a **Bi-County Administrative Compact** with at least one contiguous county for the operation of sheriff patrols, trial court dockets, and jail holding facilities. The compact is formed by joint resolution of both county commissions and filed with the State Council. Each county retains its own charter, commission, and sovereignty; only the specified functions are pooled.
+
+**Compulsory features**:
+
+- **Shared sheriff patrol**: Rotating patrol coverage across both counties, with a single command structure and shared dispatch.
+- **Shared court docket**: A single trial court schedule serving both counties, with cases heard in rotating locations.
+- **Shared jail**: A single jail facility serving both counties, with costs apportioned by population.
+- **Withdrawal**: A county may withdraw only after ratifying its own charter and demonstrating independent staffing capacity, subject to State Council approval.
+
+**No county starts from zero.** Every county under 2,500 population has functioning sheriff, court, and jail capacity from Month 6, either through its own charter, interim administration, or mandatory compact participation.
 
 ---
 
@@ -175,6 +193,16 @@ States exercise **only** these powers, delegated by member counties via intersta
    - **No new enforcement.** After lapse, opt-out, or voidance, the standard supports no new enforcement in that county for later conduct.
    - **Common-law floor.** Post-lapse cross-county harm remains actionable under county common law — trespass, nuisance, strict liability — with State Court of Appeals jurisdiction as an inter-county dispute (Art II §5). Lapse lowers the floor to the common-law baseline; it does not open a liability vacuum.
    - **Arrears.** Certified costs incurred while the standard was in force remain state liabilities, paid with seniority over new obligations.
+
+### Section 2.2: Federal Statute Sunset Savings Clause
+
+All prior federal statutes sunset at Year 5 per Art VIII §2. When any such statute lapses before a county or compact has enacted a replacement, the following savings clause applies automatically:
+
+1. **Pending matters continue.** Civil claims and prosecutions for conduct occurring while the federal statute applied proceed to conclusion under the statute as it then existed.
+2. **Judgments survive.** Final judgments — damages and injunctions alike — are enforced under full faith & credit (Art IV §1).
+3. **No new enforcement.** After sunset, the federal statute supports no new enforcement in any county for later conduct.
+4. **Common-law floor.** Post-sunset cross-county harm remains actionable under county common law — trespass, nuisance, strict liability — with State Court of Appeals jurisdiction as an inter-county dispute (Art II §5). Sunset lowers the floor to the common-law baseline; it does not open a liability vacuum.
+5. **Compact continuity.** Any interstate compact operating under the sunsetted statute continues under its existing charter until re-authorized or dissolved by its member counties.
 
 ### Section 3: State Legislature
 
@@ -294,7 +322,7 @@ Citizens of each county enjoy equal privileges in all counties. No county may di
   - **Cross-border harm liability**: Seceded entity liable for downstream harm (water, pollution, grid instability, criminal flight); judgments enforceable in both jurisdictions.
   - **Compact continuity**: Option to remain in Confederation compacts (Digital Backbone, Cyber, Criminal Investigation, Infrastructure) as associate members with assessed contributions.
 - **County exit from state**: County may leave its state by 60% referendum + acceptance by new state's Council of Counties.
-- **Automatic consolidation offer**: A county with population under 10,000, or one unable to staff a sheriff, court, and commission for 2 consecutive years, receives an automatic consolidation offer from the State Council — the largest contiguous county within the same state. Consolidation requires consent of both county commissions and a majority referendum in each (Art I §4). Contiguous small counties may also jointly consolidate into a single county, with commission consent and a single majority referendum across all participating counties. Voluntary; no merger is forced.
+- **Automatic consolidation (mandatory)**: A county with population under 5,000, or one unable to staff a sheriff, court, and commission for 2 consecutive years, or one failing to collect ≥50% of assessed LVT for 2 consecutive years, is **automatically consolidated** into the largest contiguous county in the same state. **No commission consent required.** Referendum held in the **receiving county only** (majority vote). Contiguous small counties may also jointly consolidate into a single county, with commission consent and a single majority referendum across all participating counties. **Mandatory; merger is forced when thresholds are met.**
 
 ### Section 4: Compacts
 
@@ -422,8 +450,26 @@ The **Decree** (Year 0) dissolves the prior federal order and **promulgates** th
 - **Year 2**: Federal budget <$100M. Congress 90-day session. State guards operational. County militias training. State Courts of Appeals seated; original jurisdiction and advisory-opinion rules take effect. First state-act County Veto test (90-day window). State infrastructure surcharge may be levied on participating counties only (1% during Years 2–5, 2% after the Trust levy sunsets; 5-year sunset); State Emergency Reserve funded (≤2% prior-year budget). Minimum-standard reimbursement appropriated in the state budget (Art II §2.1(3) pay-as-you-go).
 - **Year 3**: Competitive currency normal. Interstate compacts active. SCOTUS sortition seated. Interposition threshold (20 states) tested. State AG statewide grand jury rules operational.
 - **Year 4**: System stable. Federal shell <$60M. SWF dividends flowing. State minimum standards reviewed for cost and efficacy.
-- **Year 5**: **All prior federal/state statutes sunset**. Only re-authorized items survive. County charters re-ratified. State minimum standards re-adopted or lapse (re-adoption may not add a domain; that requires Art V). Re-adoption restarts the 90-day County Veto window; lapse triggers the Art II §2.1(8) savings clause. Transition complete.
+- **Year 5**: **All prior federal/state statutes sunset** except those listed in the Staggered Sunset Schedule (paragraph 6). Only re-authorized items survive. County charters re-ratified. State minimum standards re-adopted or lapse (re-adoption may not add a domain; that requires Art V). Re-adoption restarts the 90-day County Veto window; lapse triggers the Art II §2.1(8) savings clause. Transition complete.
+- **Year 6–7**: **Staggered Sunset Schedule** — Technical infrastructure statutes remain provisional:
+  - **FAA air traffic control compacts** — provisional through Year 7; counties must form regional ATC compacts or adopt county-administered systems by Year 7.
+  - **Drug safety compacts (FDA successor)** — provisional through Year 7; counties must form mutual drug-safety compacts or adopt county health-department oversight by Year 7.
+  - **Aviation safety certification** — provisional through Year 7; county/state compacts must assume certification duties by Year 7.
+  - **All other sunsetted statutes** — fully lapse at Year 5 unless re-authorized.
 - **Exception**: The **Transition Trust** (Art IV §7) continues through **Year 10** to settle legacy claims, then dissolves. It is a wind-down vehicle, not a program subject to the Year 5 sunset. Its instruments are time-bounded (≤10 years) and its county assessment sunsets with it.
+
+### Section 2.3: Staggered Sunset Schedule
+
+Technical infrastructure domains requiring extended transition:
+
+| Domain                        | Federal Statute            | Sunset | Replacement Required By                                           |
+| ----------------------------- | -------------------------- | ------ | ----------------------------------------------------------------- |
+| Air traffic control           | FAA enabling statutes      | Year 7 | Regional ATC compacts or county-administered systems              |
+| Drug safety                   | FDA enabling statutes      | Year 7 | County health-department oversight or mutual drug-safety compacts |
+| Aviation safety certification | FAA certification statutes | Year 7 | County/state compact certification duties                         |
+| All other federal statutes    | Various                    | Year 5 | County or compact replacement, or common-law floor applies        |
+
+If a staggered-domain statute sunsets without a county/compact replacement in place, the Art II §2.2 savings clause applies: common-law floor (trespass, nuisance, strict liability) with State Court of Appeals jurisdiction.
 
 ### Section 3: The Vanish
 

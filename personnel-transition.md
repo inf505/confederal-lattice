@@ -238,15 +238,18 @@
 
 ### 10.2 Trust IT Office — Year 0 Stand-Up
 
-| Step                             | Deadline         | Responsible                                 |
-| -------------------------------- | ---------------- | ------------------------------------------- |
-| **Trust IT Director appointed**  | Decree + 30 days | Trust trustees (sortition + experts)        |
-| **Core team hired (50 senior)**  | Month 2          | IT Director (federal IT veterans preferred) |
-| **Data Room platform procured**  | Month 2          | IT Director + procurement                   |
-| **Auction SaaS procured**        | Month 3          | IT Director + procurement                   |
-| **Financial systems configured** | Month 3          | IT Director + 3 financial experts           |
-| **Full team (500) onboarded**    | Month 6          | IT Director + county job centers            |
-| **Handoff to counties/compacts** | Year 2           | IT Director + State Council                 |
+**Temporary subsidiary of the Transition Trust.** The Trust IT Office is chartered by the Transition Trust on Decree Day and dissolves automatically at Year 7 (or upon full handoff to counties/compacts, whichever comes first). It is not a permanent federal agency.
+
+| Step                             | Deadline         | Responsible                                            |
+| -------------------------------- | ---------------- | ------------------------------------------------------ |
+| **Trust IT Director appointed**  | Decree + 30 days | Trust trustees (sortition + experts)                   |
+| **Core team hired (50 senior)**  | Month 2          | IT Director (federal IT veterans preferred)            |
+| **Data Room platform procured**  | Month 2          | IT Director + procurement                              |
+| **Auction SaaS procured**        | Month 3          | IT Director + procurement                              |
+| **Financial systems configured** | Month 3          | IT Director + 3 financial experts                      |
+| **Full team (500) onboarded**    | Month 6          | IT Director + county job centers                       |
+| **Handoff to counties/compacts** | Year 2           | IT Director + State Council                            |
+| **Office dissolution**           | Year 7           | Trustees; residual staff transfer to counties/compacts |
 
 **Funding**: Trust Year 0–2 (~$500M/yr). **Year 2+**: County LVT + compact assessments.
 
@@ -292,6 +295,8 @@
 
 ### 11.2 Two-Tier Structure
 
+**Temporary subsidiary of the Transition Trust.** The Trust Asset Sales Office is chartered by the Transition Trust on Decree Day and dissolves automatically at Year 7 (or upon completion of asset disposition, whichever comes first). It is not a permanent federal agency.
+
 | Tier                                         | Role                                                                                                | Employer                 | Timeline |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------ | -------- |
 | **Trust Asset Sales Office (Central)**       | Strategy, standards, procurement, oversight, cross-county coordination, Data Room, auction platform | **Transition Trust**     | Year 0–7 |
@@ -309,7 +314,7 @@
 
 ### 11.4 Post-Liquidation Outcomes (What Happens Afterward)
 
-**Trust Asset Sales Office dissolves Year 7–10** (80% sold by Year 5–6, tail to Year 7–10). Staff transition:
+**Trust Asset Sales Office dissolves Year 7** (80% sold by Year 5–6, tail to Year 7). Staff transition:
 
 | Destination                          | Est. % | Mechanism                                                                               |
 | ------------------------------------ | ------ | --------------------------------------------------------------------------------------- |

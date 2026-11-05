@@ -17,7 +17,7 @@
 | **Decree**   | 0     | One dictatorial act: dissolve the old order and promulgate the Constitution for ratification. Abolish executive branch, Fed, income/payroll/corporate tax, federal LE, military command, agencies. Mint strikes coin. All federal statutes sunset-dated (5 yrs). Constitution provisional until ratified by 2,000+ counties (target Year 2). |
 | **Stand-Up** | 1–2   | Counties adopt charters (ratified by referendum). Mutuals chartered. Compacts formed. Sheriffs elected. Courts seated. State AG elected; minimum standards adopted; State Courts of Appeals seated.                                                                                                                                          |
 | **Cutover**  | 3–4   | Federal budget <$60M. State guards operational. Competitive currency normal. SCOTUS sortition seated. State appellate original jurisdiction active; interposition threshold (20 states) tested; state surcharge operational.                                                                                                                 |
-| **Lock-In**  | 5     | All prior federal/state statutes void unless re-authorized. County charters re-ratified. State minimum standards re-adopted or lapse. Transition Trust continues (wind-down) to Year 10, then dissolves.                                                                                                                                     |
+| **Lock-In**  | 5     | All prior federal/state statutes void unless re-authorized, except staggered-sunset domains (air traffic control, drug safety, aviation safety) which remain provisional through Year 7. County charters re-ratified. State minimum standards re-adopted or lapse. Transition Trust continues (wind-down) to Year 10, then dissolves.        |
 
 ### The Vanish
 
@@ -28,13 +28,14 @@
 
 ### Contingencies
 
-| Risk                             | Response                                                                                  |
-| -------------------------------- | ----------------------------------------------------------------------------------------- |
-| **County refuses charter**       | Default charter template applies; residents may secede to adjacent county.                |
-| **State resists devolution**     | County veto + withholding assessments starves state.                                      |
-| **Military refuses dissolution** | State guards + county militias outnumber federal; silo states hold title.                 |
-| **Economic shock**               | Transition Trust (seigniorage + asset sales) funds 5 years; TANs provide local liquidity. |
-| **Foreign opportunism**          | Regional defense compacts activate; nuclear deterrent remains (governors' council).       |
+| Risk                             | Response                                                                                                                                                                                                                        |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **County refuses charter**       | Default charter template applies; residents may secede to adjacent county.                                                                                                                                                      |
+| **State resists devolution**     | County veto + withholding assessments starves state.                                                                                                                                                                            |
+| **Military refuses dissolution** | State guards + county militias outnumber federal; silo states hold title.                                                                                                                                                       |
+| **Economic shock**               | Transition Trust (seigniorage + asset sales) funds 5 years; TANs provide local liquidity.                                                                                                                                       |
+| **Foreign opportunism**          | Regional defense compacts activate; nuclear deterrent remains (governors' council).                                                                                                                                             |
+| **Regulatory vacuum at Year 5**  | Art II §2.2 savings clause applies: common-law floor (trespass, nuisance, strict liability) with State Court of Appeals jurisdiction; staggered domains (air traffic, drug safety, aviation) remain provisional through Year 7. |
 
 ---
 

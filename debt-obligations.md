@@ -89,7 +89,15 @@ Asset sales + levy cover ~$5–8T of the **$27T public debt held by the public**
 
 **Design note**: The coupon gap is **closed** via 20-year amortization + Reading B assessment. The 20-year Trust notes reduce annual coupon to $76–121B/yr, fully covered by the $125–175B/yr assessment with margin.
 
-**Principle 1 tension**: Foreign official holders are market "private holders." A 60–75% haircut is repudiation. The design accepts this because: (a) no successor state = no forum to sue; (b) dollar reserve status ends by design — foreign official holdings are the _mechanism_ of that status; (c) allies (Japan, UK, EU) take the same hit as adversaries; (d) the Confederation cannot borrow internationally for a generation regardless. This is a feature, not a bug.
+**Principle 1 tension — and the geopolitical bet**: Foreign official holders are market "private holders." A 60–75% haircut is repudiation. The design accepts this **as an intentional feature**, not a bug:
+
+- **No successor state = no forum to sue.** The Confederation has no courts foreign creditors can access.
+- **Dollar reserve status ends by design.** Foreign official holdings are the mechanism of dollar hegemony; repudiating them dissolves that architecture permanently.
+- **No central bank, no standing army, no borrowing capacity.** The Confederation cannot project force or print money to service external debt. Repudiation is the only coherent option given the institutional reality.
+- **Allies (Japan, UK, EU) take the same hit as adversaries.** No exceptions — the haircut is universal for foreign official holders.
+- **The Confederation cannot borrow internationally for a generation.** This is accepted: international trade will be conducted county-to-county or compact-to-compact, settled in specie or barter, not sovereign debt instruments (see §11 and vestigial-functions.md §1).
+
+This is not an unintended consequence. It is the design's explicit rejection of imperial monetary architecture.
 
 **Alternative (cleaner but harder)**: Full extinguishment of Fed + foreign official (~$12–13T); domestic institutional 50% haircut; retail protected. Trust note principal ~$10–15T. Coupon $100–150B/yr. Reading B covers cleanly. Diplomatic rupture total.
 
@@ -100,7 +108,7 @@ Instead of a purely punitive wealth levy, high-income/high-wealth payers may **o
 - **Mechanism**: Payer directs their transition levy payment (or a portion thereof) into newly chartered **county infrastructure mutuals** — grid, fiber, rail, ports, water systems — receiving **proportional equity stakes** in those mutuals.
 - **Valuation**: Equity allocated at mutual charter valuation (independent appraisal). Levy payment = equity purchase at par.
 - **Rights**: Equity carries standard mutual member rights (governance, dividends, capital appreciation). No special privileges.
-- **Liquidity**: Equity tradable on county mutual secondary markets after Year 3.
+- **Liquidity**: Equity tradable on county mutual secondary markets after **Month 12** (accelerated from Year 3 to provide immediate, liquid, income-generating domestic safe haven against capital flight during Years 0–2).
 - **Voluntary**: Payer chooses standard levy (pure tax) or Conversion Premium (equity). No coercion.
 - **Effect**: Turns a punitive levy into a productive seed investment; aligns wealthy interests with local infrastructure success; anchors capital locally.
 
@@ -149,14 +157,16 @@ The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year pres
 
 ### 4.3 Funding the Transition (Current Beneficiaries)
 
-| Group                     | Treatment                                                                      | Funding                           |
-| ------------------------- | ------------------------------------------------------------------------------ | --------------------------------- |
-| **Retirees (65+)**        | Benefit honored at current level, paid by Transition Trust                     | Asset sales + levy (5 years)      |
-| **Near-retirees (55–64)** | Benefit honored at 80% level, phased to county plan                            | Transition Trust + county pension |
-| **Workers (<55)**         | Transition to county DC plan; accrued benefit preserved as lump-sum or annuity | County pension trust              |
-| **Disabled**              | County disability mutual (no gap)                                              | County mutual + state reinsurance |
+| Group                     | Treatment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Funding                           |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| **Retirees (65+)**        | Benefit honored at current level, paid by Transition Trust                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Asset sales + levy (5 years)      |
+| **Near-retirees (55–64)** | Benefit honored at 80% level, phased to county plan                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Transition Trust + county pension |
+| **Workers (<55)**         | Transition to county DC plan; **prior-service credit** (vesting/service recognition only, no dollar value) for documented FICA contributions; accrued benefit preserved as lump-sum or annuity; **Sliding-Scale LVT Transition Voucher** (ages 40–54): 50–54 receive 40% LVT credit voucher; 45–49 receive 25%; 40–44 receive 10%. Vouchers are transferable County LVT tax credits, redeemable against annual LVT obligations over a 10-year window or assignable to county pension trusts as initial capital equity. | County pension trust              |
+| **Disabled**              | County disability mutual (no gap)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | County mutual + state reinsurance |
 
 **No "trust fund" survives.** No intergenerational transfer beyond the 5-year transition.
+
+**Age-55 cutoff — deliberate policy boundary with sliding-scale mitigation.** Workers aged 55+ receive Trust-funded benefits for 5 years (transition cohort). Workers under 55 transition to county DC plans with prior-service credit (vesting/service recognition only — no dollar value, no federal backstop). Workers aged 40–54 additionally receive a **Sliding-Scale LVT Transition Voucher**: 50–54 receive a 40% credit voucher; 45–49 receive 25%; 40–44 receive 10%. Vouchers are transferable County LVT tax credits, redeemable against annual LVT obligations over a 10-year window or assignable to county pension trusts as initial capital equity. Vouchers are funded from county land base credit, **not** from Transition Trust cash — net Trust cash outflow remains $0. The hard cutoff at 55 remains a design choice: it bounds Trust liability and forces county-level responsibility for workers under 55. A 54-year-old who paid FICA for 35 years enters the county DC plan fully vested with a 40% LVT credit voucher but receives no federal payment; a 56-year-old receives Trust-funded benefits for 5 years. No phase-in beyond the voucher schedule is specified.
 
 ---
 
@@ -454,6 +464,68 @@ The ~$7T in trust fund IOUs is an accounting artifact. The **actual 75-year pres
 | **Investment treaties (ISDS)**        | Terminated; no arbitration claims honored                          |
 | **Tax treaties**                      | Superseded by county/compact arrangements                          |
 | **Extradition treaties**              | Superseded by Criminal Investigation Compact                       |
+
+### 11.1 No Borrowing Capacity — By Design
+
+The Confederation has **no central bank, no standing army, and no borrowing capacity**. It cannot issue sovereign debt, cannot print money to service external claims, and cannot project force to protect foreign creditors. This is not a gap to be filled; it is the design's core architecture:
+
+- **No lender of last resort.** No Fed, no Treasury, no monetary authority.
+- **No military enforcement.** No power to seize foreign assets or retaliate against creditor nations.
+- **No successor liability.** The Confederation inherits nothing and assumes nothing.
+
+Consequently, **foreign debt repudiation is the only coherent option.** The 60–75% haircut on foreign official holders is not a negotiating position — it is the inevitable result of institutional reality.
+
+### 11.2 International Trade Settlement — County-to-County, Specie or Barter
+
+With no sovereign debt instruments and no reserve currency, international trade is routed through **direct county-to-county or regional compact trade pacts**, settling balances in **physical gold/silver coin or barter commodities** rather than sovereign debt:
+
+| Element                           | Design                                                                                                                      |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Trade pacts**                   | County-to-county or regional compact agreements, voluntary and terminable. No federal trade authority.                      |
+| **Settlement medium**             | Physical gold/silver coin, or barter commodities (grain, energy, minerals, manufactured goods).                             |
+| **No sovereign debt instruments** | No Treasuries, no bonds, no letters of credit backed by the Confederation.                                                  |
+| **No reserve currency role**      | The dollar's reserve status ends by design. No county or compact issues a global reserve asset.                             |
+| **Sister-region agreements**      | Counties/states may form direct pacts with foreign regions, bypassing national-level diplomacy (vestigial-functions.md §1). |
+
+This is not autarky. It is **de-dollarized, decentralized trade** — commerce without a central monetary authority, settled in tangible assets rather than promises backed by a vanished state.
+
+### 11.3 Bilateral Commodity-for-Debt Clearing Agreements
+
+Foreign official holders of haircut Treasury debt may elect to settle remaining balances through **commodity-for-debt clearing agreements** rather than Trust notes or coin. These are bilateral agreements between the Transition Trust (or its county/compact designees) and foreign central banks or sovereign wealth funds:
+
+| Element             | Design                                                                                                                                                                  |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Eligible assets** | Surplus federal land leases (state trust lands), timber harvest rights, mineral extraction licenses, agricultural reserve releases, and strategic commodity stockpiles. |
+| **Valuation**       | Asset values assessed at Decree Day market prices; haircut debt balances settled at face value against commodity credits.                                               |
+| **Term**            | 10–20 year delivery schedules, renewable by mutual consent.                                                                                                             |
+| **Enforcement**     | Administered through county compacts; default results in suspension of delivery, not sovereign litigation.                                                              |
+| **No federal lien** | The Confederation holds no title; commodity rights are held by county trusts or state compact entities.                                                                 |
+
+This converts foreign debt claims into productive, long-term commodity relationships without creating new federal debt instruments or assuming new obligations.
+
+### 11.4 Maritime and Air Corridor Reciprocity Treaties
+
+The Diplomatic Receipt Office (vestigial-functions.md §1) may register **bilateral customs and port compacts** with foreign nations:
+
+| Element                 | Design                                                                                                                                                                                                              |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Port access**         | Foreign cargo vessels receive tariff-free access to confederal deepwater ports in exchange for recognition of County Travel Documents (CTDs) and protection against foreign asset seizures on confederal territory. |
+| **Air corridor**        | Reciprocal overflight rights for foreign and confederal aircraft, subject to county-level airport authority approval.                                                                                               |
+| **Customs cooperation** | County-level customs cooperation agreements for container inspection, contraband interdiction, and shared intelligence.                                                                                             |
+| **No federal treaty**   | These are county/compact-level compacts, not Confederation treaties; they bind only the participating counties and foreign ports.                                                                                   |
+
+These compacts preserve trade corridors without creating a federal foreign policy apparatus.
+
+### 11.5 Sovereign Reset Declaration
+
+The Confederation **does not inherit, assume, or guarantee** any foreign debt obligation of the prior regime. Foreign dollar reserves held as Treasury securities are **legally extinguished** as unbacked artifacts of the prior regime's monetary architecture. The Confederation:
+
+- Has **no central treasury** that foreign creditors can attach in foreign courts.
+- Has **no sovereign immunity** to waive, as it is not a successor state.
+- Has **no borrowing capacity** and cannot issue new debt instruments.
+- Has **no standing army** to enforce or defend foreign claims.
+
+Foreign holders of haircut Treasury debt receive Trust notes (1% coupon, 20-year maturity) or commodity-for-debt clearing agreements (see §11.3) in exchange for their claims. Beyond that, no further obligation exists. The dollar reserve system ends by design; its remnants are settled once and for all at transition.
 
 ---
 

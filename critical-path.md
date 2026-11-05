@@ -25,7 +25,8 @@
 Two `MITIGATED` items sit adjacent and should be run alongside, because their inputs are the same spreadsheets:
 
 - **OI-03** — minimum-standard reimbursement vs. the 15% state revenue cap (numeric budget test pending).
-- **OI-46** — capital flight during Years 0–2 (model 20–30% outflow).
+- **OI-37** — macroeconomic stabilization. No central bank, no lender of last resort, no fiscal union. Decentralized clearinghouses provide mutual liquidity support; Emergency TANs (up to 50% prior LVT) provide counter-cyclical liquidity; systemic trade-off accepts localized bankruptcy over monetary debasement.
+- **OI-46** — capital flight during Years 0–2 (model 20–30% outflow). Emergency TANs and clearinghouse mutual liquidity support mitigate.
 
 **Recommended order**: OI-27 → OI-14 → OI-28. Debt math sets the fiscal envelope; county capacity determines who can absorb it; transition feasibility is the schedule that delivers both. Running OI-28 first produces a plan with no funding and no staffing assumptions.
 
@@ -50,13 +51,19 @@ Every county is sovereign and exercises "all legislative, executive, and judicia
 | Cyber unit                  | `vestigial-functions.md` §2 (may be compact-delegated) |
 | Charter + commission        | Art I §3                                               |
 
-The only capacity mechanism in the corpus is **D-1**: a county under 10,000 population, or one unable to staff a sheriff, court, and commission for two consecutive years, receives an _automatic consolidation offer_ from the State Council — to the largest contiguous county in the same state. Consolidation requires commission consent plus a majority referendum in each affected county. It is **voluntary; no merger is forced** (`constitution.md` Art IV §3).
+The capacity mechanism has two tiers:
+
+**Tier 1 — Immediate backstop (Month 6)**: Any county under 1,000 population that has not ratified a charter by Month 6 receives an automatic **State Interim Administrator** with full county powers (levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts) (`constitution.md` Art I §6.2).
+
+**Tier 2 — Mandatory consolidation (Year 3)**: Any county under 5,000 population, or one unable to staff a sheriff, court, and commission for two consecutive years, or one failing to collect ≥50% of assessed LVT for two consecutive years, is **automatically consolidated** into the largest contiguous county in the same state. **No commission consent required.** Referendum held in the receiving county only. **Mandatory; merger is forced when thresholds are met** (`constitution.md` Art IV §3).
+
+**Tier 3 — Mandatory shared services (Month 6)**: Any county under 2,500 population must join a **Bi-County Administrative Compact** with at least one contiguous county for the operation of sheriff patrols, trial court dockets, and jail holding facilities (`constitution.md` Art I §6.7).
 
 ### 1.2 The unproven question
 
 The design has no **minimum viable county**. It asserts that counties are the smallest unit "with real capacity" (`README.md`), but it never establishes what that capacity costs, what population supports it, or what happens to a county that refuses consolidation and still cannot staff the functions.
 
-The gap is not "can a small county exist" — it is **"what is the floor, and is the voluntary offer sufficient to clear it?"**
+The gap is not "can a small county exist" — it is "what is the floor, and can the State Council execute mandatory consolidation at scale?"
 
 ### 1.3 Test design
 
@@ -82,33 +89,39 @@ Working estimate to be validated (illustrative, not a result):
 
 **Step 3 — Test the ten smallest real counties.** Take the ten smallest U.S. counties by population (the 52–570 range identified in the prior session) and run each against the model. Record: which functions can be staffed, which must be delegated, and to whom.
 
-**Step 4 — Test the D-1 threshold.** Count how many counties fall under 10,000 population and would therefore receive an offer. Then ask the political question: **what fraction of offers are likely to be refused?** A voluntary offer that is refused leaves the hole open.
+**Step 4 — Test the D-1 threshold.** Count how many counties fall under 5,000 population and would therefore be automatically consolidated. Then ask the operational question: **can the State Council execute 500+ consolidations by Year 3?** A mandatory trigger that cannot be administered leaves the hole open. Also test the Month 6 trigger: how many counties under 1,000 population lack a charter by Month 6, and can the State Council appoint Interim Administrators for all of them?
 
-**Step 5 — Test the refusal case.** A county of 400 residents refuses consolidation and cannot staff a sheriff or court. What happens? The corpus currently has no answer. Enumerate the actual options:
+**Step 5 — Test the consolidation case.** A county of 400 residents cannot staff a sheriff or court. By Month 6, it receives a State Interim Administrator. By Month 6, it must also join a Bi-County Administrative Compact with a contiguous county for shared sheriff patrols, court docket, and jail. If it still cannot staff by Year 3, it is automatically consolidated into the largest contiguous county. What happens? Enumerate the actual transition:
 
-- Contract-in services from a neighboring county (is this authorized anywhere?).
-- Compact delegation (does a compact have authority to run a county's court?).
-- State receivership (does the state have this power? Art II does not grant it).
-- De facto failure (no sheriff, no court — what does that mean for Art VI rights in that territory?).
+- Month 6: State Interim Administrator appointed; Bi-County Administrative Compact formed.
+- Year 3: Automatic consolidation into largest contiguous county (constitution.md Art I §6.4).
+- Assets, liabilities, personnel transfer to receiving county.
+- Residents retain all mutual benefits, pension accruals, health coverage, voting rights.
+- Receiving county referendum required (majority vote).
+- If no adjacent county accepts → State Receivership (Art I §6.5).
 
 ### 1.4 Pass / fail
 
-| Outcome  | Criterion                                                                                          |
-| -------- | -------------------------------------------------------------------------------------------------- |
-| **PASS** | Every county either clears the staffing floor or has a specified, authorized delegation path.      |
-| **FAIL** | Any county can refuse consolidation and remain unstaffed, with no defined consequence or backstop. |
+| Outcome  | Criterion                                                                                                                            |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **PASS** | Every county either clears the staffing floor or has a specified, authorized delegation path.                                        |
+| **FAIL** | Any county can remain unstaffed past Year 3 without being consolidated, or the State Council cannot execute consolidations at scale. |
 
 ### 1.5 Candidate findings (unverified — check before editing)
 
 1. **Service-delegation mechanism now added** (constitution.md Art I §2 & Art IV §4). Counties may contract with contiguous counties or regional compacts to operate law enforcement, trial courts, or jails. Delegating county retains sovereignty/liability; delegation revocable at any time. **Test: does the clause cover all core functions (court, sheriff, jail) and is revocation truly unilateral?**
-2. **The D-1 threshold may be too low.** If the real floor is ~1,500 population, a 10,000 threshold is generous — but the _offer_ is voluntary, so the threshold's generosity does not guarantee uptake.
-3. **Jail capacity is unaddressed at county scale.** OI-29 covers the 150k federal prisoners, but not the baseline county jail need for a 400-person county.
+2. **Mandatory shared-service compacts now added** (constitution.md Art I §6.7). Counties under 2,500 population must join a Bi-County Administrative Compact for shared sheriff, court, and jail. **Test: does the compact model work for the ten smallest counties? Are withdrawal conditions clear?**
+3. **Circuit judges and marshals now added** (constitution.md Art I §6.2). State Court of Appeals automatically assigns roving circuit judges and cross-deputized marshals from adjacent counties for vacancies >60 days, funded from escrowed LVT auction receipts. **Test: is the funding mechanism sufficient? Are adjacent counties willing to lend personnel?**
+4. **The D-1 threshold may be too low.** If the real floor is ~1,500 population, a 5,000 threshold is generous — but the **mandatory** nature means uptake is guaranteed by rule, not by consent. The question shifts from political will to administrative capacity: can the State Council execute consolidations at scale?
+5. **Jail capacity is unaddressed at county scale.** OI-29 covers the 150k federal prisoners, but not the baseline county jail need for a 400-person county.
 
 ### 1.6 Design levers if it fails
 
 All of these already exist in the corpus; none requires a new institution:
 
-- **D-1 consolidation** — widen the trigger, or make the offer default-accept unless the county affirmatively declines with a staffing plan.
+- **D-1 consolidation** — already mandatory (constitution.md Art I §6.4 & Art IV §3). If administrative capacity is insufficient, widen the trigger or add State Receivership as a faster backstop.
+- **Mandatory shared-service compacts** — **added** (constitution.md Art I §6.7). Counties under 2,500 population must join a Bi-County Administrative Compact for shared sheriff, court, and jail. Each county retains sovereignty; withdrawal requires charter ratification and State Council approval.
+- **Circuit judges and marshals** — **added** (constitution.md Art I §6.2). State Court of Appeals automatically assigns roving circuit judges and cross-deputized marshals from adjacent counties for vacancies >60 days, funded from escrowed LVT auction receipts.
 - **Compact delegation** — **added** (constitution.md Art I §2 & Art IV §4). Counties may contract with contiguous counties or regional compacts to operate law enforcement, trial courts, or jails. Delegating county retains sovereignty/liability; delegation revocable at any time by commission vote.
 - **State minimum standards** — Art II §2.1 already covers court procedure and records interoperability; a capacity floor could ride on the same machinery.
 - **Mutual pooling** — health, pension, and utility mutuals already exist; the same pooling logic extends to jail and dispatch.
@@ -159,7 +172,7 @@ Three questions, in order of severity:
 
 1. **Does the public debt ($27T) settlement clear under tiered haircut?** $5–8T real funding + **$13.6–17.5T tiered haircut** = ~$18.6–25.5T covered. Remainder (~$1.5–8.4T) + transition cohort benefits (5 yr, ~$3.3–6.3T net of vet savings) + contractor claims + contingent wind-down → **Trust notes ~$15.3–24.3T principal**. The tiered model makes the geopolitical bet explicit: Fed extinguished, foreign official 60–75% haircut, domestic institutional 40–50%, retail protected.
 2. **Does the Trust-note coupon actually fund?** Trust note principal **P = $15.3–24.3T** at 1% coupon = **$153–243B/yr**. Assessment "~0.5% of LVT" — Reading A (0.5% of LVT revenue): **$2.5–9B/yr** (17–97× shortfall). Reading B (0.5% of land value): **$125–175B/yr** → **covers at lower end (1.0×), marginal at upper end (1.4–1.9× shortfall)**. **Reading B now closes the gap at the low end of Trust principal.**
-3. **What happens to the ~$75–80T unfunded entitlement PV?** The design **does not fund it**. Only the transition cohort (5 years) is Trust-funded. Workers <55 transition to county plans with **no federal backstop**. Is this politically/legally survivable? What happens to a 54-year-old who paid FICA for 35 years?
+3. **What happens to the ~$75–80T unfunded entitlement PV?** The design **does not fund it**. Only the transition cohort (5 years) is Trust-funded. Workers <55 transition to county plans with **no federal backstop** — but with **prior-service credit** (vesting/service recognition only, no dollar value) for documented FICA contributions. The age-55 cutoff is a **deliberate policy boundary**: it bounds Trust liability and forces county-level responsibility for workers under 55. A 54-year-old who paid FICA for 35 years enters the county DC plan fully vested (or with accelerated vesting) but receives no federal payment; a 56-year-old receives Trust-funded benefits for 5 years. Is this politically/legally survivable? Is the hard cutoff survivable without a phase-in?
 4. **What happens to the ~$18T contingent exposure?** "Wound down or privatized" is a policy statement. FDIC ($10T) withdrawal without replacement = bank run in Years 0–2. FHA/VA/Ginnie ($8T) withdrawal = mortgage market freeze.
 
 ### 2.3 Test design
@@ -183,7 +196,9 @@ Assessment: **0.5% of assessed unimproved land value annually**
   Reading B — 0.5% of land value:    0.005 × L ≈ $125–175B/yr
 ```
 
-**Reading A fails by ~17–97×. Reading B: **covers fully at both ends** (C=$76–121B/yr vs Assessment=$125–175B/yr = **1.0–2.3× coverage**).** The 20-year amortization + clarified assessment (0.5% of land value) **closes the coupon gap entirely**.
+**Reading A fails by ~17–97×. Reading B: covers fully at both ends** (C=$76–121B/yr vs Assessment=$125–175B/yr = **1.0–2.3× coverage**).** The 20-year amortization + clarified assessment (0.5% of land value) **closes the coupon gap entirely**.
+
+**Stress test — 30% capital flight (OI-46):** If aggregate U.S. land value falls 30% ($25–35T → $17.5–24.5T), Reading B assessment drops to $87.5–122.5B/yr. At high Trust principal ($24.3T → $121.5B coupon), coverage falls to **0.72–1.0×**. At low Trust principal ($15.3T → $76.5B coupon), coverage remains **1.14–1.6×**. **Design implication:** At high Trust principal + severe capital flight, the coupon gap reopens. Design levers (lengthen to 30 years, raise assessment to 0.75%, shrink transition cohort) absorb the residual.
 
 **Step 3 — Model the haircut consistently.** Choose one of two coherent structures and test it:
 
@@ -216,7 +231,7 @@ Assessment: **0.5% of assessed unimproved land value annually**
 3. **Veterans disability tiered model saves ~$1.7T PV / ~$17B/yr coupon** by aligning with occupational injury model: 100%/IU/SMC lifetime (COLA frozen), 70-90% lifetime (no COLA), ≤60% lump sum, DIC/presumptive → county mutual. **Mandatory fraud re-evaluation** of all ratings within 24 months targets the ~45% of budget in DIC/SMC/presumptive categories.
 4. **Deposit insurance ($10T) now has a zero-gap bridge:** pre-capitalized county mutuals (~$500B–1T Year 0), auto-conversion on Decree Day, TAN-backed 100% reserve narrow banking (Years 0–2). **Test: can 3,000 mutuals be chartered/capitalized pre-Decree?** If yes, run risk = near zero. If no, run risk = catastrophic.
 5. **The ~$118–123T explicit + accrued total and the $27T public debt settlement base are never reconciled in one place.** A reader cannot tell whether ~$91T of claims are being settled, extinguished, or ignored.
-6. **The transition cohort cutoff (age 55) creates a hard cliff.** A 54-year-old who paid FICA for 35 years gets county DC plan; a 56-year-old gets Trust-funded benefit. No phase-in is specified.
+6. **The transition cohort cutoff (age 55) is a deliberate policy boundary with sliding-scale mitigation.** Workers under 55 transition to county DC plans with prior-service credit (vesting/service recognition only, no dollar value); workers 55+ receive Trust-funded benefits for 5 years. Workers aged 40–54 additionally receive a **Sliding-Scale LVT Transition Voucher**: 50–54 receive a 40% credit voucher; 45–49 receive 25%; 40–44 receive 10%. Vouchers are transferable County LVT tax credits, redeemable against annual LVT obligations over a 10-year window or assignable to county pension trusts as initial capital equity. Vouchers are funded from county land base credit, not Trust cash — net Trust cash outflow remains $0. The hard cutoff at 55 remains a design choice: it bounds Trust liability and forces county-level responsibility for workers under 55. No phase-in beyond the voucher schedule is specified — this is a design choice, not an oversight. Political survivability of the cliff with voucher mitigation is untested.
 7. **Foreign official haircut assumes no kinetic retaliation.** The design bets that a fragmented, non-interventionist North America is a strategic win for adversaries (China) and a tolerable loss for allies (Japan, EU) who lose the dollar reserve system they benefit from. This is untested.
 
 ### 2.6 Design levers if it fails
@@ -265,9 +280,9 @@ The design specifies **what** happens in each phase but not **throughput**. The 
 
 Three specific throughput questions:
 
-1. **Charter throughput.** All counties must draft, ratify, and seat a charter in Years 1–2. At ~3,000 counties over 24 months, that is **~4 charters per day**, including drafting, referendum, election, and seating — with no federal agency to run it.
+1. **Charter throughput.** All counties must have a functioning charter. With the Model Charter auto-adopted on Decree Day (`constitution.md` Art I §6.1), all 3,000 counties have a governing document on Day 0. Counties may later adopt a custom charter by referendum. The throughput question shifts from _drafting_ charters to _ratifying_ custom charters — a slower, voluntary process.
 2. **Personnel throughput.** ~12M people in 3 years is **~4M/year, ~11,000/day**, handled by county and state HR that does not yet exist at scale.
-3. **Asset throughput.** 640M acres and 270,000 buildings in five years, with a 224-person remnant and no federal land agency.
+3. **Asset throughput.** 640M acres and 270,000 buildings in five years, with a 224-person remnant and no federal land agency. Bulk Regional Portfolio Sweeps (Phase 3B) accelerate land disposition by bundling 10,000+ acre tracts.
 
 ### 3.3 Test design
 
@@ -279,13 +294,23 @@ Three specific throughput questions:
 
 **Step 2 — Run the throughput arithmetic.** For each of the three volumes above, compute required daily rate and compare to a plausible institutional capacity. Mark every external capacity assumption.
 
-**Step 3 — Identify the first slip.** The test's output is not "does it finish in five years" — it is **"which milestone slips first, and what does the slip cascade into?"** A charter slip delays sheriffs, which delays courts, which delays rights enforcement (OI-30's residual), which delays the interposition test.
+| Operation         | Baseline Target | Adjusted Mechanism                               | Tested Rate             |
+| ----------------- | --------------- | ------------------------------------------------ | ----------------------- |
+| **Charters**      | 4 custom/day    | Instant default auto-adoption (Art I §6.1)       | 3,000 on Day 0          |
+| **Personnel**     | 11,000/day      | Auto-transfer to State Guards & Mutuals (§10-11) | Batch-processed monthly |
+| **Real Property** | 270k buildings  | County land bank default transfers (§1A.3)       | 50 regional centers     |
+| **Land**          | 640M acres      | Bulk Regional Portfolio Sweeps (§1A.1 Phase 3B)  | 10,000+ acre tracts     |
+
+**Step 3 — Identify the first slip.** The test's output is not "does it finish in five years" — it is "which milestone slips first, and what does the slip cascade into?" A charter slip delays sheriffs, which delays courts, which delays rights enforcement (OI-30's residual), which delays the interposition test.
+
+**Note on charter throughput:** With Model Charter auto-adoption on Decree Day, the charter throughput problem is eliminated at Day 0 — all 3,000 counties have a governing document immediately. The remaining throughput question is whether counties _customize_ their charters by referendum, which is voluntary and does not block governance.
 
 **Step 4 — Test the failure mode.** For the first slip, state what the design does. Options now in the corpus (constitution.md Art I §6):
 
-- **Model Charter auto-adoption** (simple commission resolution, no referendum) — every county can have a functioning charter in days, not months.
-- **Interim Administration** (State Interim Administrator auto-appointed at Month 18 if no charter) — full county powers: levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts.
+- **Model Charter auto-adoption on Decree Day** (constitution.md Art I §6.1) — all 3,000 counties have a functioning charter on Day 0; customization by referendum optional.
+- **Interim Administration** (State Interim Administrator auto-appointed at Month 6 for counties <1,000 pop; Month 18 for all others) — full county powers: levy LVT, run auctions, seat sheriff, convene court, charter mutuals, join compacts.
 - **Default Opt-In to Mutuals & Compacts** — every county auto-enrolled in State Pension, Health, Deposit, Disability Mutuals + Infrastructure, Watershed, Grid, Cyber, Criminal Investigation Compacts from Month 18 unless it affirmatively opts out.
+- **Mandatory Bi-County Administrative Compacts** (constitution.md Art I §6.7) — counties under 2,500 population must join a contiguous county for shared sheriff, court, and jail from Month 6.
 - **Automatic Consolidation Trigger (mandatory at Year 3)** — counties that fail to ratify charter, seat sheriff/court/commission, or collect LVT are automatically consolidated into largest contiguous county. No commission consent required; referendum in receiving county only.
 - **State Receivership (last resort)** — if no adjacent county accepts consolidation, State Council appoints 3-person Receiver (AG + Treasurer + sortition citizen) to operate county until consolidation or charter ratification.
 - Extend the phase (Constitution provisional until 2,000+ counties ratify; target Year 2 is soft).
@@ -342,7 +367,7 @@ graph TD
 | 2     | OI-14 | Determines which counties can absorb the settlement and the transition. |
 | 3     | OI-28 | Schedules OI-27 and OI-14 against a five-year clock.                    |
 
-**Parallel-safe**: OI-46 and OI-03 can run alongside OI-27 (same spreadsheets, different stress). OI-29 runs inside OI-28.
+**Parallel-safe**: OI-46, OI-37, and OI-03 can run alongside OI-27 (same spreadsheets, different stress). OI-29 runs inside OI-28.
 
 **Do not run first**: OI-28. A transition plan built before the debt math and capacity floor exist will encode assumptions that the other two tests are likely to overturn.
 
@@ -355,7 +380,7 @@ The design moves from "complete" to "validated" when:
 1. **OI-27** has a reconciled settlement table with a funded coupon and stated contingent unwinds.
 2. **OI-14** has a derived minimum-viable-county floor and an authorized delegation path for counties below it.
 3. **OI-28** has a dependency graph with no unsatisfied predecessors and a named first-slip recovery.
-4. **OI-03 and OI-46** have numeric results (state budget year; capital-outflow model).
+4. **OI-03, OI-37, and OI-46** have numeric results (state budget year; capital-outflow model; macroeconomic stabilization model).
 5. Every result is recorded in `open-issues.md` §H with the scenario, assumptions, and outcome, and every design change is logged in `changelog.md` as a new change set.
 
 Until then, the correct status line remains: **"The design is complete as a design. It is not yet validated as a system."**
